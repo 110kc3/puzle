@@ -1,0 +1,9 @@
+name = "wcw-stats"
+main = "src/index.ts"
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "wcw-stats"
+# Fill in after `wrangler d1 create wcw-stats` (see worker/README.md):
+database_id = "REPLACE_ME"

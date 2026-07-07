@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS guesses (
+  day TEXT NOT NULL,
+  ip_hash TEXT NOT NULL,
+  choice INTEGER NOT NULL,
+  PRIMARY KEY (day, ip_hash)
+);
+
+CREATE TABLE IF NOT EXISTS counts (
+  day TEXT NOT NULL,
+  choice INTEGER NOT NULL,
+  n INTEGER NOT NULL DEFAULT 0,
+  PRIMARY KEY (day, choice)
+);

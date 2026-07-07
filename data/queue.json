@@ -1,0 +1,40 @@
+{
+  "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
+  "queue": [
+    {
+      "headline": "500 złotych mandatu za sprzedanie butelki wody bez paragonu",
+      "outlet": "wykop",
+      "url": "https://wykop.pl/link/7973717/500-zlotych-mandatu-za-sprzedanie-butelki-wody-bez-paragonu"
+    },
+    {
+      "headline": "To nie będzie spokojny początek tygodnia. Pogoda szykuje niemiłą niespodziankę",
+      "outlet": "republika",
+      "url": "https://tvrepublika.pl/Polska/To-nie-bedzie-spokojny-poczatek-tygodnia/217169"
+    },
+    {
+      "headline": "Wojsko zabierze Polakom auta i domy? To rosyjska dezinformacja",
+      "outlet": "wyborcza",
+      "url": "https://wyborcza.pl/7,75398,32867725,wojsko-zabierze-polakom-auta-i-domy-to-rosyjska.html"
+    },
+    {
+      "headline": "Sami zrobiliśmy z pizzy produkt luksusowy. We Włoszech jedzą ją za 2€",
+      "outlet": "wykop",
+      "url": "https://wykop.pl/link/7973551/sami-zrobilismy-z-pizzy-produkt-luksusowy-we-wloszech-jedza-ja-za-2"
+    },
+    {
+      "headline": "Donald Trump ostrzega: Odradza się zagrożenie ze strony komunistów",
+      "outlet": "republika",
+      "url": "https://tvrepublika.pl/Swiat/Trump-Odradza-sie-komunistyczne-zagrozenie/217071"
+    },
+    {
+      "headline": "Sikorski zakpił z Putina i wskazał, co go zatrzyma. \"Ma numer do Zełenskiego\"",
+      "outlet": "fakt",
+      "url": "https://www.fakt.pl/wydarzenia/radoslaw-sikorski-wladimir-putin-ma-numer-do-wolodymyra-zelenskiego/9ltyvv6"
+    },
+    {
+      "headline": "Miasta w północnej Nigerii są otaczane wałami i fosami, jak w średniowieczu",
+      "outlet": "wyborcza",
+      "url": "https://wyborcza.pl/7,75399,32896169,miasta-w-polnocnej-nigerii-sa-otaczane-walami-i-fosami-jak.html"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+> plan a game "Wykop czy Wyborcza" — the headline game. Daily: one real headline, stripped of source. Guess which outlet published it (4 options spanning the spectrum). Fun because Polish media polarization means everyone thinks they can tell, and being wrong is genuinely surprising.
+
+I'll plan this out. First, a quick look at what's in the puzle repo (it looks freshly initialized), then I'll ask you a few design questions before drafting the plan.
+
+  Searched for 1 pattern, ran 1 shell command
+
+● User answered Claude's questions:
+· What stack and hosting should the game use? → Vite + React static (Recommended)
+· How should the daily headline be sourced and selected? → RSS + weekly human curation
+· Which outlet lineup should the 4 answer options be? → Wyborcza · Wykop · Republika · Fakt (Recommended)
+· Beyond the core loop (daily headline → one guess → reveal with source link → streak + Wordle-style emoji share), what should the MVP include? → Global guess distribution (Recommended), Archive of past days
+
+● Backgrounding after the current tool finishes…

@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: Georgia, "Iowan Old Style", "Times New Roman", serif;
+}
+
+html {
+  scrollbar-gutter: stable;
+}

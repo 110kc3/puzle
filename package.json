@@ -1,0 +1,33 @@
+{
+  "name": "puzle",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Wykop czy Wyborcza? — codzienna zagadka: zgadnij, kto opublikował ten nagłówek",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "gather": "tsx scripts/gather.ts",
+    "publish:daily": "tsx scripts/publish.ts"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.5.0",
+    "fast-xml-parser": "^5.2.0",
+    "tailwindcss": "^4.1.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0",
+    "vite": "^6.3.0",
+    "vitest": "^3.1.0"
+  }
+}

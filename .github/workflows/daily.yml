@@ -1,0 +1,53 @@
+# Gathers fresh headline candidates and publishes today's puzzle from the
+# curated queue, then redeploys Pages. The daily commits also keep GitHub
+# from auto-disabling this schedule after 60 days of repo inactivity.
+name: Daily puzzle
+
+on:
+  schedule:
+    - cron: '30 2 * * *' # 03:30/04:30 Warsaw — publish today's puzzle + gather
+    - cron: '30 13 * * *' # midday gather so evening headlines aren't missed; publish is a no-op
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-puzzle
+  cancel-in-progress: false
+
+jobs:
+  puzzle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Gather candidates
+        run: npm run gather
+      - name: Publish today's puzzle
+        run: npm run publish:daily
+      - name: Commit & push
+        run: |
+          git config user.name "wcw-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data public/puzzles
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "daily: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+  # Pushes made with GITHUB_TOKEN do not trigger the `on: push` deploy
+  # workflow, so deploy explicitly after the puzzle job.
+  deploy:
+    needs: puzzle
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
