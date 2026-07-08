@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "500 złotych mandatu za sprzedanie butelki wody bez paragonu",
-      "outlet": "wykop",
-      "url": "https://wykop.pl/link/7973717/500-zlotych-mandatu-za-sprzedanie-butelki-wody-bez-paragonu"
-    },
-    {
       "headline": "To nie będzie spokojny początek tygodnia. Pogoda szykuje niemiłą niespodziankę",
       "outlet": "republika",
       "url": "https://tvrepublika.pl/Polska/To-nie-bedzie-spokojny-poczatek-tygodnia/217169"
