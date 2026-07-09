@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "To nie będzie spokojny początek tygodnia. Pogoda szykuje niemiłą niespodziankę",
-      "outlet": "republika",
-      "url": "https://tvrepublika.pl/Polska/To-nie-bedzie-spokojny-poczatek-tygodnia/217169"
-    },
-    {
       "headline": "Wojsko zabierze Polakom auta i domy? To rosyjska dezinformacja",
       "outlet": "wyborcza",
       "url": "https://wyborcza.pl/7,75398,32867725,wojsko-zabierze-polakom-auta-i-domy-to-rosyjska.html"
