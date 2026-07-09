@@ -39,6 +39,10 @@ jobs:
           # e.g. https://wcw-stats.<account>.workers.dev
           VITE_STATS_URL: ${{ vars.VITE_STATS_URL }}
       - uses: actions/configure-pages@v5
+        with:
+          # Self-heal if Pages ever gets disabled (e.g. after a spell of repo
+          # inactivity) instead of failing the deploy.
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
