@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Donald Trump ostrzega: Odradza się zagrożenie ze strony komunistów",
-      "outlet": "republika",
-      "url": "https://tvrepublika.pl/Swiat/Trump-Odradza-sie-komunistyczne-zagrozenie/217071"
-    },
-    {
       "headline": "Sikorski zakpił z Putina i wskazał, co go zatrzyma. \"Ma numer do Zełenskiego\"",
       "outlet": "fakt",
       "url": "https://www.fakt.pl/wydarzenia/radoslaw-sikorski-wladimir-putin-ma-numer-do-wolodymyra-zelenskiego/9ltyvv6"
