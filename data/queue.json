@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Sikorski zakpił z Putina i wskazał, co go zatrzyma. \"Ma numer do Zełenskiego\"",
-      "outlet": "fakt",
-      "url": "https://www.fakt.pl/wydarzenia/radoslaw-sikorski-wladimir-putin-ma-numer-do-wolodymyra-zelenskiego/9ltyvv6"
-    },
-    {
       "headline": "Miasta w północnej Nigerii są otaczane wałami i fosami, jak w średniowieczu",
       "outlet": "wyborcza",
       "url": "https://wyborcza.pl/7,75399,32896169,miasta-w-polnocnej-nigerii-sa-otaczane-walami-i-fosami-jak.html"
