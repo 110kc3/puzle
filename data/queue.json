@@ -1,4 +1,125 @@
 {
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
-  "queue": []
+  "queue": [
+    {
+      "headline": "Julija Swyrydenko odwołana ze stanowiska premiera Ukrainy",
+      "outlet": "onet",
+      "url": "https://wiadomosci.onet.pl/swiat/julija-swyrydenko-odwolana-ze-stanowiska-premiera-ukrainy/nvj4285"
+    },
+    {
+      "headline": "Specjalnie przyleciała do Polski. Na naszych plażach szuka skarbów. \"Jednej rzeczy są tony\"",
+      "outlet": "fakt",
+      "url": "https://www.fakt.pl/wydarzenia/polska/trojmiasto/szuka-skarbow-w-stegnie-wykrywacz-znajduje-tony-kapsli-od-butelek/6r88t2w"
+    },
+    {
+      "headline": "Matecki nie cackał się z Czarzastym. W Sejmie padło: CZERWONY KOMUCHU",
+      "outlet": "republika",
+      "url": "https://tvrepublika.pl/Polska/CZERWONY-KOMUCHU-tak-Matecki-odpowiedzial-Czarzastemu/217738"
+    },
+    {
+      "headline": "Nowa tarcza antyrakietowa nad Europą. Dlaczego Polska nie dołączyła do projektu Ukrainy?",
+      "outlet": "wyborcza",
+      "url": "https://wyborcza.pl/7,75398,32911416,nowa-tarcza-antyrakietowa-nad-europa-dlaczego-polska-nie-dolaczyla.html"
+    },
+    {
+      "headline": "Trzech lekarzy wystawiło 56,6 tys. zwolnień L4 w rok. Tak się zarabia miliony",
+      "outlet": "wykop",
+      "url": "https://wykop.pl/link/7978891/trzech-lekarzy-wystawilo-56-6-tys-zwolnien-l4-w-rok-tak-sie-zarabia-miliony"
+    },
+    {
+      "headline": "Tak rząd chce regulować najem krótkoterminowy. „Hulaj dusza, piekła nie ma”",
+      "outlet": "zero",
+      "url": "https://zero.pl/news/rzad-podjal-decyzje-ws-najmu-krotkoterminowego-wazne-zmiany-w-projekcie"
+    },
+    {
+      "headline": "Niebezpieczna pogoda w Polsce. Alerty 3 stopnia: potężne burze i nawałnice",
+      "outlet": "fakt",
+      "url": "https://www.fakt.pl/wydarzenia/pogoda/gdzie-jest-burza-najgorsze-dopiero-nadciaga-wskazuja-regiony-mapa-zagrozen/57sbqsf"
+    },
+    {
+      "headline": "Rosjanie demontują transformatory na Krymie. Brakuje im kluczowego sprzętu",
+      "outlet": "onet",
+      "url": "https://wiadomosci.onet.pl/swiat/rosjanie-demontuja-transformatory-na-krymie-brakuje-im-kluczowego-sprzetu/eh3t5hl"
+    },
+    {
+      "headline": "USA ogłaszają krucjatę przeciw Międzynarodowemu Trybunałowi Karnemu",
+      "outlet": "wyborcza",
+      "url": "https://wyborcza.pl/7,75399,32912222,usa-oglaszaja-krucjate-przeciw-miedzynarodowemu-trybunalowi.html"
+    },
+    {
+      "headline": "Niemcy w amoku. Z nienawiści do Trumpa chcą zmontować antyamerykański sojusz w Europie",
+      "outlet": "republika",
+      "url": "https://tvrepublika.pl/Swiat/Obled-Niemcy-wzywaja-do-zjednoczenia-Europy-przeciwko-Trumpowi/217414"
+    },
+    {
+      "headline": "Nie obejrzałem tego mundialu i pewnie nie obejrzę kolejnego. Infantino zrobił z tego jakiegoś Netflixa",
+      "outlet": "zero",
+      "url": "https://zero.pl/news/fifa-i-mundial-2030-gianni-infantino-chce-zeby-zagraly-na-nim-64-druzyny-to-jakies-nieporozumienie"
+    },
+    {
+      "headline": "Gołębiarz urwał głowę młodemu jastrzębiowi!",
+      "outlet": "wykop",
+      "url": "https://wykop.pl/link/7978857/golebiarz-urwal-glowe-mlodemu-jastrzebiowi"
+    },
+    {
+      "headline": "Pożar wieżowca w centrum Brukseli. Z wind wydobyto kilka ciał",
+      "outlet": "onet",
+      "url": "https://wiadomosci.onet.pl/swiat/tragiczny-pozar-wiezowca-w-brukseli-zginelo-co-najmniej-kilka-osob/zcqjh5g"
+    },
+    {
+      "headline": "20-letni pilot \"pisał\" na niebie podczas lotu. Internauci znaleźli ukrytą wiadomość",
+      "outlet": "fakt",
+      "url": "https://www.fakt.pl/wydarzenia/swiat/nietypowy-lot-testowy-ravenair-kolo-liverpoolu-pilot-wykreslil-napis-na-niebie/952g9qp"
+    },
+    {
+      "headline": "PAN szuka ponad miliarda złotych na narodowe Muzeum Historii Naturalnej",
+      "outlet": "wyborcza",
+      "url": "https://wyborcza.pl/7,75400,32912092,pan-szuka-ponad-miliarda-zlotych-na-narodowe-muzeum-historii.html"
+    },
+    {
+      "headline": "Sadownicy alarmują: tureckie czereśnie zalewają polski rynek",
+      "outlet": "republika",
+      "url": "https://tvrepublika.pl/Ekonomia/Myslisz-ze-kupujesz-polska-czeresnie-Grubo-sie-mylisz/217732"
+    },
+    {
+      "headline": "240 zł za godzinę dla lekarzy ? W szpitalach wypłaty po 100 tys.zł to norma",
+      "outlet": "wykop",
+      "url": "https://wykop.pl/link/7978811/240-zl-za-godzine-dla-lekarzy-w-szpitalach-wyplaty-po-100-tys-zl-to-norma"
+    },
+    {
+      "headline": "Popularny model Skody idzie pod nóż. Aż trudno uwierzyć, że nie będzie Fabii",
+      "outlet": "zero",
+      "url": "https://zero.pl/news/skoda-konczy-produkcje-fabii-wysoka-sprzedaz-bywa-przeklenstwem"
+    },
+    {
+      "headline": "Wojna o prowiant na włoskich plażach. Na to uważaj na wakacjach",
+      "outlet": "fakt",
+      "url": "https://www.fakt.pl/wydarzenia/swiat/wojna-o-kanapki-z-domu-na-plazy-we-wloszech-szkodzi-wizerunkowi/d892t1r"
+    },
+    {
+      "headline": "Węgrzy wskazali najgorszego polityka. Są wyniki nowego sondażu",
+      "outlet": "onet",
+      "url": "https://wiadomosci.onet.pl/swiat/viktor-orban-najmniej-popularnym-politykiem-na-wegrzech-jest-sondaz/jg8f45n"
+    },
+    {
+      "headline": "Aktor za mniej niż minimalną. W Sejmie rozgorzała dyskusja o ubezpieczeniach artystów",
+      "outlet": "wyborcza",
+      "url": "https://wyborcza.pl/7,75410,32912576,aktor-za-mniej-niz-minimalna-w-sejmie-rozgorzala-dyskusja-o.html"
+    },
+    {
+      "headline": "Gmyz: Ursula von der Leyen powinna siedzieć w więzieniu za szczepionki",
+      "outlet": "republika",
+      "url": "https://tvrepublika.pl/Polityka/Gmyz-To-grozi-paralizem-polskiego-nieba/217447"
+    },
+    {
+      "headline": "Nie chciał przejechać psa więc wywrócił się na motocyklu. Pies go pogryzł",
+      "outlet": "wykop",
+      "url": "https://wykop.pl/link/7978701/nie-chcial-przejechac-psa-wiec-wywrocil-sie-na-motocyklu-pies-go-pogryzl"
+    },
+    {
+      "headline": "DIOZ zbierał na ośrodek dla zwierząt. Kupił ktoś inny i zrobił festiwal techno",
+      "outlet": "zero",
+      "url": "https://zero.pl/news/dioz-promowal-wsrod-darczyncow-inwestycje-w-osrodek-dla-zwierzat-nieruchomosc-kupila-inna-fundacja-a-teraz-odbyl-sie-tam-festiwal-techno"
+    }
+  ]
 }
