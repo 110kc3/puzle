@@ -46,6 +46,20 @@ pokazywać real + 5 losowych wabików z większej puli (patrz niżej).
 - [ ] Auto-podpowiedzi kuratorskie: heurystyczny ranking kandydatów (długość, brak nazwisk, "ambiguity score") na górze `candidates.json`
 - [ ] Powiadomienie/issue na GitHubie, gdy kolejka < 3 (teraz tylko czerwony Action)
 
+> **Kolejka wyczerpała się 2026-07-14 i `Daily puzzle` padał dwa razy dziennie
+> przez 11 dni** (`!!! QUEUE EMPTY`). Nic nie było zepsute — `gather` nadal
+> cache'uje ~900 kandydatów, `publish` działa; po prostu skończyły się
+> wyselekcjonowane wpisy. Uzupełniono 2026-07-25 o 24 zagadki (po 4 na każdą z
+> sześciu redakcji, rotacja tak, by dwa kolejne dni nie miały tej samej —
+> powtórka zamienia wczorajszą odpowiedź w darmową podpowiedź). **Starczy do
+> ok. 2026-08-18.** To dlatego powyższy punkt jest wart zrobienia: czerwony
+> Action nikogo nie budzi, a strona po prostu nie ma zagadki na dany dzień.
+>
+> Uzupełniając ręcznie: wybieraj z `data/candidates.json`, sprawdź `headline`
+> względem `data/published.json` (bez powtórek) i trzymaj rotację redakcji.
+> `WCW_DATE=YYYY-MM-DD npm run publish:daily` na kopii repo pozwala sprawdzić
+> kolejkę bez konsumowania jej naprawdę.
+
 ## Techniczne
 
 - [ ] Proxy/cache obrazków (np. wsrv.nl) — odporność na zmiany CDN-ów i hotlink-blokady
