@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Matecki nie cackał się z Czarzastym. W Sejmie padło: CZERWONY KOMUCHU",
-      "outlet": "republika",
-      "url": "https://tvrepublika.pl/Polska/CZERWONY-KOMUCHU-tak-Matecki-odpowiedzial-Czarzastemu/217738"
-    },
-    {
       "headline": "Nowa tarcza antyrakietowa nad Europą. Dlaczego Polska nie dołączyła do projektu Ukrainy?",
       "outlet": "wyborcza",
       "url": "https://wyborcza.pl/7,75398,32911416,nowa-tarcza-antyrakietowa-nad-europa-dlaczego-polska-nie-dolaczyla.html"
