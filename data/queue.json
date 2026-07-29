@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Trzech lekarzy wystawiło 56,6 tys. zwolnień L4 w rok. Tak się zarabia miliony",
-      "outlet": "wykop",
-      "url": "https://wykop.pl/link/7978891/trzech-lekarzy-wystawilo-56-6-tys-zwolnien-l4-w-rok-tak-sie-zarabia-miliony"
-    },
-    {
       "headline": "Tak rząd chce regulować najem krótkoterminowy. „Hulaj dusza, piekła nie ma”",
       "outlet": "zero",
       "url": "https://zero.pl/news/rzad-podjal-decyzje-ws-najmu-krotkoterminowego-wazne-zmiany-w-projekcie"
