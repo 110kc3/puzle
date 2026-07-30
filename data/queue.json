@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Tak rząd chce regulować najem krótkoterminowy. „Hulaj dusza, piekła nie ma”",
-      "outlet": "zero",
-      "url": "https://zero.pl/news/rzad-podjal-decyzje-ws-najmu-krotkoterminowego-wazne-zmiany-w-projekcie"
-    },
-    {
       "headline": "Niebezpieczna pogoda w Polsce. Alerty 3 stopnia: potężne burze i nawałnice",
       "outlet": "fakt",
       "url": "https://www.fakt.pl/wydarzenia/pogoda/gdzie-jest-burza-najgorsze-dopiero-nadciaga-wskazuja-regiony-mapa-zagrozen/57sbqsf"
