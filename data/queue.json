@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Niebezpieczna pogoda w Polsce. Alerty 3 stopnia: potężne burze i nawałnice",
-      "outlet": "fakt",
-      "url": "https://www.fakt.pl/wydarzenia/pogoda/gdzie-jest-burza-najgorsze-dopiero-nadciaga-wskazuja-regiony-mapa-zagrozen/57sbqsf"
-    },
-    {
       "headline": "Rosjanie demontują transformatory na Krymie. Brakuje im kluczowego sprzętu",
       "outlet": "onet",
       "url": "https://wiadomosci.onet.pl/swiat/rosjanie-demontuja-transformatory-na-krymie-brakuje-im-kluczowego-sprzetu/eh3t5hl"
