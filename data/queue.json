@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "USA ogłaszają krucjatę przeciw Międzynarodowemu Trybunałowi Karnemu",
-      "outlet": "wyborcza",
-      "url": "https://wyborcza.pl/7,75399,32912222,usa-oglaszaja-krucjate-przeciw-miedzynarodowemu-trybunalowi.html"
-    },
-    {
       "headline": "Niemcy w amoku. Z nienawiści do Trumpa chcą zmontować antyamerykański sojusz w Europie",
       "outlet": "republika",
       "url": "https://tvrepublika.pl/Swiat/Obled-Niemcy-wzywaja-do-zjednoczenia-Europy-przeciwko-Trumpowi/217414"
