@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Niemcy w amoku. Z nienawiści do Trumpa chcą zmontować antyamerykański sojusz w Europie",
-      "outlet": "republika",
-      "url": "https://tvrepublika.pl/Swiat/Obled-Niemcy-wzywaja-do-zjednoczenia-Europy-przeciwko-Trumpowi/217414"
-    },
-    {
       "headline": "Nie obejrzałem tego mundialu i pewnie nie obejrzę kolejnego. Infantino zrobił z tego jakiegoś Netflixa",
       "outlet": "zero",
       "url": "https://zero.pl/news/fifa-i-mundial-2030-gianni-infantino-chce-zeby-zagraly-na-nim-64-druzyny-to-jakies-nieporozumienie"
