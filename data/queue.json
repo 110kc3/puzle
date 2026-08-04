@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Nie obejrzałem tego mundialu i pewnie nie obejrzę kolejnego. Infantino zrobił z tego jakiegoś Netflixa",
-      "outlet": "zero",
-      "url": "https://zero.pl/news/fifa-i-mundial-2030-gianni-infantino-chce-zeby-zagraly-na-nim-64-druzyny-to-jakies-nieporozumienie"
-    },
-    {
       "headline": "Gołębiarz urwał głowę młodemu jastrzębiowi!",
       "outlet": "wykop",
       "url": "https://wykop.pl/link/7978857/golebiarz-urwal-glowe-mlodemu-jastrzebiowi"
