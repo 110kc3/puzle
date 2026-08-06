@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Pożar wieżowca w centrum Brukseli. Z wind wydobyto kilka ciał",
-      "outlet": "onet",
-      "url": "https://wiadomosci.onet.pl/swiat/tragiczny-pozar-wiezowca-w-brukseli-zginelo-co-najmniej-kilka-osob/zcqjh5g"
-    },
-    {
       "headline": "20-letni pilot \"pisał\" na niebie podczas lotu. Internauci znaleźli ukrytą wiadomość",
       "outlet": "fakt",
       "url": "https://www.fakt.pl/wydarzenia/swiat/nietypowy-lot-testowy-ravenair-kolo-liverpoolu-pilot-wykreslil-napis-na-niebie/952g9qp"
