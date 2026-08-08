@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "PAN szuka ponad miliarda złotych na narodowe Muzeum Historii Naturalnej",
-      "outlet": "wyborcza",
-      "url": "https://wyborcza.pl/7,75400,32912092,pan-szuka-ponad-miliarda-zlotych-na-narodowe-muzeum-historii.html"
-    },
-    {
       "headline": "Sadownicy alarmują: tureckie czereśnie zalewają polski rynek",
       "outlet": "republika",
       "url": "https://tvrepublika.pl/Ekonomia/Myslisz-ze-kupujesz-polska-czeresnie-Grubo-sie-mylisz/217732"
