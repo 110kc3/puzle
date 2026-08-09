@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Sadownicy alarmują: tureckie czereśnie zalewają polski rynek",
-      "outlet": "republika",
-      "url": "https://tvrepublika.pl/Ekonomia/Myslisz-ze-kupujesz-polska-czeresnie-Grubo-sie-mylisz/217732"
-    },
-    {
       "headline": "240 zł za godzinę dla lekarzy ? W szpitalach wypłaty po 100 tys.zł to norma",
       "outlet": "wykop",
       "url": "https://wykop.pl/link/7978811/240-zl-za-godzine-dla-lekarzy-w-szpitalach-wyplaty-po-100-tys-zl-to-norma"
