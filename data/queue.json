@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "240 zł za godzinę dla lekarzy ? W szpitalach wypłaty po 100 tys.zł to norma",
-      "outlet": "wykop",
-      "url": "https://wykop.pl/link/7978811/240-zl-za-godzine-dla-lekarzy-w-szpitalach-wyplaty-po-100-tys-zl-to-norma"
-    },
-    {
       "headline": "Popularny model Skody idzie pod nóż. Aż trudno uwierzyć, że nie będzie Fabii",
       "outlet": "zero",
       "url": "https://zero.pl/news/skoda-konczy-produkcje-fabii-wysoka-sprzedaz-bywa-przeklenstwem"
