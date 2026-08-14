@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Aktor za mniej niż minimalną. W Sejmie rozgorzała dyskusja o ubezpieczeniach artystów",
-      "outlet": "wyborcza",
-      "url": "https://wyborcza.pl/7,75410,32912576,aktor-za-mniej-niz-minimalna-w-sejmie-rozgorzala-dyskusja-o.html"
-    },
-    {
       "headline": "Gmyz: Ursula von der Leyen powinna siedzieć w więzieniu za szczepionki",
       "outlet": "republika",
       "url": "https://tvrepublika.pl/Polityka/Gmyz-To-grozi-paralizem-polskiego-nieba/217447"
