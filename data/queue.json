@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Nie chciał przejechać psa więc wywrócił się na motocyklu. Pies go pogryzł",
-      "outlet": "wykop",
-      "url": "https://wykop.pl/link/7978701/nie-chcial-przejechac-psa-wiec-wywrocil-sie-na-motocyklu-pies-go-pogryzl"
-    },
-    {
       "headline": "DIOZ zbierał na ośrodek dla zwierząt. Kupił ktoś inny i zrobił festiwal techno",
       "outlet": "zero",
       "url": "https://zero.pl/news/dioz-promowal-wsrod-darczyncow-inwestycje-w-osrodek-dla-zwierzat-nieruchomosc-kupila-inna-fundacja-a-teraz-odbyl-sie-tam-festiwal-techno"
