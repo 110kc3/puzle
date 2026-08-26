@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Jak zmiana poglądów politycznych zmienia aktywność mózgu?",
-      "outlet": "wyborcza",
-      "url": "https://wyborcza.pl/7,75400,32966585,jak-zmiana-pogladow-politycznych-zmienia-aktywnosc-mozgu.html"
-    },
-    {
       "headline": "Paczka przytyła 25kg w sortowni, więc będzie +400 PLN. UOKiK wkracza",
       "outlet": "wykop",
       "url": "https://wykop.pl/link/7997119/paczka-przytyla-25kg-w-sortowni-wiec-bedzie-400-pln-uokik-wkracza"
