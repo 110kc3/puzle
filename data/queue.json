@@ -1,4 +1,125 @@
 {
-  "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
-  "queue": []
+  "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
+  "queue": [
+    {
+      "headline": "Jak zmiana poglądów politycznych zmienia aktywność mózgu?",
+      "outlet": "wyborcza",
+      "url": "https://wyborcza.pl/7,75400,32966585,jak-zmiana-pogladow-politycznych-zmienia-aktywnosc-mozgu.html"
+    },
+    {
+      "headline": "Paczka przytyła 25kg w sortowni, więc będzie +400 PLN. UOKiK wkracza",
+      "outlet": "wykop",
+      "url": "https://wykop.pl/link/7997119/paczka-przytyla-25kg-w-sortowni-wiec-bedzie-400-pln-uokik-wkracza"
+    },
+    {
+      "headline": "Nowy trik na jajka. Żółtko wychodzi idealnie płynne",
+      "outlet": "republika",
+      "url": "https://tvrepublika.pl/Kulinarne-inspiracje/Sposob-na-idealne-jajka-w-koszulce/219892"
+    },
+    {
+      "headline": "Zdemolowała jej mieszkanie. \"Dzwonienie do mnie jest niegrzeczne\"",
+      "outlet": "fakt",
+      "url": "https://www.fakt.pl/wydarzenia/polska/warszawa/wynajela-piekny-apartament-w-warszawie-po-wejsciu-nie-mogla-uwierzyc-oczom/s4pn052"
+    },
+    {
+      "headline": "Włoszka ukarana za trzymanie telefonu w czasie jazdy. Twierdzi, że to była cukinia",
+      "outlet": "zero",
+      "url": "https://zero.pl/news/wloszka-ukarana-za-trzymanie-telefonu-w-czasie-jazdy-twierdzi-ze-to-byla-cukinia"
+    },
+    {
+      "headline": "Masz słup, gazociąg albo kabel na działce? Możesz mieć prawo do kilkudziesięciu a nawet kilkuset tysięcy złotych",
+      "outlet": "onet",
+      "url": "https://wiadomosci.onet.pl/kraj/masz-slup-gazociag-albo-kabel-na-dzialce-mozesz-miec-prawo-do-kilkudziesieciu-a-nawet/61s5nef"
+    },
+    {
+      "headline": "Perfidny czyn w supermarkecie. Zgubiła go pazerność, wpadł przez monitoring",
+      "outlet": "fakt",
+      "url": "https://www.fakt.pl/wydarzenia/polska/zabral-szpule-naklejek-promocyjnych-policja-szybko-ustalila-sprawce/zhczhkr"
+    },
+    {
+      "headline": "Cynthia Rothrock, legenda kina akcji: Ile kobiet w moim wieku skopie tyłek tak dobrze, jak ja?",
+      "outlet": "wyborcza",
+      "url": "https://wyborcza.pl/7,75410,32971959,cynthia-rothrock-legenda-kina-akcji-ile-kobiet-w-moim-wieku.html"
+    },
+    {
+      "headline": "W BMW na ekranie wyświetla się reklama. BMW twierdzi, że to nie reklama",
+      "outlet": "zero",
+      "url": "https://zero.pl/news/bmw-wyswietla-reklame-na-ekranie-centralnym-musisz-obejrzec-film-o-filmie"
+    },
+    {
+      "headline": "Bębny wracają do samochodów. Unia zmienia hamulce",
+      "outlet": "wykop",
+      "url": "https://wykop.pl/link/7996879/bebny-wracaja-do-samochodow-unia-zmienia-hamulce"
+    },
+    {
+      "headline": "Tysiące błędów i niedopowiedzeń. Amerykanie oddają tworzenie prawa asystentom AI. \"To absolutnie przerażające\"",
+      "outlet": "onet",
+      "url": "https://wiadomosci.onet.pl/politico/w-usa-prawo-tworzy-ai-eksperci-alarmuja-absolutnie-przerazajace/s4jdqz4"
+    },
+    {
+      "headline": "Lech rozgromił rywali na Wyspach Owczych. „Kolejorz” o krok od Ligi Europy",
+      "outlet": "republika",
+      "url": "https://tvrepublika.pl/Sport/Lech-rozgromil-rywali-na-Wyspach-Owczych-Kolejorz-o-krok-od-Ligi-Europy/219801"
+    },
+    {
+      "headline": "18-latek znalazł złoto warte 9 mln euro. Skarb był zamurowany w ścianie",
+      "outlet": "zero",
+      "url": "https://zero.pl/news/18-latek-znalazl-zloto-warte-9-mln-euro-skarb-byl-zamurowany-w-scianie"
+    },
+    {
+      "headline": "Bez toalet i klimatyzacji. Załoga niszczyciela USA wystawiona na próbę",
+      "outlet": "onet",
+      "url": "https://wiadomosci.onet.pl/swiat/dotkliwa-awaria-niszczyciela-usa-cztery-dni-bez-toalet-i-klimatyzacji/4qlbfv4"
+    },
+    {
+      "headline": "65-latek przyjechał na rowerze do komendy. Policjanci osłupieli, gdy go zobaczyli",
+      "outlet": "fakt",
+      "url": "https://www.fakt.pl/wydarzenia/polska/aleksandrow-kujawski-niezwykla-prosba-pijanego-rowerzysty-na-komendzie/j35yevf"
+    },
+    {
+      "headline": "Kiedyś zachwycała się Dubajem, dzisiaj nie chce tam wracać",
+      "outlet": "republika",
+      "url": "https://tvrepublika.pl/Rozrywka/Zawadzka-juz-nie-chce-mieszkac-w-Dubaju/219832"
+    },
+    {
+      "headline": "Jak ślub, to tylko w Kano. Władze pokrywają koszty i obsypują prezentami",
+      "outlet": "wyborcza",
+      "url": "https://wyborcza.pl/7,75399,32971494,jak-slub-to-tylko-w-kano-wladze-pokrywaja-koszty-i-obsypuja.html"
+    },
+    {
+      "headline": "Czy trzy konie wystarczą do ciągnięcia w górach 4 przyczep z 40 turystami?",
+      "outlet": "wykop",
+      "url": "https://wykop.pl/link/7996883/czy-trzy-konie-wystarcza-do-ciagniecia-w-gorach-4-przyczep-z-40-turystami"
+    },
+    {
+      "headline": "Luksusowe wakacje Viktora Orbana. Miał lecieć prywatnym odrzutowcem",
+      "outlet": "onet",
+      "url": "https://wiadomosci.onet.pl/swiat/zagraniczne-wakacje-orbana-lecial-prywatnym-odrzutowcem-wplywowej-rodziny/pc0v743"
+    },
+    {
+      "headline": "Smartwatch wie o nas coraz więcej. Kiedy kontrola zdrowia zamienia się w obsesję?",
+      "outlet": "zero",
+      "url": "https://zero.pl/news/smartwatch-wie-o-nas-coraz-wiecej-kiedy-kontrola-zdrowia-zamienia-sie-w-obsesje"
+    },
+    {
+      "headline": "\"Tej nocy będzie walka\". Ukraińscy żołnierze leczą stres ayahuascą",
+      "outlet": "wyborcza",
+      "url": "https://wyborcza.pl/7,75399,32970909,tej-nocy-bedzie-walka-ukrainscy-zolnierze-lecza-stres-ayahuasca.html"
+    },
+    {
+      "headline": "Plaga robactwa w bloku w Dąbrowie Górniczej. Lokatorzy śpią w namiotach przed domem",
+      "outlet": "fakt",
+      "url": "https://www.fakt.pl/wydarzenia/polska/slask/dabrowa-gornicza-walczy-z-plaga-robactwa-lokatorzy-uciekaja-z-mieszkan/7djstn1"
+    },
+    {
+      "headline": "Sfałszowała 358 recept, znowu może prowadzić aptekę.",
+      "outlet": "wykop",
+      "url": "https://wykop.pl/link/7997065/sfalszowala-358-recept-znowu-moze-prowadzic-apteke"
+    },
+    {
+      "headline": "Tak na nas zarabiają Niemcy. Polska rekompensuje Berlinowi straty w Chinach i Rosji",
+      "outlet": "republika",
+      "url": "https://tvrepublika.pl/Ekonomia/Niemcy-zadowoleni-Polska-ratuje-ich-gospodarke/219728"
+    }
+  ]
 }
