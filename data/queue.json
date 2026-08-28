@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Zdemolowała jej mieszkanie. \"Dzwonienie do mnie jest niegrzeczne\"",
-      "outlet": "fakt",
-      "url": "https://www.fakt.pl/wydarzenia/polska/warszawa/wynajela-piekny-apartament-w-warszawie-po-wejsciu-nie-mogla-uwierzyc-oczom/s4pn052"
-    },
-    {
       "headline": "Włoszka ukarana za trzymanie telefonu w czasie jazdy. Twierdzi, że to była cukinia",
       "outlet": "zero",
       "url": "https://zero.pl/news/wloszka-ukarana-za-trzymanie-telefonu-w-czasie-jazdy-twierdzi-ze-to-byla-cukinia"
