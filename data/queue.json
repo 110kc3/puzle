@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Masz słup, gazociąg albo kabel na działce? Możesz mieć prawo do kilkudziesięciu a nawet kilkuset tysięcy złotych",
-      "outlet": "onet",
-      "url": "https://wiadomosci.onet.pl/kraj/masz-slup-gazociag-albo-kabel-na-dzialce-mozesz-miec-prawo-do-kilkudziesieciu-a-nawet/61s5nef"
-    },
-    {
       "headline": "Perfidny czyn w supermarkecie. Zgubiła go pazerność, wpadł przez monitoring",
       "outlet": "fakt",
       "url": "https://www.fakt.pl/wydarzenia/polska/zabral-szpule-naklejek-promocyjnych-policja-szybko-ustalila-sprawce/zhczhkr"
