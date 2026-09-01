@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Perfidny czyn w supermarkecie. Zgubiła go pazerność, wpadł przez monitoring",
-      "outlet": "fakt",
-      "url": "https://www.fakt.pl/wydarzenia/polska/zabral-szpule-naklejek-promocyjnych-policja-szybko-ustalila-sprawce/zhczhkr"
-    },
-    {
       "headline": "Cynthia Rothrock, legenda kina akcji: Ile kobiet w moim wieku skopie tyłek tak dobrze, jak ja?",
       "outlet": "wyborcza",
       "url": "https://wyborcza.pl/7,75410,32971959,cynthia-rothrock-legenda-kina-akcji-ile-kobiet-w-moim-wieku.html"
