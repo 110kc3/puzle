@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "W BMW na ekranie wyświetla się reklama. BMW twierdzi, że to nie reklama",
-      "outlet": "zero",
-      "url": "https://zero.pl/news/bmw-wyswietla-reklame-na-ekranie-centralnym-musisz-obejrzec-film-o-filmie"
-    },
-    {
       "headline": "Bębny wracają do samochodów. Unia zmienia hamulce",
       "outlet": "wykop",
       "url": "https://wykop.pl/link/7996879/bebny-wracaja-do-samochodow-unia-zmienia-hamulce"
