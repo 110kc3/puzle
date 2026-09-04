@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Bębny wracają do samochodów. Unia zmienia hamulce",
-      "outlet": "wykop",
-      "url": "https://wykop.pl/link/7996879/bebny-wracaja-do-samochodow-unia-zmienia-hamulce"
-    },
-    {
       "headline": "Tysiące błędów i niedopowiedzeń. Amerykanie oddają tworzenie prawa asystentom AI. \"To absolutnie przerażające\"",
       "outlet": "onet",
       "url": "https://wiadomosci.onet.pl/politico/w-usa-prawo-tworzy-ai-eksperci-alarmuja-absolutnie-przerazajace/s4jdqz4"
