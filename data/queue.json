@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Bez toalet i klimatyzacji. Załoga niszczyciela USA wystawiona na próbę",
-      "outlet": "onet",
-      "url": "https://wiadomosci.onet.pl/swiat/dotkliwa-awaria-niszczyciela-usa-cztery-dni-bez-toalet-i-klimatyzacji/4qlbfv4"
-    },
-    {
       "headline": "65-latek przyjechał na rowerze do komendy. Policjanci osłupieli, gdy go zobaczyli",
       "outlet": "fakt",
       "url": "https://www.fakt.pl/wydarzenia/polska/aleksandrow-kujawski-niezwykla-prosba-pijanego-rowerzysty-na-komendzie/j35yevf"
