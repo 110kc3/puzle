@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "65-latek przyjechał na rowerze do komendy. Policjanci osłupieli, gdy go zobaczyli",
-      "outlet": "fakt",
-      "url": "https://www.fakt.pl/wydarzenia/polska/aleksandrow-kujawski-niezwykla-prosba-pijanego-rowerzysty-na-komendzie/j35yevf"
-    },
-    {
       "headline": "Kiedyś zachwycała się Dubajem, dzisiaj nie chce tam wracać",
       "outlet": "republika",
       "url": "https://tvrepublika.pl/Rozrywka/Zawadzka-juz-nie-chce-mieszkac-w-Dubaju/219832"
