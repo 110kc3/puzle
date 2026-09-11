@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Jak ślub, to tylko w Kano. Władze pokrywają koszty i obsypują prezentami",
-      "outlet": "wyborcza",
-      "url": "https://wyborcza.pl/7,75399,32971494,jak-slub-to-tylko-w-kano-wladze-pokrywaja-koszty-i-obsypuja.html"
-    },
-    {
       "headline": "Czy trzy konie wystarczą do ciągnięcia w górach 4 przyczep z 40 turystami?",
       "outlet": "wykop",
       "url": "https://wykop.pl/link/7996883/czy-trzy-konie-wystarcza-do-ciagniecia-w-gorach-4-przyczep-z-40-turystami"
