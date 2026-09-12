@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Czy trzy konie wystarczą do ciągnięcia w górach 4 przyczep z 40 turystami?",
-      "outlet": "wykop",
-      "url": "https://wykop.pl/link/7996883/czy-trzy-konie-wystarcza-do-ciagniecia-w-gorach-4-przyczep-z-40-turystami"
-    },
-    {
       "headline": "Luksusowe wakacje Viktora Orbana. Miał lecieć prywatnym odrzutowcem",
       "outlet": "onet",
       "url": "https://wiadomosci.onet.pl/swiat/zagraniczne-wakacje-orbana-lecial-prywatnym-odrzutowcem-wplywowej-rodziny/pc0v743"
