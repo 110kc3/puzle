@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Plaga robactwa w bloku w Dąbrowie Górniczej. Lokatorzy śpią w namiotach przed domem",
-      "outlet": "fakt",
-      "url": "https://www.fakt.pl/wydarzenia/polska/slask/dabrowa-gornicza-walczy-z-plaga-robactwa-lokatorzy-uciekaja-z-mieszkan/7djstn1"
-    },
-    {
       "headline": "Sfałszowała 358 recept, znowu może prowadzić aptekę.",
       "outlet": "wykop",
       "url": "https://wykop.pl/link/7997065/sfalszowala-358-recept-znowu-moze-prowadzic-apteke"
