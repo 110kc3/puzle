@@ -2,11 +2,6 @@
   "note": "Kolejka zagadek — pierwszy wpis zostanie opublikowany następnego dnia (Europe/Warsaw). Wybieraj z data/candidates.json: headline = dokładny tytuł, outlet = wyborcza|wykop|republika|fakt|zero|onet, url = link do artykułu, note = opcjonalny komentarz pokazywany po odpowiedzi.",
   "queue": [
     {
-      "headline": "Sfałszowała 358 recept, znowu może prowadzić aptekę.",
-      "outlet": "wykop",
-      "url": "https://wykop.pl/link/7997065/sfalszowala-358-recept-znowu-moze-prowadzic-apteke"
-    },
-    {
       "headline": "Tak na nas zarabiają Niemcy. Polska rekompensuje Berlinowi straty w Chinach i Rosji",
       "outlet": "republika",
       "url": "https://tvrepublika.pl/Ekonomia/Niemcy-zadowoleni-Polska-ratuje-ich-gospodarke/219728"
