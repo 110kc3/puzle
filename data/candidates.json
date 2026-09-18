@@ -1,300 +1,349 @@
 {
-  "updatedAt": "2026-09-17T17:40:05.386Z",
+  "updatedAt": "2026-09-18T07:29:48.560Z",
   "note": "Kandydaci na zagadki. Raz w tygodniu wybierz najlepsze i przenieś do data/queue.json (patrz README).",
   "outlets": {
     "wyborcza": [
       {
+        "title": "Wybory w Berlinie. Lewica idzie po zwycięstwo i obiecuje radykalne działania",
+        "url": "https://wyborcza.pl/7,75399,33028327,wybory-w-berlinie-lewica-idzie-po-zwyciestwo-i-obiecuje-radykalne.html",
+        "published": "2026-09-18T05:55:00.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://bi.im-g.pl/im/2c/80/1f/z33030956FBW,Elif-Eralp--liderka-Lewicy--Die-Linke--w-Berlinie-.jpg"
+      },
+      {
+        "title": "Rosyjski atak na Ukrainę. Polskie lotnictwo zakończyło działania w przestrzeni powietrznej",
+        "url": "https://wyborcza.pl/7,75398,33030952,trwa-atak-na-ukraine-polskie-lotnictwo-dziala-w-przestrzeni.html",
+        "published": "2026-09-18T05:28:00.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://bi.im-g.pl/im/2a/80/1f/z33030954FBW,Polski-F-16-w-bazie-Krzesiny--Zdjecie-z-lutego-202.jpg"
+      },
+      {
+        "title": "Z badań wyszło, że Krakowianie mają dość nawalanki. Tak ślamazarnej kampanii jeszcze pod Wawelem nie było",
+        "url": "https://wyborcza.pl/7,75968,33029154,z-badan-wyszlo-ze-krakowianie-maja-dosc-nawalanki-efekt-tak.html",
+        "published": "2026-09-18T04:00:00.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://bi.im-g.pl/im/a9/7f/1f/z33029545FBW,Plakaty-kandydatow-na-prezydenta-Krakowa--plac-Inw.jpg"
+      },
+      {
+        "title": "Prof. Kardas: Siłowego przejęcia TK nie da się pogodzić z koncepcją rządów prawa",
+        "url": "https://wyborcza.pl/7,75398,33028707,prof-kardas.html",
+        "published": "2026-09-18T03:51:00.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://bi.im-g.pl/im/3a/7f/1f/z33028154FBW,Maciej-Berek--zdjecie-archiwalne-.jpg"
+      },
+      {
+        "title": "\"Żyjemy w wielkim więzieniu\". Rozmawiamy z Libańczykami, odciętymi od świata przez Izrael",
+        "url": "https://wyborcza.pl/7,75399,33029144,zyjemy-w-wielkim-wiezieniu-mieszkancy-libanskiego-rmeich.html",
+        "published": "2026-09-18T03:16:00.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://bi.im-g.pl/im/8f/80/1f/z33030543FBW,Patrol-Tymczasowych-Sil-Zbrojnych-ONZ--UNIFIL--w-o.jpg"
+      },
+      {
+        "title": "Szymon Hołownia został szefem klubu Polski 2050. Paweł Śliz zrezygnował",
+        "url": "https://wyborcza.pl/7,75398,33030714,szymon-holownia-zostal-szefem-klubu-polski-2050-pawel-sliz.html",
+        "published": "2026-09-17T19:50:00.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://bi.im-g.pl/im/66/59/1f/z32873574FBW,Szymon-Holownia.jpg"
+      },
+      {
+        "title": "CBA zatrzymało posła KO Wojciecha Króla. Wcześniej Sejm wyraził na to zgodę",
+        "url": "https://wyborcza.pl/7,75398,33030691,cba-zatrzymalo-posla-ko-wojciecha-krola-wczesniej-sejm-wyrazil.html",
+        "published": "2026-09-17T19:35:00.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://bi.im-g.pl/im/d1/7b/1f/z33011921FBW,Wojciech-Krol.jpg"
+      },
+      {
         "title": "Rosyjski atak przy granicy z Polską. Kamery nagrały reakcję obecnych w Sejmie generałów",
         "url": "https://wyborcza.pl/7,75398,33030593,informacja-o-rosyjskim-ataku-przy-granicy-z-polska-zastala-tomczyka.html",
         "published": "2026-09-17T17:36:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/55/80/1f/z33030485FBW,Cezary-Tomczyk-podczas-posiedzenia-Sejmu--17-wrzes.jpg"
       },
       {
         "title": "Rosja ponownie uderza w Ukrainę. Polska poderwała myśliwce",
         "url": "https://wyborcza.pl/7,75399,33030591,rosja-ponownie-uderza-w-ukraine-polska-poderwala-mysliwce.html",
         "published": "2026-09-17T17:32:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/9c/2e/1f/z32695196FBW,Mysliwce-F-16.jpg"
       },
       {
         "title": "Sejm podtrzymał weto prezydenta w sprawie \"statusu\". Szefernaker: Przyszłość Polski to rodzina, a nie \"Homokomando\"",
         "url": "https://wyborcza.pl/7,75398,33030268,w-sejmie-goraco-o-statusie-osoby-najblizszej-szefernaker.html",
         "published": "2026-09-17T17:22:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/32/80/1f/z33030194FBW.jpg"
       },
       {
         "title": "Jak Amerykanie zostawili sojusznika na lodzie. Wystarczyła jedna obietnica",
         "url": "https://wyborcza.pl/7,75399,33029192,jak-amerykanie-zostawili-sojusznika-na-lodzie-wystarczyla-jedna.html",
         "published": "2026-09-17T15:49:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/67/80/1f/z33030247FBW,Jeden-z-bojownikow-Huti-ze-zdjeciem-lidera-ruchu-A.jpg"
       },
       {
         "title": "Nawrocki: Rosja wciąż prowokuje, bo Rosja się nie zmienia",
         "url": "https://wyborcza.pl/7,75398,33030453,nawrocki-rosja-wciaz-prowokuje-bo-rosja-sie-nie-zmienia.html",
         "published": "2026-09-17T15:47:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/57/80/1f/z33030231FBW,Karol-Nawrocki-we-Wlodawie--17-wrzesnia-2026-r-.jpg"
       },
       {
         "title": "Tusk w Sejmie: W planie rosyjskim są hybrydowe uderzenia dronami i rakietami również na Polskę",
         "url": "https://wyborcza.pl/7,75398,33030448,tusk-w-sejmie-w-planie-rosyjskim-sa-hybrydowe-uderzenia-dronami.html",
         "published": "2026-09-17T15:42:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/37/56/1f/z32861751FBW,Donald-Tusk.jpg"
       },
       {
         "title": "AfD na czele w wyborach w Meklemburgii-Pomorzu Przednim. Kanclerz Merz walczy o przetrwanie",
         "url": "https://wyborcza.pl/7,75399,33029845,afd-na-czele-w-wyborach-w-meklemburgii-pomorzu-przednim-kanclerz.html",
         "published": "2026-09-17T14:45:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/cc/7f/1f/z33030092FBW,Wybory-w-Meklemburgii---Pomorzu-Przednim--Prowadzi.jpg"
       },
       {
         "title": "Schrony nie tylko na czas wojny. Czego się możemy nauczyć od Finlandii [WIDEO]",
         "url": "https://wyborcza.pl/7,75398,33029334,schrony-nie-tylko-na-czas-wojny-czego-sie-mozemy-nauczyc-od.html",
         "published": "2026-09-17T14:43:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/ca/80/1f/z33030346FBW,Minister-spraw-zagranicznych-Niemiec-Johann-Wadeph.jpg"
       },
       {
         "title": "Tusk jedzie do Ukrainy. \"Dam państwu raport po powrocie\"",
         "url": "https://wyborcza.pl/7,75398,33030347,tusk-jedzie-do-ukrainy-dam-panstwu-raport-po-powrocie.html",
         "published": "2026-09-17T14:39:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/ed/7a/1f/z33008365FBW,Donald-Tusk.jpg"
       },
       {
         "title": "Prawicowa reduta przed Trybunałem Konstytucyjnym. Wszyscy czekają na przesilenie",
         "url": "https://wyborcza.pl/7,75398,33029577,prawicowa-reduta-przed-trybunalem-konstytucyjnym-wszyscy-czekaja.html",
         "published": "2026-09-17T14:33:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/49/80/1f/z33030217FBW,Miasteczko-namiotowe-przed-siedziba-Trybunalu-Kons.jpg"
       },
       {
         "title": "Kulturalny rozkład jazdy na jesień. Od Tildy Swinton do \"Czarodziejskiej góry\"",
         "url": "https://wyborcza.pl/7,75410,33023716,kulturalna-rozpiska-na-jesien-2026.html",
         "published": "2026-09-17T14:00:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/64/65/1f/z32921444FBW,-Tilda-Swinton---Ongoing---18-wrzesnia---17-styczn.jpg"
       },
       {
         "title": "USA po raz pierwszy przyznają: \"Mamy broń na orbicie\"",
         "url": "https://wyborcza.pl/7,75399,33028319,usa-po-raz-pierwszy-przyznaly-mamy-bron-na-orbicie.html",
         "published": "2026-09-17T13:43:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/8f/7f/1f/z33028495FBW,Zolnierze-Sil-Kosmicznych-Stanow-Zjednoczonych-sal.jpg"
       },
       {
         "title": "Rosjanie stawiają na eskalację. A Pałac Prezydencki - na polityczny spór",
         "url": "https://wyborcza.pl/7,75968,33029673,rosjanie-stawiaja-na-eskalacje-a-palac-prezydencki-na-polityczny.html",
         "published": "2026-09-17T13:30:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/e8/7f/1f/z33030120FBW,Prezydent-Karol-Nawrocki-i-premier-Donald-Tusk-pod.jpg"
       },
       {
         "title": "Odbudowa zaufania. Przywróćmy Tajwanowi jego należne miejsce w wolnym świecie",
         "url": "https://wyborcza.pl/7,75968,33030116,odbudowa-zaufania-przywrocmy-tajwanowi-jego-nalezne-miejsce.html",
         "published": "2026-09-17T13:28:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/f7/7f/1f/z33030135FBW,Patrol-tajwanskiej-strazy-wybrzeznej.jpg"
       },
       {
         "title": "\"Braun nas wyrzucił\". Polski polityk zerwał spotkanie z rosyjską opozycją w Parlamencie Europejskim",
         "url": "https://wyborcza.pl/7,75399,33029216,braun-nas-wyrzucil-polski-polityk-zerwal-spotkanie-z-rosyjska.html",
         "published": "2026-09-17T12:41:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/0d/7d/1f/z33018381FBW,Grzegorz-Braun.jpg"
       },
       {
         "title": "Kanadyjski premier w Parlamencie Europejskim. \"Kanada i Europa są silniejsze razem\"",
         "url": "https://wyborcza.pl/7,75399,33029282,kanadyjski-premier-w-parlamencie-europejskim-kanada-i-europa.html",
         "published": "2026-09-17T12:27:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/3b/7f/1f/z33029691FBW,Przewodniczaca-Komisji-Europejskiej-Ursula-von-der.jpg"
       },
       {
         "title": "\"Nic dwa razy.\" Co nauka mówi o podróżach w czasie?",
         "url": "https://wyborcza.pl/7,75400,33029423,nic-dwa-razy-co-nauka-mowi-o-podrozach-w-czasie.html",
         "published": "2026-09-17T11:44:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/0a/7f/1f/z33029642FBW,Podrozowanie-w-czasie.jpg"
       },
       {
         "title": "Wojsko poderwało myśliwce. Tusk o ataku Rosji blisko granicy z Polską: Masywna eksplozja",
         "url": "https://wyborcza.pl/7,75398,33029424,wojsko-poderwalo-mysliwce-tusk-o-ataku-rosji-blisko-granicy.html",
         "published": "2026-09-17T10:55:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/ef/7c/1f/z33014255FBW.jpg"
       },
       {
         "title": "Prokuratura Krajowa wszczęła śledztwo. Chodzi o nieprawidłowości przy wyznaczaniu składów orzekających TK",
         "url": "https://wyborcza.pl/7,75398,33029303,prokuratura-krajowa-wszczela-sledztwo-chodzi-o-nieprawidlowosci.html",
         "published": "2026-09-17T10:21:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/8e/7a/1f/z33008014FBW,Waldemar-Zurek.jpg"
       },
       {
         "title": "Bloomberg: niemieckie szpitale przygotowują się na ewentualną wojnę",
         "url": "https://wyborcza.pl/7,75399,33028550,bloomberg-niemieckie-szpitale-przygotowuja-sie-na-ewentualna.html",
         "published": "2026-09-17T09:41:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/d0/7f/1f/z33029072FBW,Niemiecki-system-ratunkowy-na-ciezarowkach.jpg"
       },
       {
         "title": "Noblista dostał polski paszport. To sposób, by uhonorować rodzinę",
         "url": "https://wyborcza.pl/7,75398,33028735,noblista-dostal-polski-paszport-to-sposob-by-uhonorowac-rodzine.html",
         "published": "2026-09-17T09:41:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/4b/7f/1f/z33029195FBW,Prof--Victor-Ambros--amerykanski-biolog-molekularn.jpg"
       },
       {
         "title": "Prezydent Lech Kaczyński uważał, że przyjęcie ślubowania od sędziego Trybunału Konstytucyjnego to jego obowiązek",
         "url": "https://wyborcza.pl/7,75398,33028849,prezydent-lech-kaczynski-uwazal-ze-przyjecie-slubowania-od.html",
         "published": "2026-09-17T09:09:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/46/7f/1f/z33028934FBW,Wybrana-przez-Sejm-sedzia-Trybunalu-Konstytucyjneg.jpg"
       },
       {
         "title": "Jak uczyć i egzaminować w epoce sztucznej inteligencji?",
         "url": "https://wyborcza.pl/7,75968,33008398,jak-uczyc-w-epoce-sztucznej-inteligencji.html",
         "published": "2026-09-17T08:16:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/6d/7f/1f/z33028973FBW,W-dobie-sztucznej-inteligencji-sposob-weryfikacji-.jpg"
       },
       {
         "title": "Ludzie sięgali po narkotyki już 25 tys. lat temu. Ślady zostały na zębach",
         "url": "https://wyborcza.pl/7,75400,33024578,ludzie-siegali-po-narkotyki-juz-25-tys-lat-temu-slady-zostaly.html",
         "published": "2026-09-17T04:05:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/c2/7f/1f/z33026754FBW,Zbior-orzechow-areki.jpg"
       },
       {
         "title": "Kultura komfortu. Jak hasło \"zadbaj o siebie\" zaczęło niszczyć wspólnotę",
         "url": "https://wyborcza.pl/7,75968,33025208,kultura-komfortu-jak-haslo-zadbaj-o-siebie-zaczelo-niszczyc.html",
         "published": "2026-09-17T04:00:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/2a/7e/1f/z33025322FBW,Wizyta-u-psychologa.jpg"
       },
       {
         "title": "Uczelnie wypalają. Naukowcy nie mają czasu na uprawianie nauki",
         "url": "https://wyborcza.pl/7,75398,33024209,uczelnie-wypalaja-naukowcy-nie-maja-czasu-na-uprawianie-nauki.html",
         "published": "2026-09-17T04:00:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/d0/7f/1f/z33028304FBW,Az-83-proc--badanych-naukowcow-deklaruje--ze-jest-.jpg"
       },
       {
         "title": "Miażdżący raport o sztandarowym projekcie Trumpa. Dla więźniów klatki wielkości budki telefonicznej",
         "url": "https://wyborcza.pl/7,75399,33026133,wiezniowie-w-aligatorowym-alcatraz-bywali-przetrzymywani-w.html",
         "published": "2026-09-17T03:49:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/50/7f/1f/z33026640FBW,Policjant-przed-wjazdem-na-teren-Alligator-Alcatra.jpg"
       },
       {
         "title": "Rosja w przededniu \"wyborów\". Posłów wybiera policja, \"sułtanaty elektoralne\" czekają w gotowości",
         "url": "https://wyborcza.pl/7,75399,33027848,rosja-w-przededniu-wyborow-poslow-wybiera-policja-sultanaty.html",
         "published": "2026-09-17T03:22:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/32/7f/1f/z33027890FBW,Rosja-szykuje-sie-do--wyborow--parlamentarnych--Kt.jpg"
       },
       {
         "title": "Rosyjska fregata wystrzeliła flary w stronę duńskiego śmigłowca. Dowódca dostał w Moskwie medal",
         "url": "https://wyborcza.pl/7,75399,33028280,rosyjska-fregata-wystrzelila-flary-w-strone-dunskiego-smiglowca.html",
         "published": "2026-09-16T18:49:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/c5/7f/1f/z33028037FBW,Rosyjska-fregata.jpg"
       },
       {
         "title": "Komisja za uchyleniem immunitetu Mejzie. Poseł zrobił przedstawienie. \"Sam się zrzeknę, ale nie teraz\"",
         "url": "https://wyborcza.pl/7,75398,33028118,komisja-za-uchyleniem-immunitetu-mejzie-posel-zrobil-przedstawienie.html",
         "published": "2026-09-16T17:39:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/4c/7f/1f/z33027916FBW,Lukasz-Mejza.jpg"
       },
       {
         "title": "Prezydent Nawrocki wraca do sprawy statusu osoby najbliższej. Czy Sejm zdoła odrzucić jego weto?",
         "url": "https://wyborcza.pl/7,75398,33027341,prezydent-nawrocki-wraca-do-sprawy-statusu-osoby-najblizszej.html",
         "published": "2026-09-16T17:10:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/37/8c/1d/z30983735FBW.jpg"
       },
       {
         "title": "Najpierw się pomyl - w edukacji gotowe odpowiedzi nie są najważniejsze",
         "url": "https://wyborcza.pl/7,75400,33027404,najpierw-sie-pomyl-w-edukacji-gotowe-odpowiedzi-nie-sa-najwazniejsze.html",
         "published": "2026-09-16T16:05:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/dd/7f/1f/z33027549FBW,Jaka-pozycje-zajmuje-dzis-Polska-na-swiecie-.jpg"
       },
       {
         "title": "Amnesty International: Tłumiąc protesty, irański reżim popełnił zbrodnie przeciwko ludzkości",
         "url": "https://wyborcza.pl/7,75399,33027578,amnesty-international-iranski-rezim-tlumiac-protesty-popelnil.html",
         "published": "2026-09-16T16:00:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/e1/7f/1f/z33027809FBW,Amnesty-International--Tlumiac-protesty--iranski-r.jpg"
       },
       {
         "title": "Ukraińskie siły kontratakują w pobliżu Łymanu. \"Sytuacja na froncie najlepsza od kilku lat\"",
         "url": "https://wyborcza.pl/7,75399,33026947,ukrainskie-sily-kontratakuja-w-poblizu-lymanu-sytuacja-na.html",
         "published": "2026-09-16T14:48:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/e4/7f/1f/z33027300FBW,Ukrainscy-zolnierze-w-miejscie-Druzkiwka-w-obwodzi.jpg"
       },
       {
         "title": "\"PiS się miota. Partia się pogubiła, radykałowie narzucili przekaz\". A narrację przejmuje Tusk",
         "url": "https://wyborcza.pl/7,75398,33027262,pis-sie-miota-partia-sie-pogubila-a-radykalowie-przejeli.html",
         "published": "2026-09-16T14:41:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/f2/7e/1f/z33024754FBW,Premier-Donald-Tusk-.jpg"
       },
       {
         "title": "Były prezydent Kosowa skazany za zbrodnie wojenne. Przypisano mu prawie sto ofiar",
         "url": "https://wyborcza.pl/7,75399,33027711,byly-prezydent-kosowa-skazany-za-zbrodnie-wojenne-przypisano.html",
         "published": "2026-09-16T14:29:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/84/7f/1f/z33027716FBW,Hashim-Thaci.jpg"
       },
       {
         "title": "Matecki chce marszu z polskimi flagami przez Lwów. Uczucie wstydu miesza się z przerażeniem",
         "url": "https://wyborcza.pl/7,75968,33027241,matecki-chce-przemarszu-polskich-flag-przez-lwow-uczucie-wstydu.html",
         "published": "2026-09-16T14:25:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/5f/7f/1f/z33027679FBW,Dariusz-Matecki--PiS---24-sierpnia-2026-r-.jpg"
       },
       {
         "title": "Trump walczy o swoje nazwisko w nazwie Centrum Kennedy'ego. \"Zrobił awanturę na obradach zarządu\"",
         "url": "https://wyborcza.pl/7,75399,33027240,trump-walczy-o-swoje-nazwisko-w-nazwie-centrum-kennedy-ego.html",
         "published": "2026-09-16T13:35:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/34/7f/1f/z33027636FBW,Centrum-Kennedy-ego-w-Waszyngtonie--Prezydent-Dona.jpg"
       },
       {
         "title": "Miliardy z SAFE napędzają przyszłość PGZ. Zestawy rakietowe i wozy pancerne to flagowe produkty holdingu",
         "url": "https://wyborcza.pl/7,75398,33026585,polskie-hity-pancerne-i-rakietowe-to-dopiero-poczatek-miliardy.html",
         "published": "2026-09-16T13:29:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/84/7b/1f/z33012612FBW,Ciezki-Bojowy-Woz-Piechoty-zaprezentowany-podczas-.jpg"
       },
       {
         "title": "Audytor Pentagonu ujawnia straty USA podczas wojny z Iranem. \"Strategiczne niedobory\"",
         "url": "https://wyborcza.pl/7,75399,33026934,audytor-pentagonu-ujawnia-straty-usa-podczas-wojny-z-iranem.html",
         "published": "2026-09-16T12:17:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/dd/7f/1f/z33027293FBW,Billboard-na-temat-konfliktu-w-Ciesninie-Ormuz-na-.jpg"
       },
       {
         "title": "Tajne spotkanie dziewięciu państw w Niemczech. Izrael mówił o \"operacji na różnych frontach\"",
         "url": "https://wyborcza.pl/7,75399,33027193,tajne-spotkanie-dziewieciu-panstw-w-niemczech-izrael-mowil.html",
         "published": "2026-09-16T11:48:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/6f/7f/1f/z33026927FBW,Teheran--Zdjecie-ilustracyjne.jpg"
       },
       {
         "title": "Degustacja wina w rytmie techno, ponad 2000 lat historii i wybitny chleb. Znacie to miejsce?",
         "url": "https://wyborcza.pl/7,75399,33026634,degustacja-wina-w-rytmie-techno-ponad-2000-lat-historii-i.html",
         "published": "2026-09-16T10:30:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://bi.im-g.pl/im/11/7f/1f/z33026833FBW,Zwiedzanie-Koblencji--Widok-z-Twierdzy-Ehrenbreits.jpg"
       },
       {
@@ -1003,98 +1052,140 @@
         "published": "2026-09-11T05:40:00.000Z",
         "fetchedAt": "2026-09-14T07:59:22.402Z",
         "image": "https://bi.im-g.pl/im/df/7c/1f/z33016543FBW,USA-ELECTION-REPUBLICANS.jpg"
-      },
-      {
-        "title": "Masa jest, rzeźby brak. Czy szczyt BRICS przezwycięży wewnętrzne napięcia?",
-        "url": "https://wyborcza.pl/7,75399,33017566,masa-jest-rzezby-brak-czy-szczyt-brics-przezwyciezy-wewnetrzne.html",
-        "published": "2026-09-11T05:15:00.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://bi.im-g.pl/im/02/7c/1f/z33017602FBW,Szczyt-BRICS-odbedzie-sie-w-Indiach-w-dniach-12-13.jpg"
-      },
-      {
-        "title": "\"Kobiety, głupcze!\". Sukces demokratów zależy od ich mobilizacji wyborczej",
-        "url": "https://wyborcza.pl/7,75968,33016149,kobiety-glupcze-sukces-demokratow-zalezy-od-ich-mobilizacji.html",
-        "published": "2026-09-11T04:00:00.000Z",
-        "fetchedAt": "2026-09-13T16:59:29.935Z",
-        "image": "https://bi.im-g.pl/im/80/7c/1f/z33017216FBW,Protest-kobiet-pod-biurem-poselskim-PiS--14-czerwc.jpg"
-      },
-      {
-        "title": "25 lat po atakach z 11 września największym zagrożeniem dla Ameryki jest ona sama",
-        "url": "https://wyborcza.pl/7,75399,33014373,25-lat-po-atakach-z-11-wrzesnia-najwiekszym-zagrozeniem-dla.html",
-        "published": "2026-09-11T03:46:00.000Z",
-        "fetchedAt": "2026-09-13T16:59:29.935Z",
-        "image": "https://bi.im-g.pl/im/c2/7c/1f/z33015234FBW,25--rocznica-ataku-na-World-Trade-Center--Tablica-.jpg"
-      },
-      {
-        "title": "Bogucki kąsa, ale Tusk ma plan. \"Zondacrypto to sprawa, którą premier chce rozegrać sam\"",
-        "url": "https://wyborcza.pl/7,75398,33017243,bogucki-kasa-ale-tusk-ma-plan-zondacrypto-to-sprawa-ktora.html",
-        "published": "2026-09-11T03:45:00.000Z",
-        "fetchedAt": "2026-09-13T16:59:29.935Z",
-        "image": "https://bi.im-g.pl/im/44/7c/1f/z33015108FBW,Zbigniew-Bogucki--08-09-2026-r-.jpg"
-      },
-      {
-        "title": "Protest maszynistów uderzy w pasażerów. Ale jest światełko w tunelu",
-        "url": "https://wyborcza.pl/7,75398,33017424,protest-uderzy-w-pasazerow-ale-jest-swiatelko-w-tunelu.html",
-        "published": "2026-09-10T20:27:00.000Z",
-        "fetchedAt": "2026-09-13T16:59:29.935Z",
-        "image": "https://bi.im-g.pl/im/58/93/1e/z32061016FBW,Pociag-PKP-Intercity---zdjecie-ilustracyjne.jpg"
-      },
-      {
-        "title": "Nawrocka u Rymanowskiego: Aborcja? Kobiety o tym nie mówią",
-        "url": "https://wyborcza.pl/7,75398,33017394,nawrocka-u-rymanowskiego-aborcja-kobiety-o-tym-nie-mowia.html",
-        "published": "2026-09-10T20:23:00.000Z",
-        "fetchedAt": "2026-09-13T16:59:29.935Z",
-        "image": "https://bi.im-g.pl/im/31/7c/1f/z33017393FBW,Marta-Nawrocka-w-programie--Rymanowski-Live--na-Yo.jpg"
-      },
-      {
-        "title": "TK: TSUE \"przypisuje sobie\" prawo, a w trybunale trwa \"chocholi taniec\"",
-        "url": "https://wyborcza.pl/7,75398,33017185,trybunal-swieczkowskiego-polskie-sady-nie-sa-zwiazane-wyrokami.html",
-        "published": "2026-09-10T17:57:00.000Z",
-        "fetchedAt": "2026-09-13T16:59:29.935Z",
-        "image": "https://bi.im-g.pl/im/64/76/1f/z32992868FBW,Prezes-Trybunalu-Konstytucyjnego-Bogdan-Swieczkows.jpg"
       }
     ],
     "wykop": [
       {
+        "title": "Policja wjechała Gorgoń-Mróz na kwadrat",
+        "url": "https://wykop.pl/link/8015491/policja-wjechala-gorgon-mroz-na-kwadrat",
+        "published": "2026-09-17T20:25:02.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/4ffeeb43244026e87eef1fefa67023d1a42d8c93467a37b4155a457e518b3ecd.jpg"
+      },
+      {
+        "title": "Wewnątrz kanalizacji podczas ulewy",
+        "url": "https://wykop.pl/link/8015453/wewnatrz-kanalizacji-podczas-ulewy",
+        "published": "2026-09-17T18:46:57.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/818c0bbda04fb38a4ae5eaea89319385541b74474d2e98a17ab803c7a30964bd.jpg"
+      },
+      {
+        "title": "Zabili kozę na zapleczu lokalu w Wałbrzychu. Chcieli przyrządzić sobie jedzenie.",
+        "url": "https://wykop.pl/link/8015449/zabili-koze-na-zapleczu-lokalu-w-walbrzychu-chcieli-przyrzadzic-sobie-jedzenie",
+        "published": "2026-09-17T18:37:36.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/f6d1a0f500bc7d06ecbb8250e290aa48fd58d2db40ca109b5d1e6af767593133.jpg"
+      },
+      {
+        "title": "Atak amstaffa w Puszczykowie. Dwie osoby ranne",
+        "url": "https://wykop.pl/link/8015401/atak-amstaffa-w-puszczykowie-dwie-osoby-ranne",
+        "published": "2026-09-17T16:25:06.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/b05fcd85596e7137674444b3eb72490f4200b63f4aa590e54e6202a967fee5d6.jpg"
+      },
+      {
+        "title": "Kanał Zero jako JEDYNY podmiot w Polsce ze statusem Affiliate Content Owner YT",
+        "url": "https://wykop.pl/link/8015397/kanal-zero-jako-jedyny-podmiot-w-polsce-ze-statusem-affiliate-content-owner-yt",
+        "published": "2026-09-17T16:14:32.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/24ff8fcbd89aa60b1e83b879fe20b6b762e68fb5ab7deacb31fc1471fc44a49b.jpg"
+      },
+      {
+        "title": "W Głogowie ludzie się boją wyjść z psem. Agresywny pitbull terroryzuje osiedle",
+        "url": "https://wykop.pl/link/8015329/w-glogowie-ludzie-sie-boja-wyjsc-z-psem-agresywny-pitbull-terroryzuje-osiedle",
+        "published": "2026-09-17T14:24:35.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/68a738ef12fcd9731bbeacc1c241c422f643eb15f34fbe9708926fc411132241.jpg"
+      },
+      {
+        "title": "Ponad 300 uczniów rezygnuje z obiadów. Rodzice opisują chaos",
+        "url": "https://wykop.pl/link/8015307/ponad-300-uczniow-rezygnuje-z-obiadow-rodzice-opisuja-chaos",
+        "published": "2026-09-17T13:43:33.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/static/img/open-graph/default.png"
+      },
+      {
+        "title": "150 tys. PLN rocznie na dziecko? Pracownicy HSBC już tyle nie dostaną...",
+        "url": "https://wykop.pl/link/8015281/150-tys-pln-rocznie-na-dziecko-pracownicy-hsbc-juz-tyle-nie-dostana",
+        "published": "2026-09-17T12:42:07.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/b8eedf68f695ca3ffc6b10d8bf32a57766cb852806f65d84fc6405173c4a7c5a.jpg"
+      },
+      {
+        "title": "Muzyka z GTA 6 trafi na płytę, o ironio",
+        "url": "https://wykop.pl/link/8015273/muzyka-z-gta-6-trafi-na-plyte-o-ironio",
+        "published": "2026-09-17T12:28:54.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/31c458e7805aa607bf080478f6daf29fbcf03e99df19d1ea813eacae84c55cb2.jpg"
+      },
+      {
         "title": "Szwajcaria - zrownywanie wieku emerytalnego w trakcie",
         "url": "https://wykop.pl/link/8015255/szwajcaria-zrownywanie-wieku-emerytalnego-w-trakcie",
         "published": "2026-09-17T11:59:11.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/0246a2df72bdccd590350b1fcebc1df660b6069972cb6f34bc02edcfcbe19519.jpg"
+      },
+      {
+        "title": "Historia badaczki, która pozbyła się raka za pomocą wirusa odry i VSP",
+        "url": "https://wykop.pl/link/8015237/historia-badaczki-ktora-pozbyla-sie-raka-za-pomoca-wirusa-odry-i-vsp",
+        "published": "2026-09-17T11:15:29.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/af4f794425db71fcbe9bbaa97cc09f071b93be5a22691c5888738d4fd3ee6de0.jpg"
       },
       {
         "title": "Pół miliona za dyplom lekarza. Uczelnie podały kwoty na 2026/2027",
         "url": "https://wykop.pl/link/8015219/pol-miliona-za-dyplom-lekarza-uczelnie-podaly-kwoty-na-2026-2027",
         "published": "2026-09-17T10:43:39.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/82ecbca238ad4667e287518dc98408cf42a75afd1e03ef5cf82fe7f9dd38d973.png"
+      },
+      {
+        "title": "Koniec opłat dla kierowców osobówek i motocykli na A4 Kraków - Katowice",
+        "url": "https://wykop.pl/link/8015211/koniec-oplat-dla-kierowcow-osobowek-i-motocykli-na-a4-krakow-katowice",
+        "published": "2026-09-17T10:33:43.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/c3b39138bca8425de0f4a0b91e0d59eeda5829f1939e0ea2dcbc37232df5467e.jpg"
       },
       {
         "title": "Emerytura oraz 13. i 14. świadczenie po jednym dniu pracy także dla cudzoziemców",
         "url": "https://wykop.pl/link/8015163/emerytura-oraz-13-i-14-swiadczenie-po-jednym-dniu-pracy-takze-dla-cudzoziemcow",
         "published": "2026-09-17T09:54:06.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/986368d98ed4d72e0d6e6213b9c8e45d910a964d04d5e2f4498593e33376a955.webp"
+      },
+      {
+        "title": "Recykling na masową skalę pokaz maszyn",
+        "url": "https://wykop.pl/link/8015151/recykling-na-masowa-skale-pokaz-maszyn",
+        "published": "2026-09-17T09:39:44.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/124b9c10ab99f99abffd5e63d2b39af7920e2f8322fa30fdfdfa024f09822738.jpg"
+      },
+      {
+        "title": "Pepco otwiera nowy magazyn. Powstaje 250 miejsc pracy w Trójmieście",
+        "url": "https://wykop.pl/link/8015133/pepco-otwiera-nowy-magazyn-powstaje-250-miejsc-pracy-w-trojmiescie",
+        "published": "2026-09-17T09:12:39.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/a15dadf37571675341d96901878ffffd4c6c136bf36e60472ee76c486c3578f4.png"
       },
       {
         "title": "Włoska mafia i \"słupy\" żerują na Polakach. Uciekają od mandatów i OC do Polski",
         "url": "https://wykop.pl/link/8015131/wloska-mafia-i-slupy-zeruja-na-polakach-uciekaja-od-mandatow-i-oc-do-polski",
         "published": "2026-09-17T09:11:36.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/fbef9bb52f57904bd42fbb31d875467d7ae2ed221f605bb8539987cb32ca1112.jpg"
       },
       {
         "title": "Ustawił się na randkę z Tindera, a na kobiecej grupie wylał się na niego szambo.",
         "url": "https://wykop.pl/link/8015129/ustawil-sie-na-randke-z-tindera-a-na-kobiecej-grupie-wylal-sie-na-niego-szambo",
         "published": "2026-09-17T09:01:34.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/b8cf32315e9ca7044ae226120ee603c20b069c324e961c3b97376ed1dc01fb2f.jpg"
       },
       {
         "title": "Na obsługę ZADŁUŻENIA Polska wyda w tym roku 90 mld zł",
         "url": "https://wykop.pl/link/8015109/na-obsluge-zadluzenia-polska-wyda-w-tym-roku-90-mld-zl",
         "published": "2026-09-17T08:35:23.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/abe739815dd8b8df765c7f843278fa6ea839d38411a845e041f29b96106a7818.png"
       },
       {
@@ -1115,14 +1206,14 @@
         "title": "Policjantka wmawia kierowcy że używanie \"Janosika\" jest w Polsce nielegalne",
         "url": "https://wykop.pl/link/8015015/policjantka-wmawia-kierowcy-ze-uzywanie-janosika-jest-w-polsce-nielegalne",
         "published": "2026-09-17T06:51:59.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/02500703daff6215fdff828604bf03652377e829bdecd409eadceb1f7c5a151d.jpg"
       },
       {
         "title": "W Bielsku-Białej deweloper chce zbudować osiedle na czynnym osuwisku!",
         "url": "https://wykop.pl/link/8015001/w-bielsku-bialej-deweloper-chce-zbudowac-osiedle-na-czynnym-osuwisku",
         "published": "2026-09-17T06:33:46.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/b31a0e5ca374614915e015c17deb70379fe6c9e6350fae42a42becb68a24b6f7.jpg"
       },
       {
@@ -1136,126 +1227,133 @@
         "title": "Trzy godziny czekała na SOR",
         "url": "https://wykop.pl/link/8014981/trzy-godziny-czekala-na-sor",
         "published": "2026-09-17T05:29:03.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/909fc0d1eeb7e73944134a20bfcde68890c4fa839a7de19ae154c336a5474c6a.jpg"
       },
       {
         "title": "Hakerzy ujawniają: Kamery do tablic rejestracyjnych śledzą też pieszych!",
         "url": "https://wykop.pl/link/8014949/hakerzy-ujawniaja-kamery-do-tablic-rejestracyjnych-sledza-tez-pieszych",
         "published": "2026-09-17T00:51:14.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/3fd128fed424517443be281c07bdee0c2230349b56926015aae572efe84742ad.jpg"
+      },
+      {
+        "title": "Jak wygląda korzystanie z Tindera, gdy jesteś chadem? Twórca pokazuje kulisy",
+        "url": "https://wykop.pl/link/8014945/jak-wyglada-korzystanie-z-tindera-gdy-jestes-chadem-tworca-pokazuje-kulisy",
+        "published": "2026-09-16T23:49:24.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://wykop.pl/cdn/c3397993/7a19c445222d8c225be28c65947d43a1fec94990d8f3114ad715af259f19989a.jpg"
       },
       {
         "title": "Straż Graniczna weszła do firmy w Częstochowie.",
         "url": "https://wykop.pl/link/8014941/straz-graniczna-weszla-do-firmy-w-czestochowie",
         "published": "2026-09-16T23:43:36.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/93bd256c75fa55c10da255af3fbd69f6758c64d2c4e84618c45f7d8e8d6f61c8.jpg"
       },
       {
         "title": "Skarbówka nie dostanie już danych o każdym koncie bankowym",
         "url": "https://wykop.pl/link/8014933/skarbowka-nie-dostanie-juz-danych-o-kazdym-koncie-bankowym",
         "published": "2026-09-16T22:25:40.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/45938611618744fbba7c5c1401db1e8da9be5e155de279feb046a1a434f0706f.jpg"
       },
       {
         "title": "Dziennikarz Republiki bez koszulki w kościele. Wcześniej mówił, że źle się czuje",
         "url": "https://wykop.pl/link/8014865/dziennikarz-republiki-bez-koszulki-w-kosciele-wczesniej-mowil-ze-zle-sie-czuje",
         "published": "2026-09-16T18:36:51.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/3e5636e51cbc0211a3042d5c79258dd3f8455cd833db0733dc6ec8efc69c1d6e.jpg"
       },
       {
         "title": "Tak obecnie wygląda Hotel Atlantic w Nowych Bielicach",
         "url": "https://wykop.pl/link/8014857/tak-obecnie-wyglada-hotel-atlantic-w-nowych-bielicach",
         "published": "2026-09-16T18:14:07.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/f83127fa9082e8d587a1dcdfd89c9d064a5c6a74bf50e610b8335102fbc0e078.jpg"
       },
       {
         "title": "Wolne chodniki - Straż Miejska ZAKAZUJE NAGRYWANIA (konsekwencje służbowe dlaSM)",
         "url": "https://wykop.pl/link/8014815/wolne-chodniki-straz-miejska-zakazuje-nagrywania-konsekwencje-sluzbowe-dlasm",
         "published": "2026-09-16T17:00:43.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/f13f77eecae7ace84b20d608eea6eb33480e4076bb9844faa9861086af53fef3.jpg"
       },
       {
         "title": "Abonament RTV zostaje. Media publiczne dostaną w przyszłym roku ponad 600 mln zł",
         "url": "https://wykop.pl/link/8014797/abonament-rtv-zostaje-media-publiczne-dostana-w-przyszlym-roku-ponad-600-mln-zl",
         "published": "2026-09-16T16:45:07.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/4ba3411185fe8204abad1bef6104d0655bebc726b036fd97c3d6134e481c5a4b.jpg"
       },
       {
         "title": "Ostatni sekret PlayStation 2 złamany po 26 latach. Chip rozpuszczono w kwasie",
         "url": "https://wykop.pl/link/8014777/ostatni-sekret-playstation-2-zlamany-po-26-latach-chip-rozpuszczono-w-kwasie",
         "published": "2026-09-16T16:14:27.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/090a9e6dae6ad1c94e71d7933fa01ddd79084c28e002158f470b172847ad3880.png"
       },
       {
         "title": "Liczba spraw przeciw lekarzom rośnie. W ubiegłym roku zawieszono 68 uprawnień",
         "url": "https://wykop.pl/link/8014761/liczba-spraw-przeciw-lekarzom-rosnie-w-ubieglym-roku-zawieszono-68-uprawnien",
         "published": "2026-09-16T15:50:21.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/f9e97ae0945732037222d741533f2a00c540fb01b85fb636a694596e24947f17.jpg"
       },
       {
         "title": "Pacjentka wrocławskiego SOR czekała na pomoc prawie 20 godzin",
         "url": "https://wykop.pl/link/8014745/pacjentka-wroclawskiego-sor-czekala-na-pomoc-prawie-20-godzin",
         "published": "2026-09-16T15:28:51.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/2eb7f20649c7eaa56b4fdd38e12a93be166f822e08ebdf1272ee9a712ee5b373.jpg"
       },
       {
         "title": "Kelner podaje terminal, a na ekranie świeci już gotowa propozycja napiwku:",
         "url": "https://wykop.pl/link/8014733/kelner-podaje-terminal-a-na-ekranie-swieci-juz-gotowa-propozycja-napiwku",
         "published": "2026-09-16T15:01:44.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/347a0dd4ae1029b56660fd108c83ea91a09026754ce9123a166ac173a1188dd2.jpg"
       },
       {
         "title": "Allegro okradło mnie na 15 000 PLN.",
         "url": "https://wykop.pl/link/8014717/allegro-okradlo-mnie-na-15-000-pln",
         "published": "2026-09-16T14:36:29.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/4a7740b9acb0dddb0dc15aff7798df6b4e106631f9905419c3a33cf1060134ae.png"
       },
       {
         "title": "ZUS podniesie emeryturę nawet o 900 zł. Skorzystają wyłącznie kobiety",
         "url": "https://wykop.pl/link/8014699/zus-podniesie-emeryture-nawet-o-900-zl-skorzystaja-wylacznie-kobiety",
         "published": "2026-09-16T13:59:30.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/fa1be1f6ff76ef82623b2d25e16a8314366f1f8db787af127de8ccc710cf8bd3.jpg"
       },
       {
         "title": "Rada Fiskalna: NFZ może zabraknąć 16 mld zł mimo 41,5 mld zł dotacji",
         "url": "https://wykop.pl/link/8014691/rada-fiskalna-nfz-moze-zabraknac-16-mld-zl-mimo-41-5-mld-zl-dotacji",
         "published": "2026-09-16T13:44:46.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/static/img/open-graph/default.png"
       },
       {
         "title": "16 września 1996 roku wykonano w Polsce pierwsze połączenie w sieci Era GSM",
         "url": "https://wykop.pl/link/8014685/16-wrzesnia-1996-roku-wykonano-w-polsce-pierwsze-polaczenie-w-sieci-era-gsm",
         "published": "2026-09-16T13:36:10.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/0f848c0f919adcc8649bc478588b7888daaed6972cf7c23e6c63e5e7115c249c.jpg"
       },
       {
         "title": "Polski rynek pracy hamuje. Gorzej jest tylko w Rumunii",
         "url": "https://wykop.pl/link/8014675/polski-rynek-pracy-hamuje-gorzej-jest-tylko-w-rumunii",
         "published": "2026-09-16T13:26:36.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/ac501d15f9c0d126519de31178854a5afabe7f0b09a0e555d7999cbf5f0539a6.jpg"
       },
       {
         "title": "Pracownicy Biedronki zapowiadają strajk. Mediacje zakończone po 30 min.",
         "url": "https://wykop.pl/link/8014671/pracownicy-biedronki-zapowiadaja-strajk-mediacje-zakonczone-po-30-min",
         "published": "2026-09-16T13:22:31.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/f71e536a66a674e3a3a011c66d8e6e6626b2ff34491f2ae7aabf95c10f9ee8a7.png"
       },
       {
@@ -1269,7 +1367,7 @@
         "title": "Carrefour zakazuje elektrykom wjazdu na parkingi. Kierowcy oburzeni!",
         "url": "https://wykop.pl/link/8014661/carrefour-zakazuje-elektrykom-wjazdu-na-parkingi-kierowcy-oburzeni",
         "published": "2026-09-16T13:09:27.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/b1ef449cb7957ca967a3ca1f477db5b64a747128cf33aeaef73b9679170aef86.png"
       },
       {
@@ -1297,14 +1395,14 @@
         "title": "Podwykonawcy OpenAI czytają prawdziwe rozmowy użytkowników z ChatGPT",
         "url": "https://wykop.pl/link/8014633/podwykonawcy-openai-czytaja-prawdziwe-rozmowy-uzytkownikow-z-chatgpt",
         "published": "2026-09-16T12:21:43.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/b3bfdc038577dd9518ac596b7f82fe2d7bfd25b38f1c1f25558c23a4422574d1.jpg"
       },
       {
         "title": "Na raka prostaty codziennie umiera w Polsce 15 mężczyzn",
         "url": "https://wykop.pl/link/8014569/na-raka-prostaty-codziennie-umiera-w-polsce-15-mezczyzn",
         "published": "2026-09-16T10:59:30.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/0b5666ad951ad39cc23bbdafc56bd3c20e1c0ddcaa478c5ac1c7918fd4562c4d.jpg"
       },
       {
@@ -1325,14 +1423,14 @@
         "title": "Podpalenia w Polsce zlecał Kubańczyk. FBI wykryło siatkę rosyjskiego wywiadu",
         "url": "https://wykop.pl/link/8014527/podpalenia-w-polsce-zlecal-kubanczyk-fbi-wykrylo-siatke-rosyjskiego-wywiadu",
         "published": "2026-09-16T09:25:18.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/503207524b9829d566094ddfee95ed162b668284983ee05add08dca17261587b.jpg"
       },
       {
         "title": "Czekając na diagnostykę...",
         "url": "https://wykop.pl/link/8014483/czekajac-na-diagnostyke",
         "published": "2026-09-16T08:42:14.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/cc77bc7b71dd2af1b243318b3000680f720a0db8d6e33dd93c07634eed6723cd.jpg"
       },
       {
@@ -1346,14 +1444,14 @@
         "title": "Orlen od piątku zakontraktował 16 dodatkowych dostaw ropy",
         "url": "https://wykop.pl/link/8014455/orlen-od-piatku-zakontraktowal-16-dodatkowych-dostaw-ropy",
         "published": "2026-09-16T08:01:59.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/8118d5aa9af93b61190a7a507198cd57ac4410b0d1cea9b1f802d64b9ca3ce79.jpg"
       },
       {
         "title": "Przemysł stalowy w Europie UPADA na naszych oczach! Firmy unijne nie są w stanie",
         "url": "https://wykop.pl/link/8014437/przemysl-stalowy-w-europie-upada-na-naszych-oczach-firmy-unijne-nie-sa-w-stanie",
         "published": "2026-09-16T07:29:55.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/cf5acfdc7f59e9074bc5e004dd91ecf8b801046567a7be57680a4f00a9f42195.jpg"
       },
       {
@@ -1367,14 +1465,14 @@
         "title": "Złote żniwa deweloperów dobiegły końca. Inwestorzy uciekają",
         "url": "https://wykop.pl/link/8014373/zlote-zniwa-deweloperow-dobiegly-konca-inwestorzy-uciekaja",
         "published": "2026-09-16T05:33:13.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/b2f50474d066ba121bff01f1dc04d713da88158912849f712a9142e85ebaf572.jpg"
       },
       {
         "title": "Jak idiotycznie zdobywa sie dane do rozwoju Ai",
         "url": "https://wykop.pl/link/8014359/jak-idiotycznie-zdobywa-sie-dane-do-rozwoju-ai",
         "published": "2026-09-16T05:20:48.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://wykop.pl/cdn/c3397993/fbf2af4198d2d4a1e68aa30d40843ea5add4d3c471dc4866134bd3a96207b076.png"
       },
       {
@@ -2006,104 +2104,6 @@
         "published": "2026-09-13T11:03:24.000Z",
         "fetchedAt": "2026-09-14T18:44:47.431Z",
         "image": "https://wykop.pl/cdn/c3397993/f298fe54fbccc8ab01829468de20f11c56787069646dc2b7cab82b8894e4304f.png"
-      },
-      {
-        "title": "Kobieta i jej \"inteligentny\" pomysł na zaparkowanie nowoczesnego BMW",
-        "url": "https://wykop.pl/link/8012969/kobieta-i-jej-inteligentny-pomysl-na-zaparkowanie-nowoczesnego-bmw",
-        "published": "2026-09-13T10:24:54.000Z",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://wykop.pl/cdn/c3397993/e0af9cce4a518424e89b055665a973f911d64d3c2a7e716f2205d775b7513389.jpg"
-      },
-      {
-        "title": "Atak w Arabii Saudyjskiej. Paliwo po 10 zł jest realne",
-        "url": "https://wykop.pl/link/8012961/atak-w-arabii-saudyjskiej-paliwo-po-10-zl-jest-realne",
-        "published": "2026-09-13T10:07:07.000Z",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://wykop.pl/cdn/c3397993/8f9751059187fb3ef2e59eef9b738aaec169014f1b481801cc0a22e10cb7817f.jpg"
-      },
-      {
-        "title": "Produkty z Indii zalewają markety budowlane. Polscy producenci zwalniają",
-        "url": "https://wykop.pl/link/8012959/produkty-z-indii-zalewaja-markety-budowlane-polscy-producenci-zwalniaja",
-        "published": "2026-09-13T10:02:23.000Z",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://wykop.pl/cdn/c0834752/ff9f42283784e40f7218bea42db2ecdb0e64e10dc3402dfeea73d17a319d345d.png"
-      },
-      {
-        "title": "Muse miał znak towarowy od 1999 r. Nick @muse należy dziś jednak do Mety",
-        "url": "https://wykop.pl/link/8012953/muse-mial-znak-towarowy-od-1999-r-nick-muse-nalezy-dzis-jednak-do-mety",
-        "published": "2026-09-13T09:58:00.000Z",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://wykop.pl/cdn/c3397993/ee62840649d0f95a64fedd2fa61c8b67e6144ee2630eca309fb965289ce0150d.jpg"
-      },
-      {
-        "title": "Zrobił spot promujący Polskę za 300 zł, POT wydał 7 mln zł (video)",
-        "url": "https://wykop.pl/link/8012947/zrobil-spot-promujacy-polske-za-300-zl-pot-wydal-7-mln-zl-video",
-        "published": "2026-09-13T09:48:50.000Z",
-        "fetchedAt": "2026-09-14T18:44:47.431Z",
-        "image": "https://wykop.pl/cdn/c3397993/0811989c3d09f0fb7a0306588f1d98a652ce9a3092193789793dcd2e0f7252c7.png"
-      },
-      {
-        "title": "Szpital nie zapłacił ZUS. Prezeska zarobiła 312 tys. zł na zleceniach",
-        "url": "https://wykop.pl/link/8012939/szpital-nie-zaplacil-zus-prezeska-zarobila-312-tys-zl-na-zleceniach",
-        "published": "2026-09-13T09:23:13.000Z",
-        "fetchedAt": "2026-09-14T18:44:47.431Z",
-        "image": "https://wykop.pl/cdn/c0834752/cc0cb7d281c7d3e625ff3b1a36a480b77d5351103d93c72cc87624273295c087.jpg"
-      },
-      {
-        "title": "Prąd, gaz, pellet i węgiel drożeją naraz",
-        "url": "https://wykop.pl/link/8012933/prad-gaz-pellet-i-wegiel-drozeja-naraz",
-        "published": "2026-09-13T09:06:36.000Z",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://wykop.pl/cdn/c3397993/1d0a80f6efae08ee043a8ef98f79f3cc555721f1c9f138881a00b670c9cec8a4.jpg"
-      },
-      {
-        "title": "Związkowcy chcą znieść zakaz handlu w niedzielę. W zamian 2,5x stawki za pracę",
-        "url": "https://wykop.pl/link/8012919/zwiazkowcy-chca-zniesc-zakaz-handlu-w-niedziele-w-zamian-2-5x-stawki-za-prace",
-        "published": "2026-09-13T08:26:16.000Z",
-        "fetchedAt": "2026-09-14T18:44:47.431Z",
-        "image": "https://wykop.pl/cdn/c3397993/9cc8e265856ee90a5b886e3bc9828a3f0c1119cea806f1bf137fdcab31c7c148.jpg"
-      },
-      {
-        "title": "Jechał Pandą z Polski za 15 tys. zł. Musi oddać 5,6 mln zł",
-        "url": "https://wykop.pl/link/8012893/jechal-panda-z-polski-za-15-tys-zl-musi-oddac-5-6-mln-zl",
-        "published": "2026-09-13T08:05:39.000Z",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://wykop.pl/cdn/c3397993/fd763a594508a2474597b3f1c6030eca0f5af8b8559810611df617218f6a58f3.jpg"
-      },
-      {
-        "title": "Śmietnik przy płocie tylko za zgodą sąsiada. Bez niej trzeba będzie znaleźć inne",
-        "url": "https://wykop.pl/link/8012887/smietnik-przy-plocie-tylko-za-zgoda-sasiada-bez-niej-trzeba-bedzie-znalezc-inne",
-        "published": "2026-09-13T08:03:21.000Z",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://wykop.pl/cdn/c3397993/caaaf3406f4ea8806ecb21dc35b467085b0767c227cc2f9bd28b6f19dc9277a6.webp"
-      },
-      {
-        "title": "Koniec anonimowych odpadów. Nowy system segregacji sprawdzi każde mieszkanie",
-        "url": "https://wykop.pl/link/8012849/koniec-anonimowych-odpadow-nowy-system-segregacji-sprawdzi-kazde-mieszkanie",
-        "published": "2026-09-13T07:26:39.000Z",
-        "fetchedAt": "2026-09-14T18:44:47.431Z",
-        "image": "https://wykop.pl/cdn/c3397993/d4282103371d39df8171b6ae36c429c187d2dbf6236fd760424118d4a4aaffc6.jpg"
-      },
-      {
-        "title": "Eventim - wycofanie zgody marketingowej oznacza brak biletu?",
-        "url": "https://wykop.pl/link/8012847/eventim-wycofanie-zgody-marketingowej-oznacza-brak-biletu",
-        "published": "2026-09-13T07:23:03.000Z",
-        "fetchedAt": "2026-09-14T18:44:47.431Z",
-        "image": "https://wykop.pl/cdn/c3397993/f3caefdca24d3aaee8689786a3c8cd29cebd2b28e35f4500c656633992885772.jpg"
-      },
-      {
-        "title": "Po kuracji Ozempikiem częściej dochodzi do rozstań.",
-        "url": "https://wykop.pl/link/8012843/po-kuracji-ozempikiem-czesciej-dochodzi-do-rozstan",
-        "published": "2026-09-13T07:05:47.000Z",
-        "fetchedAt": "2026-09-14T18:44:47.431Z",
-        "image": "https://wykop.pl/cdn/c3397993/0a3151466a91f7f570824e1a315d592c0f4fa008bd3b79ef8e98baaf944b5c76.jpg"
-      },
-      {
-        "title": "Polska potrzebuje takich ludzi #Konfitura",
-        "url": "https://wykop.pl/link/8012841/polska-potrzebuje-takich-ludzi-konfitura",
-        "published": "2026-09-13T07:00:36.000Z",
-        "fetchedAt": "2026-09-14T18:44:47.431Z",
-        "image": "https://wykop.pl/cdn/c3397993/32d8ac8b777d8cd70ebcdd6deb93a03a20def12d6da76b5033f6e216434652bb.jpg"
       }
     ],
     "republika": [
@@ -3010,52 +3010,122 @@
     ],
     "fakt": [
       {
+        "title": "Karierę gwiazdki rosyjskiego internetu zakończyły 22 ciosy nożem. Potem zabójca podszywał się pod ofiarę",
+        "url": "https://www.fakt.pl/wydarzenia/swiat/zabojstwo-anastazji-griszman-sprawca-podszywal-sie-pod-ofiare-po-zbrodni/9ecpr5d",
+        "published": "2026-09-18T07:20:00.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://ocdn.eu/pulscms-transforms/1/9oNk9kuTURBXy80NzQwNmIyOS1lZDE1LTQ4YjEtODE0Ni1kMGEzYzA4YTM1M2EuanBlZ5KVAwDMSM0DK80ByJMFzQSwzQKe3gABoTAB"
+      },
+      {
+        "title": "Koszmar w okolicach Strzelec Opolskich. Dwulatek włożył nóżkę pod pracującą kosiarkę. \"Amputacja\"",
+        "url": "https://www.fakt.pl/wydarzenia/polska/koszenie-trawnika-zamienilo-sie-w-dramat-dwulatek-ciezko-ranny-w-strzelcach-opolskich/pvls0jl",
+        "published": "2026-09-18T04:50:12.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://ocdn.eu/pulscms-transforms/1/Fkuk9kuTURBXy8wMDUwNTNjMy1mM2Q1LTQ0MmEtYmI0NS1kYzU3M2JiODhmMzYuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
+      },
+      {
+        "title": "W piątek więcej słońca i mniej opadów. Temperatura dojdzie do 22 stopni, ale nie wszędzie",
+        "url": "https://www.fakt.pl/wydarzenia/pogoda/pogoda-w-piatek-lepsza-noz-w-czwartek-wiecej-slonca-i-mniej-opadow/cgvjtm5",
+        "published": "2026-09-18T04:35:14.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://ocdn.eu/pulscms-transforms/1/1MVk9kuTURBXy85ZTY4YTcyNy0yZWZjLTQ0ZDEtOGQ0Yy1hMGExZjI4ZWRiMjMuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
+      },
+      {
+        "title": "Zakaz zostawiania \"elektryków\" na podziemnych parkingach? Ekspert mówi zdecydowanie",
+        "url": "https://www.fakt.pl/wydarzenia/polska/pozar-samochodu-elektrycznego-w-polsce-dr-szymon-piasecki-komentuje/zsbtlek",
+        "published": "2026-09-18T04:12:24.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://ocdn.eu/pulscms-transforms/1/lK_k9kuTURBXy82Y2M1Zjc1YS1kZDE4LTRhNGUtYjcyYy02MmU0YjBhZmUwN2YuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
+      },
+      {
+        "title": "Dramatyczny incydent w gabinecie wiceprezydentki Ostrołęki. Nagle oberwał się sufit",
+        "url": "https://www.fakt.pl/wydarzenia/polska/warszawa/ostroleka-niebezpieczny-incydent-w-ratuszu-runal-sufit-w-gabinecie/0gx8xgq",
+        "published": "2026-09-18T04:00:21.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://ocdn.eu/pulscms-transforms/1/2Kuk9kuTURBXy8yMmFjNWZlZC01MTNlLTRlYmEtOGVkNS05M2Y1M2YwMDFiYWIuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
+      },
+      {
+        "title": "Borowik? Ekspert mówi wprost: jest lepszy grzyb dla zdrowia",
+        "url": "https://www.fakt.pl/wydarzenia/wrosniak-roznobarwny-pod-lupa-ekspertow-ten-grzyb-ma-wyjatkowe-wlasciwosci/d7ehypc",
+        "published": "2026-09-18T03:34:00.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://ocdn.eu/pulscms-transforms/1/8ask9kuTURBXy9kYjVmM2Q3Ni1iYzc0LTQyNjctYWQyZi1iMzc3MmZlNTVlMDMuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
+      },
+      {
+        "title": "Ciało kobiety na skraju ścieżki w Ośnie Lubuskim. \"Nie zaprzeczę tej okoliczności\"",
+        "url": "https://www.fakt.pl/wydarzenia/polska/cialo-kobiety-przy-sciezce-w-osnie-lubuskim-pierwsze-ustalenia-sledczych/zjg75ns",
+        "published": "2026-09-18T03:30:46.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://ocdn.eu/pulscms-transforms/1/VZvk9kuTURBXy9jYjdhZWJhYi1kNWIzLTQwYmYtODJkZi1iMjNlMTEzZjg5N2QuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
+      },
+      {
+        "title": "Wędkarz natychmiast powiadomił służby. Ciało mężczyzny wyłowione z Wisły w Warszawie",
+        "url": "https://www.fakt.pl/wydarzenia/polska/warszawa/akcja-sluzb-nad-wisla-w-warszawie-kim-byl-mezczyzna-znaleziony-w-rzece/6j040fj",
+        "published": "2026-09-17T20:19:19.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://ocdn.eu/pulscms-transforms/1/odxk9kuTURBXy83NGIyNDUwZC1mZmRkLTQwODktODBhMy1mZDA4MDI3NTVhOTAuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
+      },
+      {
+        "title": "Bójka na pokładzie samolotu do Londynu. Nagle zaczęli się szarpać i okładać pięściami",
+        "url": "https://www.fakt.pl/wydarzenia/swiat/bojka-w-samolocie-do-londynu-dwoch-pasazerow-rzucilo-sie-na-siebie/6b823vv",
+        "published": "2026-09-17T20:15:14.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://ocdn.eu/pulscms-transforms/1/QIrk9kuTURBXy9mYTI5NWVmYS05ZmE5LTQyZWYtODNmZC04MGViNzkwMGQwMjAuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
+      },
+      {
+        "title": "Przejmujące sceny przed koszalińską prokuraturą. \"Chciałam spojrzeć mu w oczy\"",
+        "url": "https://www.fakt.pl/wydarzenia/polska/szczecin/niespokojnie-przed-prokuratura-w-koszalinie-chcialam-spojrzec-mu-w-oczy/w4kh7ek",
+        "published": "2026-09-17T18:48:05.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://ocdn.eu/pulscms-transforms/1/lMpk9kuTURBXy8yZjcwMGZiYy02MjJiLTQ4MzUtOGZiZS0zODhjNGY2Zjg2OTQuanBlZ5KVAwDNATjND6DNCMqTBc0EsM0Cnt4AAaEwAQ"
+      },
+      {
         "title": "Inwazja śmiertelnie groźnych owadów. Gatunek kolonizuje nowe obszary",
         "url": "https://www.fakt.pl/wydarzenia/swiat/inwazja-szerszenia-azjatyckiego-tragiczne-skutki-i-tysiace-interwencji/jqtyrye",
         "published": "2026-09-17T16:37:39.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://ocdn.eu/pulscms-transforms/1/LHgk9kuTURBXy82ZWY3YjI4ZC00NDcxLTRjMTAtYjU2NC1mYWQxYTM0NThmZGEuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
       },
       {
         "title": "Parafianie bronią proboszcza z Krzeszowa. Śledczy wkroczyli do Starej Cegielni",
         "url": "https://www.fakt.pl/wydarzenia/polska/wroclaw/krzeszow-parafianie-bronia-proboszcza-sledczy-wkraczaja-do-starej-cegielni/zbdwx09",
         "published": "2026-09-17T16:30:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://ocdn.eu/pulscms-transforms/1/zfyk9kuTURBXy85YjZkMGVkNy01OGIwLTRmNTAtYjQ4ZS0wZjJkN2Y0MGY5NTguanBlZ5KVAwDMuM0XnM0NS5MFzQSwzQKe3gABoTAB"
       },
       {
         "title": "Mają w bloku \"punkt schronienia\". Ekspert nie ma wątpliwości. \"Na polu będzie bezpieczniej\"",
         "url": "https://www.fakt.pl/wydarzenia/polska/lublin/schrony-w-polsce-pod-lupa-grzegorz-cieslak-lepiej-omijac-nieoznakowane-piwnice/jf7tc50",
         "published": "2026-09-17T16:05:08.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://ocdn.eu/pulscms-transforms/1/LBUk9kuTURBXy8xODZmOGY0Zi0wM2M4LTQ1NjktYTg5ZS0yYWU0MTYyNThiZGEuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
       },
       {
         "title": "Skandal w Małopolsce. Nauczycielka stanie przed sądem. Miała skrzywdzić 14-letniego ucznia",
         "url": "https://www.fakt.pl/wydarzenia/polska/krakow/rusza-proces-anglistki-spod-wadowic-jest-oskarzona-o-wykorzystanie-ucznia/6tjl8rn",
         "published": "2026-09-17T14:50:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://ocdn.eu/pulscms-transforms/1/gqjk9kuTURBXy8xNDM4YmY4YS05YmFhLTRlM2MtYjMxMC0wNzI1NmJjZTZlMWMuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
       },
       {
         "title": "Kabina samochodu zniknęła w ścianie budynku. \"Widziałam to, coś strasznego\"",
         "url": "https://www.fakt.pl/wydarzenia/polska/wroclaw/wypadek-w-jaworze-kabina-zniknela-w-scianie-budynku-cos-strasznego/1kxlhqy",
         "published": "2026-09-17T14:13:55.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://ocdn.eu/pulscms-transforms/1/Mmkk9kuTURBXy8wYzQ5ZDg4My1jNTY0LTQ2ODYtOWMxOC00NzkyZjRiNzJmNmMuanBlZ5KVAyfMrs0Hhc0EPJMFzQSwzQKe3gABoTAB"
       },
       {
         "title": "Trwają poszukiwania Emilii Koprowskiej. Detektyw Rutkowski oferuje wysoką nagrodę",
         "url": "https://www.fakt.pl/wydarzenia/polska/szczecin/zaginiecie-emilii-koprowskiej-detektyw-rutkowski-daje-nagrode-za-pomoc/qpqpnrl",
         "published": "2026-09-17T14:10:15.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://ocdn.eu/pulscms-transforms/1/VL1k9kuTURBXy80YzhjYjRjMi03YTRhLTQ2ZDAtOGEwZS04YmUxNzlhZjhlMGUuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
       },
       {
         "title": "Wiózł człowieka na masce. Nagranie obiegło internet. Wyszło na jaw, co miał we krwi",
         "url": "https://www.fakt.pl/wydarzenia/polska/slask/nowe-fakty-ws-pijanego-kierowcy-z-piekar-slaskich-grozi-mu-20-lat-wiezienia/dmfrpc6",
         "published": "2026-09-17T13:55:00.000Z",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://ocdn.eu/pulscms-transforms/1/8A8k9kuTURBXy9mYmZhZTNlNi1jYTE4LTRhMjEtODA2NC05OTdlZjg5OGYzNGYuanBlZ5KVAwDNAonNBSjNAuaTBc0EsM0Cnt4AAaEwAQ"
       },
       {
@@ -3988,84 +4058,410 @@
         "published": "2026-09-08T17:36:00.000Z",
         "fetchedAt": "2026-09-09T07:28:24.745Z",
         "image": "https://cdn.fakt.pl/1/pmwk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xMGZjZTdlNi0wMmQ4LTQ0ZDMtYTE3Yi1hMzc3ODYwZTY4ZmUuanBlZ5KVAwDM4c0PwM0I3JMFzQlgzQTs3gACoTAHoTEE"
-      },
-      {
-        "title": "Coraz więcej podróżnych okleja kółka walizek taśmą. Po co to robią?",
-        "url": "https://www.fakt.pl/wydarzenia/coraz-wiecej-podroznych-okleja-kolka-walizek-tasma-po-co-to-robia/e6lmz9c",
-        "published": "2026-09-08T15:13:12.000Z",
-        "fetchedAt": "2026-09-09T07:28:24.745Z",
-        "image": "https://cdn.fakt.pl/1/fR9k9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80NTUwY2RkOS00M2NkLTQ0MTEtYjFjYS1lNWFkZDc1YzViMWEuanBlZ5KVAwDNAU7ND6rNCM-TBc0JYM0E7N4AAqEwB6ExBA"
-      },
-      {
-        "title": "Polowali na dziki na poligonie w Szczecinie. Zastrzelili żołnierza",
-        "url": "https://www.fakt.pl/wydarzenia/polska/szczecin/dramat-na-poligonie-w-szczecinie-mysliwy-pomylil-zolnierza-z-dzikiem/zltnhl6",
-        "published": "2026-09-08T14:25:17.000Z",
-        "fetchedAt": "2026-09-09T07:28:24.745Z",
-        "image": "https://cdn.fakt.pl/1/hVQk9lQaHR0cDovL29jZG4uZXUvaW1hZ2VzL3B1bHNjbXMvTjJRN01EQV8vZmU5Mzc0OGYtNjQ5MS00NWY3LTgyYTctMTE1NmNlZWU3NTBkLmpwZWeSlQMAAM0J_s0FoZMFzQlgzQTs3gACoTAHoTEE"
-      },
-      {
-        "title": "Turystka zawisła nad urwiskiem nad Jeziorem Solińskim. Trzymała się tylko drzewa",
-        "url": "https://www.fakt.pl/wydarzenia/policjanci-uratowali-turystke-nad-jeziorem-solinskim-wisiala-nad-urwiskiem/qwjjw5k",
-        "published": "2026-09-08T14:08:09.000Z",
-        "fetchedAt": "2026-09-09T07:28:24.745Z",
-        "image": "https://ocdn.eu/pulscms-transforms/1/D-sk9kuTURBXy8zZjdlNDU4OS04MDUzLTQzZDQtYWIwZC0xN2NiNjQ2ZGYzMDcuanBlZ5KVAwAAzQZAzQOEkwXNBLDNAp7eAAGhMAE"
-      },
-      {
-        "title": "Upał jeszcze nie odpuszcza. IMGW ostrzega przed 31 stopniami. Potem nadejdą burze",
-        "url": "https://www.fakt.pl/wydarzenia/pogoda/imgw-ostrzega-przed-upalem-i-burzami-polske-czeka-gwaltowna-zmiana-pogody/e5e42lt",
-        "published": "2026-09-08T13:34:00.000Z",
-        "fetchedAt": "2026-09-09T07:28:24.745Z",
-        "image": "https://ocdn.eu/pulscms-transforms/1/1ZPk9kuTURBXy80Mzk1MDZhOS0wNTBjLTQ5ZWUtYmFhZC0wMmQzMzIzZTY2NGMuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
-      },
-      {
-        "title": "Wraca sprawa egzekucji na Rosjaninie w Białej Podlaskiej. Nowe doniesienia",
-        "url": "https://www.fakt.pl/wydarzenia/polska/lublin/biala-podlaska-zabojstwo-rosyjskiego-artysty-elnur-a-zostaje-w-areszcie/twqkdrk",
-        "published": "2026-09-08T13:16:37.000Z",
-        "fetchedAt": "2026-09-09T07:28:24.745Z",
-        "image": "https://cdn.fakt.pl/1/NXrk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83MTliZGY3NS0wNzIzLTQ0MzAtODU4NC1hNzk4N2QzMDE1MDcuanBlZ5KVA80Bjc0BWs0HFs0D_ZMFzQlgzQTs3gACoTAHoTEE"
-      },
-      {
-        "title": "Dziewczynka wybiegła prosto pod auto. Wszystko nagrała kamera",
-        "url": "https://www.fakt.pl/wydarzenia/swiat/dziecko-wbieglo-pod-nadjezdzajacy-samochod-bohaterska-reakcja-kierownika-sklepu/0ecpm13",
-        "published": "2026-09-08T12:41:16.000Z",
-        "fetchedAt": "2026-09-08T17:18:03.315Z",
-        "image": "https://cdn.fakt.pl/1/ybqk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82NjM0ZmFjNi1mZDA5LTQxYTMtODlhMi1lZmI0OWM3MWZlYTYuanBlZ5KVAwAAzQeAzQQ4kwXNCWDNBOzeAAKhMAehMQQ"
-      },
-      {
-        "title": "Polka chciała zrobić kawę na kempingu w Chorwacji. Nagle doszło do tragedii",
-        "url": "https://www.fakt.pl/wydarzenia/swiat/polka-i-dziecko-ranni-w-chorwacji-wybuchla-butla-na-kempingu/jf427m8",
-        "published": "2026-09-08T12:37:07.000Z",
-        "fetchedAt": "2026-09-08T17:18:03.315Z",
-        "image": "https://ocdn.eu/pulscms-transforms/1/9Gxk9kuTURBXy9iMWJlN2QzZS0wNmE2LTQwMjMtYTY1Zi1hNzg5MGQ2NzFlZDcuanBlZ5KVAwDM-M0NTM0He5MFzQSwzQKe3gABoTAB"
-      },
-      {
-        "title": "Po zbrodni w Kędzierzynie-Koźlu matka 19-latka mówiła o nagraniach. Śledczy ujawnia, co na nich jest",
-        "url": "https://www.fakt.pl/wydarzenia/monitoring-nie-obala-wersji-sledczych-nowe-ustalenia-ws-jakuba-l/hrk16hv",
-        "published": "2026-09-08T12:00:00.000Z",
-        "fetchedAt": "2026-09-08T17:18:03.315Z",
-        "image": "https://ocdn.eu/pulscms-transforms/1/UdZk9kuTURBXy84M2ZmNmQ0NS1kOGJjLTQ1NTEtOGM4ZS02ZDE5YmU3ZDc0YWUuanBlZ5KVAwAAzQeAzQQ4kwXNBLDNAp7eAAGhMAE"
-      },
-      {
-        "title": "Kosmici nawiążą z nami kontakt? USA mają już plan. Naukowcy usłyszeli, co wydarzy się później",
-        "url": "https://www.fakt.pl/wydarzenia/usa-maja-plan-na-pierwszy-kontakt-z-kosmitami-ujawniono-szczegoly/5225rkk",
-        "published": "2026-09-08T11:56:01.000Z",
-        "fetchedAt": "2026-09-08T17:18:03.315Z",
-        "image": "https://ocdn.eu/pulscms-transforms/1/Ny-k9kuTURBXy8zZTg5ZDVkMi1iZDY3LTQ5NGYtYTEyYi0wOGNjNzU1MjU4YWUuanBlZ5KVAwAAzQgAzQSAkwXNBLDNAp7eAAGhMAE"
-      },
-      {
-        "title": "O krok od tragedii w Nowym Sączu. 8-latek wypadł z pierwszego piętra",
-        "url": "https://www.fakt.pl/wydarzenia/polska/krakow/groza-w-nowym-saczu-8-latek-wypadl-z-okna-na-pierwszym-pietrze/ekyc88b",
-        "published": "2026-09-08T11:15:00.000Z",
-        "fetchedAt": "2026-09-08T17:18:03.315Z",
-        "image": "https://ocdn.eu/pulscms-transforms/1/EE0k9kuTURBXy9hNmFjODU3Zi1kZTgxLTQzMGEtODg2Zi0zZTIyMGNjOTBiMDguanBlZ5KVAwYAzQWZzQMmkwXNBLDNAp7eAAGhMAE"
       }
     ],
     "zero": [
       {
+        "title": "„Najpierw był szok”, a teraz msze po hiszpańsku. W tych gminach co trzeci jest imigrantem",
+        "url": "https://zero.pl/news/zaskakujace-dane-o-cudzoziemcach-w-polsce-pojechalismy-tam-gdzie-jest-ich-40-procent",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/jedynka-desktop-ratio-3x2-1.png"
+      },
+      {
+        "title": "Pentagon rozważa „drastyczną” redukcję sił w Europie. Media ujawniły skalę",
+        "url": "https://zero.pl/news/media-pentagon-rozwaza-drastyczna-redukcje-sil-w-europie",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/18/mid-epa13246975_2-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Jak oswoić syreny alarmowe, ale ich nie bagatelizować? Lekcje dla Polski",
+        "url": "https://zero.pl/news/jak-oswoic-syreny-alarmowe-ale-ich-nie-bagatelizowac-lekcje-dla-polski-opinia",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/18/alert-rcb-powiadomienie-1-ratio-3x2-2.jpg"
+      },
+      {
+        "title": "Debata o Kacprzyku i ochronie zdrowia. „Wyścig dwóch ślimaków”",
+        "url": "https://zero.pl/news/szpital-poludniowy-slowik-na-debacie-w-kanale-zero-o-sledztwie-ws-kacprzyka",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/szpital-wolski-listing-ratio-3x2-3.png"
+      },
+      {
+        "title": "Karol Nawrocki reaguje na słowa Donalda Trumpa",
+        "url": "https://zero.pl/news/karol-nawrocki-reaguje-na-slowa-donalda-trumpa-powaznie-odpowiedzialnie-i-zawsze-razem",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/18/mid-26917576-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Nowy szef klubu Polska 2050. Wybór był jednogłośny",
+        "url": "https://zero.pl/news/klub-polska-2050-ma-nowego-przewodniczacego-jednoglosny-wybor",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/18/mid-26917372-ratio-3x2-1.jpg"
+      },
+      {
         "title": "Wielki powrót węgla. Starczy dla każdego, ale cena opału uderzy po kieszeni",
         "url": "https://zero.pl/news/obawy-o-zapasy-wegla-w-polsce-sprawdzamy-czy-na-zime-moze-zabraknac-czarnego-paliwa",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/shutterstock_2162545183-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Król zatrzymany przez CBA. „Na polecenie Prokuratury Europejskiej”",
+        "url": "https://zero.pl/news/wojciech-krol-zatrzymany-przez-cba-tomasz-siemoniak-o-szczegolach",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/en_01626985_1474-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Czuć już zbliżającą się jesień. Prognoza pogody na weekend",
+        "url": "https://zero.pl/news/prognoza-pogody-na-weekend-jesien-zbliza-sie-wielkimi-krokami",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/en_01634497_0133-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Motorola Signature – aparat, bateria i AI za rozsądną cenę",
+        "url": "https://zero.pl/news/jak-ai-poprawia-zdjecia-w-motoroli-signature-aprat-to-mocny-punkt-tego-smartfonu",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/09/motorola-signature-106-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Znamy kadrę reprezentacji na mecze Ligi Narodów. Jest kilku debiutantów i Robert Lewandowski",
+        "url": "https://zero.pl/news/powolania-na-mecze-reprezentacji-w-lidze-narodow-ogloszone-oto-nazwiska",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/18/en_01678686_0208-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Ekspert o ewakuacji w szkołach po alertach RCB. „Nie bagatelizujmy tych sygnałów\"",
+        "url": "https://zero.pl/news/alert-rcb-uczniow-ewakuowano-do-piwnic-andrzej-bartkowiak-o-zasadach-bezpieczenstwa",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/pap_20240928_0dn-1-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Facebook zbojkotował sejmową komisję. Brzoska: Trudno o większy wyraz pogardy",
+        "url": "https://zero.pl/news/przedstawiciele-facebooka-nieobecni-na-posiedzeniu-sejmowej-komisji-cyfryzacji",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/obraz_2026-09-17_150402468-ratio-3x2-1.png"
+      },
+      {
+        "title": "PISM bez dyrektora. Premier odwołał szefa państwowego instytutu",
+        "url": "https://zero.pl/news/pism-bez-dyrektora-dr-hab-jaroslaw-cwiek-karpowicz-odwolany-przez-premiera",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/pap_20260427_0rk-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Ukraina podsumowała noc rosyjskich ataków. Polska poderwała myśliwce",
+        "url": "https://zero.pl/news/wojna-w-ukrainie-nocne-ataki-72-drony-stracone-polska-poderwala-mysliwce",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/18/mid-epa13246319-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "81 proc. Kanadyjczyków chce zacieśnienia relacji z UE. „Europa bliższa niż USA”",
+        "url": "https://zero.pl/news/81-proc-kanadyjczykow-popiera-blizsze-relacje-z-unia-europejska-jest-nowy-sondaz",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/pap_20260917_0lb-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Trump pisze o amerykańskich bazach w Polsce. Wspomniał o Nawrockim",
+        "url": "https://zero.pl/news/donald-trump-pisze-o-amerykanskich-bazach-w-polsce-wspomnial-o-karolu-nawrockim",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/gp5yt_rxeaakxtn-ratio-3x2-4.jpg"
+      },
+      {
+        "title": "Zmiana władzy w Szwecji. Zdecydował ostatni mandat",
+        "url": "https://zero.pl/news/szwecja-zmienia-wladze-lewicowe-ugrupowania-zastapia-prawicowa-koalicje",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/en_01684204_0760-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Trump się wściekł. Grozi Europie „bardzo ciężkimi cłami”",
+        "url": "https://zero.pl/news/kanada-zbliza-sie-do-ue-trump-odpowiada",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/shutterstock_2654665763-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Sikorski w Kijowie: Pokonalibyśmy Rosję dość szybko. Czy na pewno?",
+        "url": "https://zero.pl/news/czy-europa-pokonalaby-rosje-w-szesc-tygodni-sprawdzamy-slowa-sikorskiego",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/gettyimages-2294894426-ratio-3x1-2.jpg"
+      },
+      {
+        "title": "Ottawa coraz bliżej Brukseli. „To naturalni partnerzy”",
+        "url": "https://zero.pl/news/po-co-unii-europejskiej-i-kanadzie-bliskie-relacje-prof-artur-nowak-far-tlumaczy",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/epa13243150-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Barcelona pewnie wygrała. Szczęsny wszedł na boisko i popełnił fatalny błąd",
+        "url": "https://zero.pl/news/barcelona-pewnie-wygrala-szczesny-wszedl-na-boisko-i-popelnil-fatalny-blad",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/en_01679512_4408-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Grzybobranie wymknęło się spod kontroli. Kto obroni las przed mieszczuchami?",
+        "url": "https://zero.pl/news/grzybobranie-2026-dlaczego-mieszczuchy-pustosza-polskie-lasy",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/listing-1-ratio-3x1-1.png"
+      },
+      {
+        "title": "Najpierw odrzucili poprawki, potem chcieli wygasić program. Burza wokół asystencji",
+        "url": "https://zero.pl/news/rzad-chcial-wygasic-program-asystencji-dla-ngo-cios-w-osoby-z-niepelnosprawnosciami",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/en_01652909_0011-ratio-3x1-1.jpg"
+      },
+      {
+        "title": "Polskie super-drony. Mamy „żądła”, ale nie mamy skali",
+        "url": "https://zero.pl/news/polskie-super-drony-mamy-zadla-ale-nie-mamy-skali-opinia",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/drony-jedynka-desktop-ratio-3x2-1.png"
+      },
+      {
+        "title": "Polityczna wojna o ceny paliw. Nawrocki powie rządowi „sprawdzam”",
+        "url": "https://zero.pl/news/paliwowa-wojna-na-szczycie-czy-prezydent-podpisze-ustawe-dzieki-ktorej-maja-spasc-ceny",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/red-22-ratio-3x2-1.png"
+      },
+      {
+        "title": "Ostrzegał przed brakiem węgla na zimę. Teraz stracił stanowisko",
+        "url": "https://zero.pl/news/prezes-orlen-termiki-odwolany-wczesniej-andrzej-gajewski-ostrzegal-przed-brakiem-wegla-na-zime",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/pap_20260903_16k-ratio-3x2-3.jpg"
+      },
+      {
+        "title": "Fed podniósł stopy procentowe w USA. Pierwsza taka decyzja od trzech lat",
+        "url": "https://zero.pl/news/usa-fed-podniosl-stopy-procentowe-pierwsza-taka-decyzja-od-trzech-lat",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/red-1-ratio-3x2-2.png"
+      },
+      {
+        "title": "Ponad 150 miliardów na minusie. Rząd pokazał nowe dane o budżecie",
+        "url": "https://zero.pl/news/dziura-na-ponad-150-mld-zl-poznalismy-swieze-dane-o-budzecie-panstwa",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/26916248-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Polsce zabraknie ropy? „Dwa scenariusze, czarny i niewesoły”",
+        "url": "https://zero.pl/news/czy-polsce-grozi-brak-ropy-i-puste-dystrybutory-mamy-komentarz-orlenu",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/shutterstock_1755726965-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Bunt w europejskim mieście, nie chcą systemu kaucyjnego. „Dramat społeczny”",
+        "url": "https://zero.pl/news/bunt-w-lizbonie-nie-chca-systemu-kaucyjnego-wskazuja-na-brud-i-patologie",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/shutterstock_2734420711-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Canon EOS R8 Mark II. Dla amatorów, ale cena i możliwości mówią co innego",
+        "url": "https://zero.pl/news/zadebiutowal-canon-eos-r8-mark-ii-amatorskie-przeznaczenie-polprofesjonalna-cena-i-mozliwosci",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/canon-eos-r8-mark-ii-5-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Xiaomi Redmi Note 17 debiutują w Polsce. Dobra cena kosztem specyfikacji",
+        "url": "https://zero.pl/news/seria-xiaomi-redmi-note-17-debiutuje-w-polsce-wiem-juz-co-potrafi-redmi-note-17-pro-max",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/xiaomi-redmi-note-17-pro-max-02-ratio-3x1-2.jpg"
+      },
+      {
+        "title": "Reklamy zmierzają do Disney Plus. Serwis zmienił zapisy w umowie",
+        "url": "https://zero.pl/news/disney-plus-z-reklamami-serwis-zmienil-zapisy-w-umowie",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/disney-plus-1-ratio-3x2-1.webp"
+      },
+      {
+        "title": "Aktualizacja systemów Apple już dostępna. Kto dostanie iOS 27, iPadOS 27 i mac OS 27?",
+        "url": "https://zero.pl/news/aktualizacja-systemow-apple-juz-dostepna-kto-dostanie-ios-27-ipados-27-i-mac-os-27",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/ios-27-aktualizacja-1-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Smartwatch do kontaktu z dzieckiem w szkole? Ustawa też ich zakazuje",
+        "url": "https://zero.pl/news/smartwatch-do-kontaktu-z-dzieckiem-w-szkole-ustawa-tez-ich-zakazuje",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/smartfon-szkola-1-ratio-3x1-2.jpg"
+      },
+      {
+        "title": "Rosja uruchamia sieć 5G. Czy to oznacza, że promieniowanie już nie szkodzi?",
+        "url": "https://zero.pl/news/rosja-uruchamia-siec-5g-czy-to-oznacza-ze-promieniowanie-juz-nie-szkodzi",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/14/rosja-5g-nadajniki-1-ratio-3x1-2.png"
+      },
+      {
+        "title": "Operacja, która odmieniła Bliski Wschód. Jak Izrael zastawił pułapkę na Hezbollah?",
+        "url": "https://zero.pl/news/pagery-krotkofalowki-nasrallah-izraelska-operacja-przeciw-hezbollahowi",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/gettyimages-640972731-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Białoruskie czołgi blisko Przesmyku Suwalskiego. „Sprawdzian gotowości bojowej”",
+        "url": "https://zero.pl/news/bialoruskie-czolgi-przy-przesmyku-suwalskim-sprawdzian-gotowosci-bojowej",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/shutterstock_2502444513-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Nieoficjalnie: Polska przekaże Ukrainie pociski do systemu Patriot",
+        "url": "https://zero.pl/news/nieoficjalnie-polska-przekaze-ukrainie-pociski-do-systemu-patriot",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/shutterstock_2190493465-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Chirurg o tragedii w Szpitalu Południowym. „Wstrzymanie operacji było błędem”",
+        "url": "https://zero.pl/news/znany-lekarz-o-tragedii-w-szpitalu-poludniowym-wstrzymanie-operacji-bylo-bledem",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/szpital-poludniowy-warszawa-5-ratio-3x2-5.jpg"
+      },
+      {
+        "title": "Naukowcy: Nadmiar światła w czasie snu może wpływać na choroby serca",
+        "url": "https://zero.pl/news/naukowcy-nadmiar-swiatla-w-czasie-snu-moze-wplywac-na-choroby-serca",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/12/shutterstock_2710309531-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Cztery lata czekania. Ministerstwo Zdrowia w końcu zrobiło slajdy z AI",
+        "url": "https://zero.pl/news/cztery-lata-czekania-ministerstwo-zdrowia-w-koncu-zrobilo-slajdy-z-ai",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/chatgpt-image-11-wrz-2026-12_39_30-ratio-3x1-2.png"
+      },
+      {
+        "title": "Brały paracetamol w ciąży. Naukowcy sprawdzili, co działo się z ich córkami",
+        "url": "https://zero.pl/news/paracetamol-w-ciazy-badanie-wykazalo-mniejsze-jajniki-i-mniej-pecherzykow-u-corek",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/shutterstock_2774129353-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Nie tylko smutek. Badanie ujawnia skalę objawów depresji u mężczyzn w Polsce",
+        "url": "https://zero.pl/news/depresja-u-mezczyzn-w-polsce-nowe-badania-swps-i-objawy-depresji-u-panow",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/10/shutterstock_2667573043-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Spurek: Kiedy schabowy stał się prawem człowieka?",
+        "url": "https://zero.pl/news/kiedy-kotlet-stal-sie-prawem-czlowieka-spor-o-roslinny-obiad-w-szkolach",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/08/listing-1-ratio-3x1-1.png"
+      },
+      {
+        "title": "Nie pomylcie „Lalki”! Ekranizacje mogą namieszać uczniom w głowach",
+        "url": "https://zero.pl/news/lalka-netflixa-a-powiesc-prusa-najwieksze-roznice-ktore-moga-zaskoczyc-maturzystow",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/uid_81e3afc91e6d4267a7cc0097ce01fca6_width_960_play_0_pos_0_gs_0_height_540-ratio-3x1-2.webp"
+      },
+      {
+        "title": "Emmy 2026. Gdzie obejrzeć nagrodzone hity?",
+        "url": "https://zero.pl/news/emmy-2026-gdzie-obejrzec-hity",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/white-19-ratio-3x2-1.png"
+      },
+      {
+        "title": "Ostatnie „Kuce z Bronksu”. Koniec kultowej serii",
+        "url": "https://zero.pl/news/ostatni-odcinek-kucy-z-bronksu-koniec-kultowej-serii-jakuba-debskiego",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/14/red-12-ratio-3x2-1.png"
+      },
+      {
+        "title": "Wokulski za krzakiem, Łęcka w redakcji. Recenzujemy netfliksową „Lalkę”",
+        "url": "https://zero.pl/news/oceniamy-serial-lalka-netflix-i-pawel-maslona-kos-czytaja-klasyke-boleslawa-prusa",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/09/6f4b1b418248c366d27d3a6cf3d1-ratio-3x1-2.webp"
+      },
+      {
+        "title": "Rubryka, która zmieniła dziennikarstwo. Historia kultowych felietonów Mazurka i Zalewskiego",
+        "url": "https://zero.pl/news/mazurek-i-zalewski-jako-pierwsi-opisali-afere-rywina-fragment-ksiazki-prawie-zachod",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/das-ratio-3x2-1.png"
+      },
+      {
+        "title": "Powrót Monty Pythona? Cleese ujawnia kulisy konfliktu",
+        "url": "https://zero.pl/news/monty-python-wroci-john-cleese-ujawnia-ze-eric-idle-chcial-spotkania",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/12/pap_20001106_04n-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Rafał Zawierucha o incydencie z Bradem Pittem. „To było grillowanie”",
+        "url": "https://zero.pl/news/rafal-zawierucha-o-incydencie-z-bradem-pittem-to-bylo-grillowanie",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/12/4-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Noblista został Polakiem. Zadzwonił do niego Tusk",
+        "url": "https://zero.pl/news/noblista-zostal-polakiem-premier-tusk-przekazal-mu-wiadomosc",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/pap_20260313_12j-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Polska w edukacyjnej czołówce? Co czwarty uczeń nie zna podstaw matematyki",
+        "url": "https://zero.pl/news/wyniki-pisa-2025-polska-w-czolowce-ale-co-czwarty-uczen-bez-podstaw-matematyki",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/14/listing-1-ratio-3x1-1.png"
+      },
+      {
+        "title": "Jonathan Haidt bije na alarm. Tak smartfony zmieniły dzieciństwo",
+        "url": "https://zero.pl/news/jonathan-haidt-zmienia-spojrzenie-na-swiat-jak-amerykanski-psycholog-wyjasnia-wspolczesnosc",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/grafika-artykul-selection2-ratio-3x1-2.png"
+      },
+      {
+        "title": "Spektakularne odkrycie polskich archeologów. Odsłania część tajemnic Machu Picchu",
+        "url": "https://zero.pl/news/odkrycie-polskich-archeologow-w-machu-picchu-nowe-drogi-i-budowle-inkow",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/shutterstock_2500799403-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Sztuczna inteligencja zastąpi matematyków? Dragan o przełomie AI i przyszłości nauki",
+        "url": "https://zero.pl/news/problem-naviera-stokesa-rozwiazany-dragan-o-sporze-openai-i-anthropic",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/10/dragan-rozmowa-mini-tv-extended-v2-ratio-3x2-1.png"
+      },
+      {
+        "title": "Echa skandalu w OpenAI. „Tajemnice handlowe modeli AI powinny zostać upublicznione”",
+        "url": "https://zero.pl/news/kto-rozwiazal-matematyczne-rownanie-spor-naukowcow-z-firma-open-ai",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/10/shutterstock_2368436151-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Naukowcy zwracają uwagę na takie wyniki badań krwi. Ostrzegają przed ryzykiem",
+        "url": "https://zero.pl/news/wyniki-badan-krwi-w-normie-ale-blisko-granicy-naukowcy-ostrzegaja-przed-ryzykiem",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/10/shutterstock_2700162809-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Volkswagen pozbędzie się popularnej europejskiej marki. Nie płaczcie za FSO",
+        "url": "https://zero.pl/news/volkswagen-dobitnie-pokazal-ze-marki-narodowe-to-relikt-przeszlosci-zegnaj-seacie",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/seat_600_66-ratio-3x1-2.jpeg"
+      },
+      {
+        "title": "Stacje benzynowe będą mieć poważny problem. Chodzi o przecinek",
+        "url": "https://zero.pl/news/jak-pokazac-na-pylonie-cene-paliwa-powyzej-10-zl-za-litr-stacje-beda-mialy-problem",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/ceny-paliw-150926-ratio-3x2-1.jpeg"
+      },
+      {
+        "title": "Czy drogi, czy tani – nikt już nie chce kabrioletów. Serduszko mi przez to krwawi",
+        "url": "https://zero.pl/news/dlaczego-rynek-kabrioletow-umiera-porownanie-mazda-mx-5-kontra-mercedes-amg-cle-53",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/10/portal-rodzik-6-ratio-3x2-1.png"
+      },
+      {
+        "title": "Jak stracić szybko dużo pieniędzy? Kupić jeden z tych samochodów",
+        "url": "https://zero.pl/news/absurdalnie-wycenione-nowe-samochody-czyli-liderzy-utraty-wartosci-przeglad-rynku",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/04/exlantix_et8l-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Wiceszef prokuratury stracił prawko. Zboralski o pijackim rajdzie śledczego",
+        "url": "https://zero.pl/news/policja-zatrzymala-pijanego-prokuratora-na-motocyklu-komentarz-lukasza-zboralskiego",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/09/1-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "Masz samochód z USA – policja zabierze ci dowód. Chodzi o jeden mały brak",
+        "url": "https://zero.pl/news/policja-egzekwuje-bardzo-malo-znany-przepis-wlasciciele-aut-z-usa-w-slabej-sytuacji",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/04/dodge-charger-ratio-3x2-1.jpg"
+      },
+      {
+        "title": "12 punktów za sprawdzenie telefonu pod światłami to nie kara, tylko represja",
+        "url": "https://zero.pl/news/12-punktow-karnych-za-dotkniecie-telefonu-zero-za-dotykanie-ekranu-prawo-do-zmiany",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/04/telefon-w-aucie-ratio-3x1-1.jpg"
       },
       {
         "title": "Sprawa Wojciecha Króla. Sejm podjął decyzję",
@@ -4074,40 +4470,10 @@
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/en_01639687_0005-ratio-3x2-1.jpg"
       },
       {
-        "title": "Chirurg o tragedii w Szpitalu Południowym. „Wstrzymanie operacji było błędem”",
-        "url": "https://zero.pl/news/znany-lekarz-o-tragedii-w-szpitalu-poludniowym-wstrzymanie-operacji-bylo-bledem",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/szpital-poludniowy-warszawa-5-ratio-3x2-5.jpg"
-      },
-      {
         "title": "Ogromny huk i alert nieopodal granicy. Wojsko wyjaśnia, Tusk zabrał głos",
         "url": "https://zero.pl/news/alert-rcb-na-lubelszczyznie-i-podkarpaciu-rosja-atakuje-ukraine-polskie-mysliwce-w-powietrzu",
         "fetchedAt": "2026-09-17T17:40:05.386Z",
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/white-22-ratio-3x2-1.png"
-      },
-      {
-        "title": "Operacja, która odmieniła Bliski Wschód. Jak Izrael zastawił pułapkę na Hezbollah?",
-        "url": "https://zero.pl/news/pagery-krotkofalowki-nasrallah-izraelska-operacja-przeciw-hezbollahowi",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/gettyimages-640972731-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "PISM bez dyrektora. Premier odwołał szefa państwowego instytutu",
-        "url": "https://zero.pl/news/pism-bez-dyrektora-dr-hab-jaroslaw-cwiek-karpowicz-odwolany-przez-premiera",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/pap_20260427_0rk-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Canon EOS R8 Mark II. Dla amatorów, ale cena i możliwości mówią co innego",
-        "url": "https://zero.pl/news/zadebiutowal-canon-eos-r8-mark-ii-amatorskie-przeznaczenie-polprofesjonalna-cena-i-mozliwosci",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/canon-eos-r8-mark-ii-5-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Polskie super-drony. Mamy „żądła”, ale nie mamy skali",
-        "url": "https://zero.pl/news/polskie-super-drony-mamy-zadla-ale-nie-mamy-skali-opinia",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/drony-jedynka-desktop-ratio-3x2-1.png"
       },
       {
         "title": "Ponad trzy godziny czekała na SOR w Szpitalu Południowym. „Moje dziecko umarło”",
@@ -4122,34 +4488,10 @@
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/14/osp-dolnyslask-jedynka-desktop-ratio-3x2-1.png"
       },
       {
-        "title": "Motorola Signature – aparat, bateria i AI za rozsądną cenę",
-        "url": "https://zero.pl/news/jak-ai-poprawia-zdjecia-w-motoroli-signature-aprat-to-mocny-punkt-tego-smartfonu",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/09/motorola-signature-106-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Czuć już zbliżającą się jesień. Prognoza pogody na weekend",
-        "url": "https://zero.pl/news/prognoza-pogody-na-weekend-jesien-zbliza-sie-wielkimi-krokami",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/en_01634497_0133-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Facebook zbojkotował sejmową komisję. Brzoska: Trudno o większy wyraz pogardy",
-        "url": "https://zero.pl/news/przedstawiciele-facebooka-nieobecni-na-posiedzeniu-sejmowej-komisji-cyfryzacji",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/obraz_2026-09-17_150402468-ratio-3x2-1.png"
-      },
-      {
         "title": "Pilne wystąpienie premiera. Ujawnił analizę wywiadów, wskazał na Rosję",
         "url": "https://zero.pl/news/donald-tusk-z-pilnym-wystapieniem-w-sejmie-ujawnil-analize-wywiadow",
         "fetchedAt": "2026-09-17T17:40:05.386Z",
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/en_01683647_0167-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Grzybobranie wymknęło się spod kontroli. Kto obroni las przed mieszczuchami?",
-        "url": "https://zero.pl/news/grzybobranie-2026-dlaczego-mieszczuchy-pustosza-polskie-lasy",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/listing-1-ratio-3x1-1.png"
       },
       {
         "title": "Król podjął decyzję. Wiemy, kto przedstawi Sejmowi informację o działalności RMN",
@@ -4162,30 +4504,6 @@
         "url": "https://zero.pl/news/wojt-krzyknal-ze-sceny-nie-drzyj-morde",
         "fetchedAt": "2026-09-17T17:40:05.386Z",
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/red-7-ratio-3x2-1.png"
-      },
-      {
-        "title": "Trump się wściekł. Grozi Europie „bardzo ciężkimi cłami”",
-        "url": "https://zero.pl/news/kanada-zbliza-sie-do-ue-trump-odpowiada",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/shutterstock_2654665763-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Sikorski w Kijowie: Pokonalibyśmy Rosję dość szybko. Czy na pewno?",
-        "url": "https://zero.pl/news/czy-europa-pokonalaby-rosje-w-szesc-tygodni-sprawdzamy-slowa-sikorskiego",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/gettyimages-2294894426-ratio-3x1-2.jpg"
-      },
-      {
-        "title": "Ottawa coraz bliżej Brukseli. „To naturalni partnerzy”",
-        "url": "https://zero.pl/news/po-co-unii-europejskiej-i-kanadzie-bliskie-relacje-prof-artur-nowak-far-tlumaczy",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/epa13243150-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Barcelona pewnie wygrała. Szczęsny wszedł na boisko i popełnił fatalny błąd",
-        "url": "https://zero.pl/news/barcelona-pewnie-wygrala-szczesny-wszedl-na-boisko-i-popelnil-fatalny-blad",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/en_01679512_4408-ratio-3x2-1.jpg"
       },
       {
         "title": "Kryzys humanitarny w Ukrainie. Mieszkańcy Oleszek odcięci od dostaw jedzenia",
@@ -4212,100 +4530,16 @@
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/pociag81_6-ratio-3x2-1.jpg"
       },
       {
-        "title": "Najpierw odrzucili poprawki, potem chcieli wygasić program. Burza wokół asystencji",
-        "url": "https://zero.pl/news/rzad-chcial-wygasic-program-asystencji-dla-ngo-cios-w-osoby-z-niepelnosprawnosciami",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/en_01652909_0011-ratio-3x1-1.jpg"
-      },
-      {
         "title": "To zdjęcie powinien znać każdy Polak. Mówi prawdę o 17 września 1939 r.",
         "url": "https://zero.pl/news/17-wrzesnia-1939-r-jak-sowiecka-propaganda-nazwala-agresje-wyzwoleniem",
         "fetchedAt": "2026-09-17T17:40:05.386Z",
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/atak_zsrr_1939-ratio-3x1-3.png"
       },
       {
-        "title": "Polityczna wojna o ceny paliw. Nawrocki powie rządowi „sprawdzam”",
-        "url": "https://zero.pl/news/paliwowa-wojna-na-szczycie-czy-prezydent-podpisze-ustawe-dzieki-ktorej-maja-spasc-ceny",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/red-22-ratio-3x2-1.png"
-      },
-      {
-        "title": "Ostrzegał przed brakiem węgla na zimę. Teraz stracił stanowisko",
-        "url": "https://zero.pl/news/prezes-orlen-termiki-odwolany-wczesniej-andrzej-gajewski-ostrzegal-przed-brakiem-wegla-na-zime",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/pap_20260903_16k-ratio-3x2-3.jpg"
-      },
-      {
-        "title": "Fed podniósł stopy procentowe w USA. Pierwsza taka decyzja od trzech lat",
-        "url": "https://zero.pl/news/usa-fed-podniosl-stopy-procentowe-pierwsza-taka-decyzja-od-trzech-lat",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/red-1-ratio-3x2-2.png"
-      },
-      {
-        "title": "Ponad 150 miliardów na minusie. Rząd pokazał nowe dane o budżecie",
-        "url": "https://zero.pl/news/dziura-na-ponad-150-mld-zl-poznalismy-swieze-dane-o-budzecie-panstwa",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/26916248-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Polsce zabraknie ropy? „Dwa scenariusze, czarny i niewesoły”",
-        "url": "https://zero.pl/news/czy-polsce-grozi-brak-ropy-i-puste-dystrybutory-mamy-komentarz-orlenu",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/shutterstock_1755726965-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Bunt w europejskim mieście, nie chcą systemu kaucyjnego. „Dramat społeczny”",
-        "url": "https://zero.pl/news/bunt-w-lizbonie-nie-chca-systemu-kaucyjnego-wskazuja-na-brud-i-patologie",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/shutterstock_2734420711-ratio-3x2-1.jpg"
-      },
-      {
         "title": "Zbliżamy się do czerwonej linii. Jeśli rząd zaciśnie pasa, odczujemy to w portfelach",
         "url": "https://zero.pl/news/finanse-publiczne-na-krawedzi-czy-polakow-czeka-bolesne-zaciskanie-pasa",
         "fetchedAt": "2026-09-17T17:40:05.386Z",
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/pap_20240903_17i-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Xiaomi Redmi Note 17 debiutują w Polsce. Dobra cena kosztem specyfikacji",
-        "url": "https://zero.pl/news/seria-xiaomi-redmi-note-17-debiutuje-w-polsce-wiem-juz-co-potrafi-redmi-note-17-pro-max",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/xiaomi-redmi-note-17-pro-max-02-ratio-3x1-2.jpg"
-      },
-      {
-        "title": "Reklamy zmierzają do Disney Plus. Serwis zmienił zapisy w umowie",
-        "url": "https://zero.pl/news/disney-plus-z-reklamami-serwis-zmienil-zapisy-w-umowie",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/disney-plus-1-ratio-3x2-1.webp"
-      },
-      {
-        "title": "Aktualizacja systemów Apple już dostępna. Kto dostanie iOS 27, iPadOS 27 i mac OS 27?",
-        "url": "https://zero.pl/news/aktualizacja-systemow-apple-juz-dostepna-kto-dostanie-ios-27-ipados-27-i-mac-os-27",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/ios-27-aktualizacja-1-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Smartwatch do kontaktu z dzieckiem w szkole? Ustawa też ich zakazuje",
-        "url": "https://zero.pl/news/smartwatch-do-kontaktu-z-dzieckiem-w-szkole-ustawa-tez-ich-zakazuje",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/smartfon-szkola-1-ratio-3x1-2.jpg"
-      },
-      {
-        "title": "Rosja uruchamia sieć 5G. Czy to oznacza, że promieniowanie już nie szkodzi?",
-        "url": "https://zero.pl/news/rosja-uruchamia-siec-5g-czy-to-oznacza-ze-promieniowanie-juz-nie-szkodzi",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/14/rosja-5g-nadajniki-1-ratio-3x1-2.png"
-      },
-      {
-        "title": "Białoruskie czołgi blisko Przesmyku Suwalskiego. „Sprawdzian gotowości bojowej”",
-        "url": "https://zero.pl/news/bialoruskie-czolgi-przy-przesmyku-suwalskim-sprawdzian-gotowosci-bojowej",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/shutterstock_2502444513-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Nieoficjalnie: Polska przekaże Ukrainie pociski do systemu Patriot",
-        "url": "https://zero.pl/news/nieoficjalnie-polska-przekaze-ukrainie-pociski-do-systemu-patriot",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/17/shutterstock_2190493465-ratio-3x2-1.jpg"
       },
       {
         "title": "Rosyjski dron na polskiej plaży. Prokuratura ujawnia najnowsze informacje",
@@ -4326,166 +4560,10 @@
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/shutterstock_2732147529-ratio-3x2-1.jpg"
       },
       {
-        "title": "Naukowcy: Nadmiar światła w czasie snu może wpływać na choroby serca",
-        "url": "https://zero.pl/news/naukowcy-nadmiar-swiatla-w-czasie-snu-moze-wplywac-na-choroby-serca",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/12/shutterstock_2710309531-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Cztery lata czekania. Ministerstwo Zdrowia w końcu zrobiło slajdy z AI",
-        "url": "https://zero.pl/news/cztery-lata-czekania-ministerstwo-zdrowia-w-koncu-zrobilo-slajdy-z-ai",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/chatgpt-image-11-wrz-2026-12_39_30-ratio-3x1-2.png"
-      },
-      {
-        "title": "Brały paracetamol w ciąży. Naukowcy sprawdzili, co działo się z ich córkami",
-        "url": "https://zero.pl/news/paracetamol-w-ciazy-badanie-wykazalo-mniejsze-jajniki-i-mniej-pecherzykow-u-corek",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/shutterstock_2774129353-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Nie tylko smutek. Badanie ujawnia skalę objawów depresji u mężczyzn w Polsce",
-        "url": "https://zero.pl/news/depresja-u-mezczyzn-w-polsce-nowe-badania-swps-i-objawy-depresji-u-panow",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/10/shutterstock_2667573043-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Spurek: Kiedy schabowy stał się prawem człowieka?",
-        "url": "https://zero.pl/news/kiedy-kotlet-stal-sie-prawem-czlowieka-spor-o-roslinny-obiad-w-szkolach",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/08/listing-1-ratio-3x1-1.png"
-      },
-      {
         "title": "Ustawa o asystencji osobistej utknęła w Sejmie. Co trzeba w niej poprawić?",
         "url": "https://zero.pl/news/ustawa-o-asystencji-osobistej-utknela-w-sejmie-co-trzeba-w-niej-poprawic",
         "fetchedAt": "2026-09-17T17:40:05.386Z",
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/09/shutterstock_1974298754-ratio-3x1-2.jpg"
-      },
-      {
-        "title": "Nie pomylcie „Lalki”! Ekranizacje mogą namieszać uczniom w głowach",
-        "url": "https://zero.pl/news/lalka-netflixa-a-powiesc-prusa-najwieksze-roznice-ktore-moga-zaskoczyc-maturzystow",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/uid_81e3afc91e6d4267a7cc0097ce01fca6_width_960_play_0_pos_0_gs_0_height_540-ratio-3x1-2.webp"
-      },
-      {
-        "title": "Emmy 2026. Gdzie obejrzeć nagrodzone hity?",
-        "url": "https://zero.pl/news/emmy-2026-gdzie-obejrzec-hity",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/white-19-ratio-3x2-1.png"
-      },
-      {
-        "title": "Ostatnie „Kuce z Bronksu”. Koniec kultowej serii",
-        "url": "https://zero.pl/news/ostatni-odcinek-kucy-z-bronksu-koniec-kultowej-serii-jakuba-debskiego",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/14/red-12-ratio-3x2-1.png"
-      },
-      {
-        "title": "Wokulski za krzakiem, Łęcka w redakcji. Recenzujemy netfliksową „Lalkę”",
-        "url": "https://zero.pl/news/oceniamy-serial-lalka-netflix-i-pawel-maslona-kos-czytaja-klasyke-boleslawa-prusa",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/09/6f4b1b418248c366d27d3a6cf3d1-ratio-3x1-2.webp"
-      },
-      {
-        "title": "Rubryka, która zmieniła dziennikarstwo. Historia kultowych felietonów Mazurka i Zalewskiego",
-        "url": "https://zero.pl/news/mazurek-i-zalewski-jako-pierwsi-opisali-afere-rywina-fragment-ksiazki-prawie-zachod",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/das-ratio-3x2-1.png"
-      },
-      {
-        "title": "Powrót Monty Pythona? Cleese ujawnia kulisy konfliktu",
-        "url": "https://zero.pl/news/monty-python-wroci-john-cleese-ujawnia-ze-eric-idle-chcial-spotkania",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/12/pap_20001106_04n-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Rafał Zawierucha o incydencie z Bradem Pittem. „To było grillowanie”",
-        "url": "https://zero.pl/news/rafal-zawierucha-o-incydencie-z-bradem-pittem-to-bylo-grillowanie",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/12/4-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Noblista został Polakiem. Zadzwonił do niego Tusk",
-        "url": "https://zero.pl/news/noblista-zostal-polakiem-premier-tusk-przekazal-mu-wiadomosc",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/16/pap_20260313_12j-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Polska w edukacyjnej czołówce? Co czwarty uczeń nie zna podstaw matematyki",
-        "url": "https://zero.pl/news/wyniki-pisa-2025-polska-w-czolowce-ale-co-czwarty-uczen-bez-podstaw-matematyki",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/14/listing-1-ratio-3x1-1.png"
-      },
-      {
-        "title": "Jonathan Haidt bije na alarm. Tak smartfony zmieniły dzieciństwo",
-        "url": "https://zero.pl/news/jonathan-haidt-zmienia-spojrzenie-na-swiat-jak-amerykanski-psycholog-wyjasnia-wspolczesnosc",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/grafika-artykul-selection2-ratio-3x1-2.png"
-      },
-      {
-        "title": "Spektakularne odkrycie polskich archeologów. Odsłania część tajemnic Machu Picchu",
-        "url": "https://zero.pl/news/odkrycie-polskich-archeologow-w-machu-picchu-nowe-drogi-i-budowle-inkow",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/shutterstock_2500799403-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Sztuczna inteligencja zastąpi matematyków? Dragan o przełomie AI i przyszłości nauki",
-        "url": "https://zero.pl/news/problem-naviera-stokesa-rozwiazany-dragan-o-sporze-openai-i-anthropic",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/10/dragan-rozmowa-mini-tv-extended-v2-ratio-3x2-1.png"
-      },
-      {
-        "title": "Echa skandalu w OpenAI. „Tajemnice handlowe modeli AI powinny zostać upublicznione”",
-        "url": "https://zero.pl/news/kto-rozwiazal-matematyczne-rownanie-spor-naukowcow-z-firma-open-ai",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/10/shutterstock_2368436151-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Naukowcy zwracają uwagę na takie wyniki badań krwi. Ostrzegają przed ryzykiem",
-        "url": "https://zero.pl/news/wyniki-badan-krwi-w-normie-ale-blisko-granicy-naukowcy-ostrzegaja-przed-ryzykiem",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/10/shutterstock_2700162809-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Volkswagen pozbędzie się popularnej europejskiej marki. Nie płaczcie za FSO",
-        "url": "https://zero.pl/news/volkswagen-dobitnie-pokazal-ze-marki-narodowe-to-relikt-przeszlosci-zegnaj-seacie",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/seat_600_66-ratio-3x1-2.jpeg"
-      },
-      {
-        "title": "Stacje benzynowe będą mieć poważny problem. Chodzi o przecinek",
-        "url": "https://zero.pl/news/jak-pokazac-na-pylonie-cene-paliwa-powyzej-10-zl-za-litr-stacje-beda-mialy-problem",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/15/ceny-paliw-150926-ratio-3x2-1.jpeg"
-      },
-      {
-        "title": "Czy drogi, czy tani – nikt już nie chce kabrioletów. Serduszko mi przez to krwawi",
-        "url": "https://zero.pl/news/dlaczego-rynek-kabrioletow-umiera-porownanie-mazda-mx-5-kontra-mercedes-amg-cle-53",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/10/portal-rodzik-6-ratio-3x2-1.png"
-      },
-      {
-        "title": "Jak stracić szybko dużo pieniędzy? Kupić jeden z tych samochodów",
-        "url": "https://zero.pl/news/absurdalnie-wycenione-nowe-samochody-czyli-liderzy-utraty-wartosci-przeglad-rynku",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/04/exlantix_et8l-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Wiceszef prokuratury stracił prawko. Zboralski o pijackim rajdzie śledczego",
-        "url": "https://zero.pl/news/policja-zatrzymala-pijanego-prokuratora-na-motocyklu-komentarz-lukasza-zboralskiego",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/09/1-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Masz samochód z USA – policja zabierze ci dowód. Chodzi o jeden mały brak",
-        "url": "https://zero.pl/news/policja-egzekwuje-bardzo-malo-znany-przepis-wlasciciele-aut-z-usa-w-slabej-sytuacji",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/04/dodge-charger-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "12 punktów za sprawdzenie telefonu pod światłami to nie kara, tylko represja",
-        "url": "https://zero.pl/news/12-punktow-karnych-za-dotkniecie-telefonu-zero-za-dotykanie-ekranu-prawo-do-zmiany",
-        "fetchedAt": "2026-09-17T17:40:05.386Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/04/telefon-w-aucie-ratio-3x1-1.jpg"
       },
       {
         "title": "Spędził 5 lat w łagrze. „Nie było takiego momentu, żebym się poddał”",
@@ -4882,87 +4960,149 @@
         "url": "https://zero.pl/news/rozmowa-gawryluk-ze-stanowskim-co-powiedziala-o-mediach-i-wolnosci",
         "fetchedAt": "2026-09-15T07:54:42.649Z",
         "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/09/ognicho-stan-dorota-gawryluk-tv-extended-v2-ratio-3x1-3.png"
-      },
-      {
-        "title": "Plastik w odwrocie, będzie drożej. Unia robi rewolucję w opakowaniach warzyw i owoców",
-        "url": "https://zero.pl/news/ue-zmienia-zasady-pakowania-warzyw-i-owocow-co-to-oznacza-dla-naszych-portfeli",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/08/en_01656283_0017-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Co z podwyżkami emerytur? Oto prognozy waloryzacji na 2027 r.",
-        "url": "https://zero.pl/news/waloryzacja-emerytur-i-rent-2027-r-o-ile-wzrosna-swiadczenia-dla-seniorow",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/shutterstock_2756968727-1-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Czarne chmury nad portfelami Polaków. Nadchodzi bolesna podwyżka prądu",
-        "url": "https://zero.pl/news/rachunki-za-prad-wystrzela-znamy-czarny-scenariusz-ekspertow",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/en_01314396_6035-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Złoty traci do euro, dolara i funta. Aktualne kursy walut w piątek 11 września",
-        "url": "https://zero.pl/news/kursy-walut-nbp-11-wrzesnia-euro-dolar-frank-i-funt-ile-dzisiaj-kosztuja",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/shutterstock_2758083517-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Ten telefon jest jak iPhone, tylko z Androidem. A czy jest od niego lepszy?",
-        "url": "https://zero.pl/news/test-google-pixel-11-pro-tym-smartfonem-przeszkonasz-uzytkownika-iphonea-do-androida",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/google-pixel-11-pro-101-ratio-3x1-2.jpg"
-      },
-      {
-        "title": "Można kupić klawiaturę za 150 zł, można kupić za 1500 zł. Z czego wynika ta różnica?",
-        "url": "https://zero.pl/news/dobra-klawiatura-nie-musi-byc-droga-dlaczego-jedna-kosztuje-150-zl-a-inna-1500-zl",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/ceny-klawiatur-13-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "MON dementuje doniesienia o mobilizacji. Wyjaśnia, czym są karty mobilizacyjne",
-        "url": "https://zero.pl/news/karty-mobilizacyjne-w-polsce-mon-dementuje-falszywe-informacje-i-wyjasnia-procedury",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/11/pap_20260903_0z5-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Modlitwa za konających. Jak zmieniło się kino po 11 września?",
-        "url": "https://zero.pl/news/od-world-trade-center-przez-lot-93-po-mrocznego-rycerza-jak-11-wrzesnia-zmienil-kino",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/10/kino9-11-jedynka-desktop-ratio-3x1-2.png"
-      },
-      {
-        "title": "Ten jeden nawyk zmienił bieg ewolucji człowieka. Nowe odkrycie naukowców",
-        "url": "https://zero.pl/news/jak-chodzenie-od-piety-wplynelo-na-ewolucje-czlowieka-nowe-badania-pnas",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/09/shutterstock_2647315383-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Sprzęt ITD za miliony od miesięcy stoi popsuty. Naprawa kosztowałaby ułamek jego wartości",
-        "url": "https://zero.pl/news/mobilne-stacje-itd-stoja-popsute-naprawa-kosztowalaby-ulamek-ich-wartosci",
-        "fetchedAt": "2026-09-15T07:54:42.649Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/08/25/kasjan10-listing-ratio-3x2-1.png"
-      },
-      {
-        "title": "Dawid Kacprzyk znalazł pracę. Pojawiły się pierwsze „opinie”",
-        "url": "https://zero.pl/news/dawid-kacprzyk-wrocil-do-pracy-pierwsze-opinie",
-        "fetchedAt": "2026-09-14T18:44:47.431Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/14/red-5-ratio-3x2-1.png"
-      },
-      {
-        "title": "Kierwiński chce postawić Macierewicza przed sądem. Jest stanowcza odpowiedź",
-        "url": "https://zero.pl/news/marcin-kiewinski-zawiadamia-prokurature-ws-antoniego-macierewicza-posel-pis-odpowiada",
-        "fetchedAt": "2026-09-14T18:44:47.431Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/14/809039973_1851945003130526_7436443865248043260_n-ratio-3x2-1.jpg"
-      },
-      {
-        "title": "Znikające przeprosiny Cezarego Gmyza. Był w sporze z niemieckim wydawcą",
-        "url": "https://zero.pl/news/cezary-gmyz-przeprosil-rasp-niedlugo-pozniej-skasowal-wpis",
-        "fetchedAt": "2026-09-14T18:44:47.431Z",
-        "image": "https://cdn.zero.pl/cdn-cgi/image/w=1200,h=630,f=png,fit=cover,g=top/https://cdn.zero.pl/2026/09/14/1-1065087_m-ratio-3x2-1.jpg"
       }
     ],
     "onet": [
+      {
+        "title": "Wiceminister o słowach Donalda Tuska. \"Sytuacja jest coraz bardziej niebezpieczna\"",
+        "url": "https://wiadomosci.onet.pl/kraj/wiceminister-cyfryzacji-o-slowach-donalda-tuska-chodzi-o-zagrozenie-ze-strony-rosji/mj3l0ln",
+        "published": "2026-09-18T07:25:09.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/PiRk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yMmQ1NDI0ZWQzNDI5OTc5MjdiY2ZjNzVhZjFiYmI3YS5qcGeTlQPNA-jMw80Zv80OfJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
+      },
+      {
+        "title": "Ekstremalne upały zaatakują część Europy. W tych krajach będzie prawie 40 st. C",
+        "url": "https://wiadomosci.onet.pl/pogoda/silne-upaly-zaatakuja-czesc-europy-wiemy-gdzie-zar-bedzie-najwiekszy-mapy/vtwz7g8",
+        "published": "2026-09-18T07:10:39.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/UJNk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mYTRiOTE3Y2Q0NzJhZjEzNWU1ZjY3NzVjZmIxNmM0My5wbmeTlQMAAM0HgM0EOJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
+      },
+      {
+        "title": "\"Tajny raport z CIA\" dla Donalda Tuska. Prezydencki minister: kłamstwo",
+        "url": "https://wiadomosci.onet.pl/kraj/tajny-raport-z-cia-dla-donalda-tuska-prezydencki-minister-klamstwo/ct2hh29",
+        "published": "2026-09-18T06:54:06.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/luNk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hYmUxNGYzOGI3ODliZTRmODI1MmU5YmE2M2ZiMjIyNS5wbmeTlQMAAM0HgM0EOJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
+      },
+      {
+        "title": "Posiedzenie Sejmu | 18.09",
+        "url": "https://wiadomosci.onet.pl/kraj/posiedzenie-sejmu-or-1809/c82jln9",
+        "published": "2026-09-18T06:38:19.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/f6Dk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wMTg5MjhkYi03MTBhLTRhNGQtYjM0YS01YmNjMWFmNjA1ODguanBlZ5OVAwDMqc0VMM0L65MFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
+      },
+      {
+        "title": "\"To doprowadza Rosjan do szału\". Zdesperowana Moskwa zmienia strategię w Ukrainie. Obrała nowy cel",
+        "url": "https://wiadomosci.onet.pl/politico/to-doprowadza-ich-do-szalu-rosjanie-sa-zdesperowani-maja-nowy-cel-w-ukrainie/r55pmjt",
+        "published": "2026-09-18T06:15:28.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/KA0k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85MTFkZDkyYTkzMTA5NmQwYmFlYWU2OWRmY2JjNWEwMi5qcGeTlQMAzQH9zRMhzQrFkwXNCWDNBOyVB9mMaHR0cHM6Ly9jZG4ud2lhZG9tb3NjaS5vbmV0LnBsLzEvdWJwazlrN2FIUjBjSE02THk5alpHNHVkMmxoWkc5dGIzTmphUzV2Ym1WMExuQnNMMmx0Wnk5c2IyZHZYMjl1WlhSZmQybGhaRzl0YjNOamFTNXdibWVSbFFJQVpNUEQzZ0FDb1RBSG9URUUIwgDeAAKhMAehMQQ"
+      },
+      {
+        "title": "Prezydent USA chwali Karola Nawrockiego. Marszałek Sejmu reaguje. \"Chwała każdemu z nich\"",
+        "url": "https://wiadomosci.onet.pl/kraj/donald-trump-chwali-karola-nawrockiego-wlodzimierz-czarzasty-komentuje/eppm8r4",
+        "published": "2026-09-18T05:39:56.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/8hCk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mZjNmYzgzMTE1YmU1ZmRiOTk0M2I5ZTFkNzZmY2M4MS5wbmeTlQMAAM0HgM0EOJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
+      },
+      {
+        "title": "Szef BBN: informacje od szefa CIA przekazane prezydentowi Nawrockiemu",
+        "url": "https://wiadomosci.onet.pl/kraj/szef-bbn-informacje-od-szefa-cia-przekazane-prezydentowi-nawrockiemu/twd7djj",
+        "published": "2026-09-18T05:21:19.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/1hjk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iYzM3OGUxY2M3YWEwYWFmOTgwOThkODU5YjVkNmZjYi5qcGeTlQMAzQHpzRdwzQ0vkwXNCWDNBOyVB9mMaHR0cHM6Ly9jZG4ud2lhZG9tb3NjaS5vbmV0LnBsLzEvdWJwazlrN2FIUjBjSE02THk5alpHNHVkMmxoWkc5dGIzTmphUzV2Ym1WMExuQnNMMmx0Wnk5c2IyZHZYMjl1WlhSZmQybGhaRzl0YjNOamFTNXdibWVSbFFJQVpNUEQzZ0FDb1RBSG9URUUIwgDeAAKhMAehMQQ"
+      },
+      {
+        "title": "Poranny atak Rosji na Ukrainę. Myśliwce NATO pilnują polskiego nieba",
+        "url": "https://wiadomosci.onet.pl/swiat/poranny-atak-rosji-na-ukraine-mysliwce-nato-pilnuja-polskiego-nieba/gk2z1sg",
+        "published": "2026-09-18T05:19:53.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/76ik9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83NGU2ZDA5OWM4ZWU5Nzg3NDdiMDNkZDRjMjIwNjgyYS5qcGeTlQMAas0NMs0HbJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
+      },
+      {
+        "title": "Zbigniew Bogucki o stałej bazie wojsk USA w Polsce. \"Najbliżej w historii\"",
+        "url": "https://wiadomosci.onet.pl/kraj/zbigniew-bogucki-o-stalej-bazie-wojsk-usa-w-polsce-najblizej-w-historii/xvyp72x",
+        "published": "2026-09-18T05:19:12.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/bfPk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lNGVkZWIwNjU1Y2IwZGQxNDg0M2U0OTE4OTIwY2FlYy5qcGeTlQMAzIvNEYDNCdiTBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA"
+      },
+      {
+        "title": "Polska na progu nagłego zwrotu w pogodzie. Na fali zimna się nie skończy [MAPY]",
+        "url": "https://wiadomosci.onet.pl/pogoda/powazne-tapniecie-pogody-coraz-blizej-poczatek-juz-za-kilka-dni-mapy/shscvs5",
+        "published": "2026-09-18T05:07:50.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/LJ5k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82ZWFhYjYwMzkxMjFmNzkzMTExOGE4NDY1YTBjZGRmMS5wbmeTlQMAAM0HgM0EOJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
+      },
+      {
+        "title": "Wybuch na poligonie w Szwecji. Pięciu żołnierzy jest w stanie ciężkim",
+        "url": "https://wiadomosci.onet.pl/swiat/wybuch-na-poligonie-w-szwecji-pieciu-zolnierzy-jest-w-stanie-ciezkim/pdr3123",
+        "published": "2026-09-18T04:56:30.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/7jek9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wZmE2NTY4YjUwZTJmN2FjM2I4ZGZmMzNkYjcwMThiYy5qcGeTlQMAzQJyzQQ4zQJgkwXNCWDNBOyVB9mMaHR0cHM6Ly9jZG4ud2lhZG9tb3NjaS5vbmV0LnBsLzEvdWJwazlrN2FIUjBjSE02THk5alpHNHVkMmxoWkc5dGIzTmphUzV2Ym1WMExuQnNMMmx0Wnk5c2IyZHZYMjl1WlhSZmQybGhaRzl0YjNOamFTNXdibWVSbFFJQVpNUEQzZ0FDb1RBSG9URUUIwgDeAAKhMAehMQQ"
+      },
+      {
+        "title": "Media ujawniają możliwe plany Donalda Trumpa w sprawie Wenezueli. \"Może przyspieszyć zmiany\"",
+        "url": "https://wiadomosci.onet.pl/swiat/prezydent-usa-donald-trump-spotka-sie-wladzami-wenezueli-doniesienia-mediow/w3evp8s",
+        "published": "2026-09-18T04:54:08.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/vHik9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84MzA0OTYyMjFmNzk0MzhiMjI1YmU5MmI0Mzc2YTU5MS5qcGeTlQMAZc0NfM0HlZMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
+      },
+      {
+        "title": "Jak powstał i skąd się wziął Księżyc? Ta misja to o może być \"nowy rozdział w rozumieniu Układu Słonecznego\"",
+        "url": "https://wiadomosci.onet.pl/swiat/kluczowa-misja-w-badaniu-ksiezyca-nowy-rozdzial-w-rozumieniu-ukladu-slonecznego/zlm9b19",
+        "published": "2026-09-18T04:25:49.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/Dbrk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMGYwMzFkZjBjYmI3MTNmNTU3MDdjM2YwMWM2MDdkYi5qcGeTlQMAzQE7zQu7zQaZkwXNCWDNBOyVB9mMaHR0cHM6Ly9jZG4ud2lhZG9tb3NjaS5vbmV0LnBsLzEvdWJwazlrN2FIUjBjSE02THk5alpHNHVkMmxoWkc5dGIzTmphUzV2Ym1WMExuQnNMMmx0Wnk5c2IyZHZYMjl1WlhSZmQybGhaRzl0YjNOamFTNXdibWVSbFFJQVpNUEQzZ0FDb1RBSG9URUUIwgDeAAKhMAehMQQ"
+      },
+      {
+        "title": "Stała baza USA w Polsce coraz bliżej. Ważny krok Donalda Trumpa. Podsumowanie nocy",
+        "url": "https://wiadomosci.onet.pl/swiat/stala-usa-w-polsce-coraz-blizej-wazny-krok-donalda-trumpa-podsumowanie-nocy/96mgr27",
+        "published": "2026-09-18T04:09:27.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/bask9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNTFlMGZmOC1kMjM0LTQ1ZGEtOTYxMi01NGNmYmRlOTI0ZDQuanBlZ5OVAwDNAlzNFrDNDMOTBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA"
+      },
+      {
+        "title": "Nie miał kursów, nie znał języka, nie dowodził batalionem. Kim jest płk Biryłko, dowódca, który zawiódł szeregową Maję",
+        "url": "https://wiadomosci.onet.pl/tylko-w-onecie/miala-mowic-o-molestowaniu-dowodca-nazwal-to-destabilizacja-brygady-zaskakujaca/w3dnmp1",
+        "published": "2026-09-18T03:41:00.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/kMvk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jM2Q4MTk4MzgyYjg3ZjBkNTBiYzU0NDNhZTIyNWE3My5wbmeTlQMAAM0HgM0EOJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
+      },
+      {
+        "title": "Polacy zabrali głos w sprawie przyszłości Zbigniewa Ziobry w PiS. Wyniki są jednoznaczne",
+        "url": "https://wiadomosci.onet.pl/kraj/polacy-ocenili-przyszlosc-zbigniewa-ziobry-w-pis-sa-wyniki-sondazu/5k7pwlm",
+        "published": "2026-09-18T03:30:00.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/RdBk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81ZWY1MjNkY2E5YzBhNDI0ZGZmMTZmMWE5NDk4MDRlZC5qcGeTlQMAzIvNB9DNBGWTBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA"
+      },
+      {
+        "title": "Zielona Góra. Prognoza pogody w dniu 18.09.2026",
+        "url": "https://wiadomosci.onet.pl/lubuskie/zielona-gora-prognoza-pogody-w-dniu-18092026/whggmht",
+        "published": "2026-09-18T03:05:24.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/7Yqk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmY5ZWI3MjU4MWMyZDkwNWZkNTk5MjkyZGQyYzBhZi5qcGeSkwXNCWDNBOyVB9mMaHR0cHM6Ly9jZG4ud2lhZG9tb3NjaS5vbmV0LnBsLzEvdWJwazlrN2FIUjBjSE02THk5alpHNHVkMmxoWkc5dGIzTmphUzV2Ym1WMExuQnNMMmx0Wnk5c2IyZHZYMjl1WlhSZmQybGhaRzl0YjNOamFTNXdibWVSbFFJQVpNUEQzZ0FDb1RBSG9URUUIwgDeAAKhMAehMQQ"
+      },
+      {
+        "title": "Wrocław - 18.09.2026. Jaka będzie pogoda w mieście?",
+        "url": "https://wiadomosci.onet.pl/wroclaw/wroclaw-prognoza-pogody-w-dniu-18092026/kfkgg62",
+        "published": "2026-09-18T03:05:16.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/SV6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNTk5YTBkZTgxNjFlYTI0ZGQxYjZjMzMyZWZkYTMwMi5qcGeSkwXNCWDNBOyVB9mMaHR0cHM6Ly9jZG4ud2lhZG9tb3NjaS5vbmV0LnBsLzEvdWJwazlrN2FIUjBjSE02THk5alpHNHVkMmxoWkc5dGIzTmphUzV2Ym1WMExuQnNMMmx0Wnk5c2IyZHZYMjl1WlhSZmQybGhaRzl0YjNOamFTNXdibWVSbFFJQVpNUEQzZ0FDb1RBSG9URUUIwgDeAAKhMAehMQQ"
+      },
+      {
+        "title": "Warszawa - 18.09.2026. Pogoda na dziś",
+        "url": "https://wiadomosci.onet.pl/warszawa/warszawa-prognoza-pogody-w-dniu-18092026/pjyve5j",
+        "published": "2026-09-18T03:05:04.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/OFZk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OGYzMDkwZjdiYWM1OTg1YzMyMDRkOGI3NTU4YjkxMS5qcGeSkwXNCWDNBOyVB9mMaHR0cHM6Ly9jZG4ud2lhZG9tb3NjaS5vbmV0LnBsLzEvdWJwazlrN2FIUjBjSE02THk5alpHNHVkMmxoWkc5dGIzTmphUzV2Ym1WMExuQnNMMmx0Wnk5c2IyZHZYMjl1WlhSZmQybGhaRzl0YjNOamFTNXdibWVSbFFJQVpNUEQzZ0FDb1RBSG9URUUIwgDeAAKhMAehMQQ"
+      },
+      {
+        "title": "Rzeszów - jakiej pogody możemy się spodziewać 18.09.2026?",
+        "url": "https://wiadomosci.onet.pl/rzeszow/rzeszow-prognoza-pogody-w-dniu-18092026/z1hyzqt",
+        "published": "2026-09-18T03:05:01.000Z",
+        "fetchedAt": "2026-09-18T07:29:48.560Z",
+        "image": "https://cdn.wiadomosci.onet.pl/1/OFZk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OGYzMDkwZjdiYWM1OTg1YzMyMDRkOGI3NTU4YjkxMS5qcGeSkwXNCWDNBOyVB9mMaHR0cHM6Ly9jZG4ud2lhZG9tb3NjaS5vbmV0LnBsLzEvdWJwazlrN2FIUjBjSE02THk5alpHNHVkMmxoWkc5dGIzTmphUzV2Ym1WMExuQnNMMmx0Wnk5c2IyZHZYMjl1WlhSZmQybGhaRzl0YjNOamFTNXdibWVSbFFJQVpNUEQzZ0FDb1RBSG9URUUIwgDeAAKhMAehMQQ"
+      },
       {
         "title": "Na rosyjskich uczelniach krążą \"czarne listy\" z nazwiskami naukowców. FSB masowo wzywa ich na rozmowy",
         "url": "https://wiadomosci.onet.pl/swiat/czarne-listy-rosyjskich-naukowcow-fsb-masowo-wzywa-ich-na-przesluchania/29fpnqp",
@@ -5872,146 +6012,6 @@
         "published": "2026-09-14T14:59:15.000Z",
         "fetchedAt": "2026-09-14T18:44:47.431Z",
         "image": "https://cdn.wiadomosci.onet.pl/1/ioJk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85MDFkMjFhN2FjZTE5NjRkODRmNzY2NmExODMyMjEyNi5wbmeTlQMAAM0HgM0EOJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "Leśkiewicz: Nie można wykluczyć zwołania RBN po rosyjskim ataku przy granicy",
-        "url": "https://wiadomosci.onet.pl/kraj/rzecznik-prezydenta-o-rosyjskim-ataku-nie-mozna-wykluczyc-posiedzenia-rbn/5ch80pg",
-        "published": "2026-09-14T07:52:45.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/JXik9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jMjIyNTg1YzRmODRkMmQ3ZDExNWYzNmQ4YWM5YjQ5YS5qcGeTlQMAes0PSc0ImZMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "Filmy z brawurowej akcji USA w Iranie. Pentagon odtajnił nagrania",
-        "url": "https://wiadomosci.onet.pl/swiat/pentagon-odtajnil-nagrania-z-ratunku-amerykanskich-pilotow-w-iranie/36f444f",
-        "published": "2026-09-14T07:46:56.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/amYk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83NDI1NWNlMDFkZTAxMGVjMzIzZDc0ZjZjN2Q2ZWYwOS5qcGeTlQMAAM0HgM0EOJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "To już potwierdzone — Putinowi rozpaczliwie brakuje żołnierzy. Pozostało mu jedno ryzykowne rozwiązanie [OPINIA]",
-        "url": "https://wiadomosci.onet.pl/swiat/putin-sciaga-na-siebie-katastrofe-powinien-uwazac-jakie-wnioski-wyciaga-z-historii/3ypw8td",
-        "published": "2026-09-14T07:46:50.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/CZOk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mODE4ODJiOWI1OGEzMzJkOWVhZDY4ZDc2ODAyY2RlNS5qcGeTlQMAHs0HWM0EIZMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "USA mają nową propozycję dla Iranu. Chodzi o uran",
-        "url": "https://wiadomosci.onet.pl/swiat/usa-z-nowa-propozycja-dla-iranu-chodzi-o-energie-jadrowa/8tmdeqd",
-        "published": "2026-09-14T07:33:29.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/fEuk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xNjVjNjIzOTZmZjBlYjM5YjEzM2Q1YzU0MDFiNWYzZS5qcGeTlQMAzLrNHOjNEEKTBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA"
-      },
-      {
-        "title": "Rosja zapowiada nowe kroki w Kaliningradzie. Ważny sygnał dla Polski",
-        "url": "https://wiadomosci.onet.pl/kraj/rosja-zapowiada-nowe-kroki-w-krolewcu-wazny-sygnal-dla-polski/jey76df",
-        "published": "2026-09-14T07:31:16.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/dkYk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jZGFjMzk1YzY2OTQ1ODk0MjdjZjk3ZWQzNzEzOGU1OC5wbmeTlQMNAM0Elc0ClJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "Krzysztof Śmiszek atakuje prezydenta Karola Nawrockiego. Powodem dożynki. \"Błagam\"",
-        "url": "https://wiadomosci.onet.pl/kraj/krzysztof-smiszek-z-lewicy-atakuje-karola-nawrockiego-poszlo-o-dozynki/z2w7f2n",
-        "published": "2026-09-14T07:30:49.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/qP7k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xZDUzZjVmYmJhY2FkNjhmOWZlNGVlOWM3Nzk3ZjRiNy5qcGeTlQMCzQE7zRU9zQv0kwXNCWDNBOyVB9mMaHR0cHM6Ly9jZG4ud2lhZG9tb3NjaS5vbmV0LnBsLzEvdWJwazlrN2FIUjBjSE02THk5alpHNHVkMmxoWkc5dGIzTmphUzV2Ym1WMExuQnNMMmx0Wnk5c2IyZHZYMjl1WlhSZmQybGhaRzl0YjNOamFTNXdibWVSbFFJQVpNUEQzZ0FDb1RBSG9URUUIwgDeAAKhMAehMQQ"
-      },
-      {
-        "title": "Maria Zacharowa uderza w Radosława Sikorskiego. \"Rusofobia mózgu\"",
-        "url": "https://wiadomosci.onet.pl/kraj/maria-zacharowa-uderza-w-radoslawa-sikorskiego-rusofobia-mozgu/lb3lghb",
-        "published": "2026-09-14T07:27:41.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/k97k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yMDM1NjJkY2UzZDYzYmU5YmNkMmJkZDAzNzAyMjE4Yy5wbmeTlQMAAM0HgM0EOJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "Wiceminister obrony o raporcie CIA ostrzegającym Polskę. \"To nie są ćwiczenia\"",
-        "url": "https://wiadomosci.onet.pl/kraj/rosyjskie-ataki-przy-polskiej-granicy-wiceszef-mon-to-nie-sa-cwiczenia/zf72xkd",
-        "published": "2026-09-14T07:23:12.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/fCnk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jYjlkY2QxYTMwNGYwYzQ2NzY1YTI4MGMwOWYzNjA4Mi5qcGeTlQMAzIrNEVnNCcKTBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA"
-      },
-      {
-        "title": "Ciało kobiety przy molo w Kołobrzegu. Dryfowało w wodzie",
-        "url": "https://wiadomosci.onet.pl/szczecin/cialo-kobiety-przy-molo-w-kolobrzegu-dryfowalo-w-wodzie/wtdpv32",
-        "published": "2026-09-14T07:10:43.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/y4jk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82NWM3ZGU3ODg5ZTc5NzdjZmU0MWJlNDdkOTMzZGRjMi5qcGeTlQPNATXNA-HNFOLNC76TBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA"
-      },
-      {
-        "title": "Wystarczyło kilka miesięcy. Rosjanie przekształcili puste pola w nowoczesną bazę",
-        "url": "https://wiadomosci.onet.pl/swiat/rosja-szykuje-nowa-niebezpieczna-strategie-w-kilka-miesiecy-powstala-nowa-baza/69232hv",
-        "published": "2026-09-14T07:02:02.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/TtTk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lNzk1NmE3YmNkYTk4ZTBjNTJjZjNmNzAzNzE3ZjRkOS5qcGeTlQMAAM0HgM0EOJMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "Karol Nawrocki milczy po atakach dronów przy granicy. Skupił się na dożynkach",
-        "url": "https://wiadomosci.onet.pl/kraj/drony-zaatakowaly-przy-polskiej-granicy-nawrocki-skupil-sie-na-dozynkach/tf5yp7k",
-        "published": "2026-09-14T06:38:39.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/Wu3k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82NmRiMTE4ZDEzMzM3YzQ2NGRmY2YzNWIyOWIyMWJlMS5qcGeTlQMAQM0ICc0EhZMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "Polacy krytycznie o działaniach rządu po aferze w Szpitalu Południowym. Nowy sondaż",
-        "url": "https://wiadomosci.onet.pl/kraj/afera-w-szpitalu-poludniowym-polacy-nie-wierza-w-dzialania-rzadu-sondaz/94ctxqh",
-        "published": "2026-09-14T05:43:01.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/zE5k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wZGZlNzFkZTIyZWI5YzI5MGQ2ZmJhMjhhMDE4ZTg0Zi5qcGeTlQMAT80H0M0EZZMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "Gen. Nowak: rosyjska rakieta na 80 proc. była wymierzona w Polskę",
-        "url": "https://wiadomosci.onet.pl/kraj/gen-nowak-rosyjska-rakieta-byla-wymierzona-w-polske/zcyd39l",
-        "published": "2026-09-14T05:15:23.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/wSWk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kNTNhM2VmMWY1ZDllMmQ4NTg2YzZlN2VhM2MxYWIzYy5qcGeTlQMAzJ_NE-DNCy6TBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA"
-      },
-      {
-        "title": "Sądny dzień dla Radosława Piesiewicza. Zarząd PKOl wybierze jego następcę",
-        "url": "https://wiadomosci.onet.pl/kraj/afera-zondacrypto-wstrzasnela-pkol-rusza-wybor-nowego-prezesa-w-warszawie/9dqjnvs",
-        "published": "2026-09-14T04:50:15.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/OKNk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMGE4N2MxYjM5NDk1MGRmNjMzODc2NzVkNjExYTdmNC5qcGeTlQMAPs0H0M0EZZMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "Polacy coraz bardziej przeciwni najmowi krótkoterminowemu. Jasne deklaracje [SONDAŻ]",
-        "url": "https://wiadomosci.onet.pl/kraj/ponad-polowa-polakow-za-zakazem-najmu-krotkoterminowego-nowy-sondaz/gms5z5l",
-        "published": "2026-09-14T04:39:19.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/HlHk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kMzhjOTI2MDQxZjI4MGIyODc4OWZjMGQwYjFjYjFiMi5qcGeTlQMCAM0XLM0NC5MFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "AlphaGenome zmienia medycynę. Sztuczna inteligencja pozwoli tworzyć nowe DNA",
-        "url": "https://wiadomosci.onet.pl/swiat/sztuczna-inteligencja-deepmind-zmienia-podejscie-do-naprawy-dna/espbsnc",
-        "published": "2026-09-14T04:22:56.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/r_8k9lCaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNzI5MWMxNjEwZTdlMTNmMzE0Mzc3MDgxNjFhODFhZS5qcGVnk5UDGADNAm7NAV6TBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA"
-      },
-      {
-        "title": "Chcieli odwołać wójta w referendum. Od 34 lat pracuje w samorządzie",
-        "url": "https://wiadomosci.onet.pl/lubuskie/chcieli-odwolac-wojta-w-referendum-od-34-lat-pracuje-w-samorzadzie/thznk9g",
-        "published": "2026-09-14T03:55:45.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/zHok9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kZTE5NWZjNmMxZmIxZTkxZTNlMmNjMTg1ZmQ0NDlhZi5qcGeTlQMAzKLNCADNBICTBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA"
-      },
-      {
-        "title": "Korea Północna testuje nową broń. Odpowiedź na ćwiczenia z udziałem USA",
-        "url": "https://wiadomosci.onet.pl/swiat/rezim-kim-dzong-una-pokazuje-sile-testowal-rakiety-i-drony/c4fjvc2",
-        "published": "2026-09-14T03:53:37.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/pmuk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iZWI0YzY1MDM5ZTMwNzJiZWJiYjMyMGU3ZDdiOTQ0Ny5qcGeTlQMAUc0H0M0EZZMFzQlgzQTslQfZjGh0dHBzOi8vY2RuLndpYWRvbW9zY2kub25ldC5wbC8xL3VicGs5azdhSFIwY0hNNkx5OWpaRzR1ZDJsaFpHOXRiM05qYVM1dmJtVjBMbkJzTDJsdFp5OXNiMmR2WDI5dVpYUmZkMmxoWkc5dGIzTmphUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE"
-      },
-      {
-        "title": "Wybory do Riksdagu w Szwecji \"na żyletki\". Podsumowanie nocy",
-        "url": "https://wiadomosci.onet.pl/swiat/emocje-w-szwecji-wybory-do-riksdagu-na-zyletki-podsumowanie-nocy/fbghqd9",
-        "published": "2026-09-14T03:44:36.000Z",
-        "fetchedAt": "2026-09-14T07:59:22.402Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/gFSk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hNWExMWVmZGMxZmM2MjliZTRmZjk1NzM2MzE3OGZiYS5qcGeTlQMAzKLNB9DNBGWTBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA"
-      },
-      {
-        "title": "Nowe zasady na przejściach granicznych. Premier Tusk zapowiada",
-        "url": "https://wiadomosci.onet.pl/kraj/specjalny-charakter-pracy-na-przejsciach-granicznych-donald-tusk-zapowiada-zmiany/2sm0r7m",
-        "published": "2026-09-13T16:43:37.000Z",
-        "fetchedAt": "2026-09-13T16:59:29.935Z",
-        "image": "https://cdn.wiadomosci.onet.pl/1/xbEk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84YjBlMWQ0MDQ1NDM1MWZiYjk3ZWEyM2ZlNDEwNmM1YS5qcGeTlQMAzMHNGDDNDZuTBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA"
       }
     ]
   }
