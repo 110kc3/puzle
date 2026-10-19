@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "description": "Wykop czy Wyborcza? — codzienna zagadka: zgadnij, kto opublikował ten nagłówek",
+  "description": "Wykop czy Wyborcza? — archiwalny quiz o języku polskich mediów i interaktywne portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -57,7 +57,7 @@ export default function InfinitePage() {
     return (
       <div className="py-12 text-center">
         <p className="text-sm">
-          Rozegrałeś wszystkie dostępne nagłówki 🏁 Świeże wpadają codziennie.
+          Zachowana kolekcja ukończona: {pool.items.length} nagłówków 🏁
         </p>
         <button
           type="button"
@@ -103,8 +103,8 @@ export default function InfinitePage() {
 
   return (
     <div>
-      <p className="text-center text-xs uppercase tracking-widest text-stone-500 dark:text-zinc-400">
-        Bez limitu
+      <h1 className="text-center text-xs uppercase tracking-widest text-stone-500 dark:text-zinc-400">
+        Losowe nagłówki · zapisany zbiór
         {session.plays > 0 && (
           <>
             {' '}
@@ -112,7 +112,7 @@ export default function InfinitePage() {
             {plural(session.plays, 'trafienie', 'trafienia', 'trafień')}
           </>
         )}
-      </p>
+      </h1>
 
       <figure className="my-6 rounded-2xl bg-white p-6 shadow-sm dark:bg-zinc-900">
         <blockquote className="text-balance font-serif text-2xl leading-snug">

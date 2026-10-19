@@ -1,89 +1,96 @@
 # Wykop czy Wyborcza?
 
-Prawdziwe nagłówki z polskich mediów, bez podpisu. Zgadnij, kto to
-opublikował — Gazeta Wyborcza, Wykop, TV Republika, Fakt, Zero.pl czy Onet.
-Po odpowiedzi: źródło, zdjęcie z artykułu, link do oryginału i pozycja
-redakcji na umownej osi lewica↔prawica (obok twojego strzału).
+**An archived, playable experiment in the language of Polish media.** Remove the
+logo from a real headline and guess its source: Gazeta Wyborcza, Wykop,
+TV Republika, Fakt, Zero.pl or Onet.
 
-Dwa tryby: **∞ Bez limitu** (losowe nagłówki z ostatnich dni, graj ile
-chcesz — strona główna) i **📅 Codzienna** (jedna wspólna zagadka dziennie,
-seria 🔥, porównanie z innymi, wynik do udostępnienia).
+[Play / portfolio](https://110kc3.github.io/puzle/) ·
+[Puzzle archive](https://110kc3.github.io/puzle/#/archiwum) ·
+[Project status](TODO.md)
 
-Live: https://110kc3.github.io/puzle/ · Roadmap: [TODO.md](TODO.md)
+![The portfolio landing page, with newspaper typography and links to the playable collection](docs/portfolio.png)
 
-## How it works
+## Preserved as a portfolio
 
-- **Static SPA** (Vite + React + Tailwind) on GitHub Pages. Each day's puzzle
-  is a JSON file in `public/puzzles/`, committed by a scheduled GitHub Action.
-- **Gathering**: `npm run gather` pulls recent headlines from all six
-  outlets into `data/candidates.json` (RSS for Wyborcza/Wykop/Fakt/Onet,
-  HTML scrapes for TV Republika and Zero.pl, which have no feeds), enriches new
-  entries with the article's `og:image`, and regenerates the endless-mode
-  pool `public/puzzles/pool.json` (~300 obfuscated mini-puzzles, interleaved
-  across outlets, minus anything queued or already used as a daily). Runs
-  automatically twice a day.
-- **Curation (the weekly 10 minutes)**: skim `data/candidates.json`, copy the
-  best ~7 picks into `data/queue.json` — exact title, `outlet` id, article
-  `url`, optional `note` shown after the reveal. Ambiguous headlines make the
-  best puzzles; the Action turns red when the queue runs dry.
-- **Publishing**: `npm run publish:daily` pops the queue head and writes
-  `public/puzzles/<today>.json` (Europe/Warsaw). The answer, source URL and
-  article image are XOR-obfuscated so DevTools doesn't spoil the game (repo
-  readers can still spoil themselves — same honor system as Wordle's word
-  list).
-- **Global stats** (optional): a tiny Cloudflare Worker + D1 counts guesses —
-  see [worker/README.md](worker/README.md). Without it the game simply skips
-  the "tak odpowiadali inni" section. When the outlet cast grows, bump
-  `NUM_CHOICES` in `worker/src/index.ts` and redeploy.
+The original project combined a Wordle-style daily puzzle with an endless mode.
+As of **19 October 2026**, it is a static portfolio and playable archive:
 
-## Repo map
+- **56 published puzzles**, dated 6 July–18 September 2026, grouped by month.
+- **300 saved headlines** in random mode, with a restart after the pool is exhausted.
+- Source attribution, article links, keyboard controls and local progress remain.
+- A new editorial landing page explains the idea, interaction and architecture.
+- No scheduled gathering, publishing, queue maintenance or external stats service.
 
-```
-config/outlets.ts     the cast: names, colors, giveaway words, bias (oś mediów)
-scripts/              pipeline: adapters.ts (per-outlet fetchers), gather.ts, publish.ts
-data/                 candidates.json (gathered), queue.json (curated), published.json (log)
-public/puzzles/       served data: <date>.json, index.json, pool.json (endless mode)
-src/                  the SPA: lib/ (pure logic, unit-tested), components/
-worker/               Cloudflare Worker + D1 for global guess distribution
-.github/workflows/    daily.yml (gather+publish+deploy), deploy.yml (Pages)
-```
+The twice-daily `Daily puzzle` Action was failing on an empty curation queue and
+producing repeated failure emails. It was disabled on GitHub and its workflow
+removed. The only remaining Action tests, builds and deploys Pages on a push to
+`main` or a manual dispatch. There are no recurring jobs. The repository stays
+writable so the portfolio can still be maintained; it is not GitHub's read-only
+repository archive setting.
+
+Existing `#/d/YYYY-MM-DD` links still work. The old `#/dzienna` route opens the
+last published puzzle without fetching a nonexistent puzzle for today. The home
+route now presents the project; random play is at `#/gra`. Saved browser progress
+uses the original storage key. Historical streaks are retained; archive play does
+not extend them. Sharing an archive result links directly to that puzzle.
+
+## Design and architecture
+
+**Interaction:** six possible sources, a single choice, then a reveal with the
+source, original article link, optional image and an approximate media axis.
+The axis is an editorial interpretation, not an objective political measure.
+Wykop headlines are user-submitted link titles.
+
+**Data:** the original Node/TypeScript pipeline gathered RSS and HTML headlines,
+enriched them with article images and prepared a manually curated daily queue.
+Answers and URLs use XOR/base64 obfuscation to avoid accidental spoilers; this is
+not encryption. Puzzle-specific source ordering preserves older four-source games.
+
+**Delivery:** React 19, TypeScript, Vite and Tailwind CSS on GitHub Pages.
+Gameplay uses committed JSON and browser storage. Remote article links and images
+may age; broken images disappear without preventing play. No article bodies are
+stored. No account, backend or Cloudflare deployment is required.
 
 ## Development
 
+Use **Node 22** (the same major version as Actions).
+
 ```sh
-npm install
+npm ci
 npm run dev        # http://localhost:5173/puzle/
-npm test           # vitest: date keying, obfuscation, streaks, share text, outlet config
+npm test -- --reporter=dot
 npm run typecheck
-npm run gather     # fetch candidates + og:images, regenerate endless pool
-npm run publish:daily            # publish today's puzzle from the queue
-WCW_DATE=2026-07-08 npm run publish:daily   # publish for another date (testing)
+npm run build
+npm run preview    # preview the production build
 ```
 
-## Verified sources (2026-07)
+Tests cover dates, obfuscation, streaks, share text, outlet configuration and the
+integrity of every archived puzzle and random-pool reveal. The completed archive
+conversion was also checked in Chromium at desktop, tablet and 320/375px mobile
+widths, in light/dark themes, with remote images blocked.
 
-| Outlet | Source |
+## Repository map
+
+| Path | Purpose |
 | --- | --- |
-| Gazeta Wyborcza | RSS `https://wyborcza.pl/pub/rss/najnowsze_wyborcza.xml` (ISO-8859-2) |
-| Wykop | RSS `https://wykop.pl/rss` (titles of user-submitted znaleziska) |
-| Fakt | RSS `https://www.fakt.pl/rss` |
-| TV Republika | no RSS — homepage scrape (`article-*__link` teasers); Google News RSS as last resort |
-| Zero.pl | no RSS/wp-json — homepage scrape (`/news/…` anchors, headline in `aria-label`) |
-| Onet | RSS `https://wiadomosci.onet.pl/rss` |
+| `src/components/ShowcasePage.tsx` | Portfolio landing page |
+| `src/components/ArchivePage.tsx` | Monthly archive |
+| `src/components/InfinitePage.tsx` | Random play from the frozen pool |
+| `src/lib/collection.ts` | Archive dates and entries derived from the saved index |
+| `public/puzzles/` | Published puzzles, index and random pool |
+| `config/outlets.ts` | Source identities, colors and approximate media positions |
+| `scripts/`, `data/` | Historical gathering/publishing tooling and curation data |
+| `worker/` | Historical optional statistics service; disconnected from the portfolio |
+| `.github/workflows/deploy.yml` | Test, typecheck, build and deploy on change |
 
-Adapters live in `scripts/adapters.ts`; the outlet cast (names, colors,
-giveaway words) in `config/outlets.ts`.
+## Maintenance
 
-## One-time setup after pushing
+Pages must use **GitHub Actions** as its source. Push to `main` or manually run
+`Deploy Pages` to update the portfolio. No daily ritual is required.
 
-1. **Pages**: repo Settings → Pages → Source: **GitHub Actions**.
-2. **First deploy**: push to `main` (or run the "Deploy Pages" workflow).
-3. **Daily pipeline**: nothing to do — `daily.yml` runs at 02:30/13:30 UTC.
-   Its commits keep the schedule from GitHub's 60-day auto-disable.
-4. **Stats worker** (optional): follow [worker/README.md](worker/README.md),
-   then `gh variable set VITE_STATS_URL --body "https://…workers.dev"`.
-
-## Legal note
-
-Headlines are quoted verbatim with attribution and a link to the original
-article (right of quotation); no article bodies are stored or reproduced.
+The original `npm run gather` and `npm run publish:daily` commands remain for
+historical reference and deliberate local use. They mutate the saved collection;
+do not run them as part of routine portfolio upkeep. There is no active content
+queue. Original, unselected expansion ideas are preserved in [TODO.md](TODO.md).
+The Cloudflare code and original setup notes remain in [worker/README.md](worker/README.md);
+no existing Cloudflare resources were modified or deleted.

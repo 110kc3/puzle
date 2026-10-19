@@ -1,4 +1,44 @@
-# TODO / pomysły na rozwój
+# Project status / current queue
+
+## Current decision — 2026-10-19
+
+Preserve this project as an attractive, playable portfolio archive. Stop recurring
+content jobs and their failure emails; no new daily puzzles or growth work.
+This request supersedes the historical roadmap below.
+
+## Archive conversion
+
+- Implemented: editorial portfolio landing page, responsive light/dark layout,
+  monthly puzzle archive, saved random pool and direct result links.
+- Implemented: no current-day fetch, countdown or promises of fresh content;
+  historical daily links open the latest saved puzzle, and old progress survives.
+- Implemented: frontend no longer contacts the optional statistics Worker.
+- GitHub `Daily puzzle` workflow disabled manually on 2026-10-19; scheduled
+  workflow removed from source. Latest observed failure was run `39219357147`,
+  on commit `c3bf9a306c061bed1cee262f979bdb3837f180d6`: empty curation queue.
+- Local verification (Node 22): 27 tests pass, including every one of the 56
+  archive and 300 pool reveals; TypeScript and production build pass. Chromium
+  checks cover desktop/mobile (320/375/768px), light/dark layouts, both game
+  modes, saved results after reload, legacy daily links, missing-date recovery,
+  exhausted-pool restart, modal keyboard behavior and no stats-service requests.
+  Remote images were blocked to exercise the graceful fallback. Preview captured
+  in `docs/portfolio.png`; social card exported to `public/og-image.png`.
+- Push/Pages verification: pending. After the implementation push, inspect the
+  matching commit once next session; do not wait for Actions after pushing.
+  [Branch Actions](https://github.com/110kc3/puzle/actions?query=branch%3Amain).
+
+Next accepted task: verify the pushed Pages deployment and hosted portfolio once.
+No further feature backlog is accepted. No owner-only setup is currently known.
+Keep the GitHub repository writable for occasional maintenance; do not enable the
+read-only archive setting or restore scheduled publishing without a new decision.
+
+---
+
+# Historical ideas — deferred, not an active queue
+
+The following is preserved from the live-game phase for context. Its checkboxes
+are unselected ideas and old setup notes, not instructions to implement them.
+The empty-queue history describes the former publishing model, now retired.
 
 ## Przed startem (odhaczyć raz)
 

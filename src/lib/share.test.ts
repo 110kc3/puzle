@@ -12,6 +12,12 @@ describe('shareText', () => {
   it('marks wins green', () => {
     expect(shareText(1, true, 5)).toContain('🟩 trafione');
   });
+  it('shares an archived puzzle with a direct link and no live streak', () => {
+    const text = shareText(75, true, undefined, '2026-09-18');
+    expect(text).toContain('archiwum');
+    expect(text).toContain('/puzle/#/d/2026-09-18');
+    expect(text).not.toContain('seria:');
+  });
 });
 
 describe('plural', () => {

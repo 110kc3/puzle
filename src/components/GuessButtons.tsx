@@ -16,6 +16,8 @@ export default function GuessButtons({ options, answer, guess, onGuess }: Props)
   // Keyboard shortcuts 1–N.
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
+      if (e.ctrlKey || e.metaKey || e.altKey || document.querySelector('[role="dialog"]')) return;
+      if (e.target instanceof HTMLElement && (e.target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName))) return;
       const n = Number(e.key);
       if (n >= 1 && n <= options.length) onGuess(n - 1);
     };

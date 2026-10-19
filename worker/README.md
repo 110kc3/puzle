@@ -1,9 +1,14 @@
-# wcw-stats worker
+# wcw-stats worker (historical)
+
+The portfolio frontend no longer calls this service, and the Pages workflow no
+longer passes `VITE_STATS_URL`. No Worker or D1 deployment is needed to play.
+The source and original setup instructions below are preserved for reference;
+restoring stats requires reconnecting the frontend client and build variable.
+Existing Cloudflare resources have not been deleted or modified.
 
 Counts everyone's guesses per day so the game can show the "tak odpowiadali
 inni" distribution. Cloudflare Workers + D1, fits comfortably in the free
-tier. The game works fine without it — the frontend silently skips the
-distribution when `VITE_STATS_URL` is unset or the worker is unreachable.
+tier. The original live frontend skipped the distribution when the service was unavailable.
 
 ## One-time deploy
 

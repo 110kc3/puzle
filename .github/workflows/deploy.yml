@@ -5,7 +5,6 @@ name: Deploy Pages
 on:
   push:
     branches: [main]
-  workflow_call:
   workflow_dispatch:
 
 permissions:
@@ -26,18 +25,15 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
-          ref: main # workflow_call from daily.yml must build the just-pushed puzzle commit
+          ref: ${{ github.sha }}
       - uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm test
+      - run: npm test -- --reporter=dot
+      - run: npm run typecheck
       - run: npm run build
-        env:
-          # Optional: repo variable pointing at the deployed stats worker,
-          # e.g. https://wcw-stats.<account>.workers.dev
-          VITE_STATS_URL: ${{ vars.VITE_STATS_URL }}
       - uses: actions/configure-pages@v6
         with:
           # Self-heal if Pages ever gets disabled (e.g. after a spell of repo

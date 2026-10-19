@@ -1,8 +1,10 @@
 export const SITE_URL = 'https://110kc3.github.io/puzle/';
 
-export function shareText(id: number, correct: boolean, streak: number): string {
+export function shareText(id: number, correct: boolean, streak?: number, date?: string): string {
   const line = correct ? '🟩 trafione' : '🟥 pudło';
-  return `Wykop czy Wyborcza? #${id}\n${line} · seria: ${streak}\n${SITE_URL}`;
+  const detail = streak === undefined ? 'archiwum' : `seria: ${streak}`;
+  const url = date ? `${SITE_URL}#/d/${date}` : SITE_URL;
+  return `Wykop czy Wyborcza? #${id}\n${line} · ${detail}\n${url}`;
 }
 
 /** Polish plural: plural(5, 'głos', 'głosy', 'głosów') → 'głosów' */
