@@ -23,11 +23,23 @@ This request supersedes the historical roadmap below.
   exhausted-pool restart, modal keyboard behavior and no stats-service requests.
   Remote images were blocked to exercise the graceful fallback. Preview captured
   in `docs/portfolio.png`; social card exported to `public/og-image.png`.
-- Push/Pages verification: pending. After the implementation push, inspect the
-  matching commit once next session; do not wait for Actions after pushing.
+- Hosted verification passed on 2026-10-19 for implementation commit `d865101`:
+  https://110kc3.github.io/puzle/ serves its exact production JS bundle.
+  All 59 hosted puzzle/index/pool/social-card files match the local collection
+  byte for byte. Chromium checks passed against the public site for landing,
+  both game modes, reload persistence, old daily links, missing-date recovery,
+  exhausted-pool restart, modal keyboard behavior, 320/375/768px layouts and
+  light/dark themes, with external images blocked and no statistics requests.
+- GitHub now lists only `Deploy Pages`; its source has push/manual triggers and
+  no schedule. The removed daily pipeline cannot generate scheduled failures.
+- The one-time Actions lookup for `d865101` observed
+  [run 39220937600](https://github.com/110kc3/puzle/actions/runs/39220937600)
+  in progress. Subsequent hosted checks independently verified the deployed
+  app as described above. This documentation-only closeout push will have its
+  own unobserved Actions run; check it once at the next maintenance session.
   [Branch Actions](https://github.com/110kc3/puzle/actions?query=branch%3Amain).
 
-Next accepted task: verify the pushed Pages deployment and hosted portfolio once.
+Archive conversion complete; no accepted implementation tasks remain.
 No further feature backlog is accepted. No owner-only setup is currently known.
 Keep the GitHub repository writable for occasional maintenance; do not enable the
 read-only archive setting or restore scheduled publishing without a new decision.
